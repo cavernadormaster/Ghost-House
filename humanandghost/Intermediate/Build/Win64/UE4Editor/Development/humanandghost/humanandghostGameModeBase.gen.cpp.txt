@@ -1,0 +1,9 @@
+C:\Users\ra00297356\Documents\Unreal Projects\humanandghost\Intermediate\Build\Win64\UE4Editor\Development\humanandghost\Definitions.humanandghost.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ra00297356\Documents\Unreal Projects\humanandghost\Source\humanandghost/humanandghostGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ra00297356\Documents\Unreal Projects\humanandghost\Intermediate\Build\Win64\UE4Editor\Inc\humanandghost\humanandghostGameModeBase.generated.h
