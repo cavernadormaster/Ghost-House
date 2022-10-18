@@ -4471,3 +4471,213 @@ Make sure 'TriggerBox3_Blueprint_C' has been compiled for  Get boxtrigger
 [2022.10.18-13.44.56:220][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2022.10.18-13.44.56:263][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
 [2022.10.18-13.44.56:296][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.18-13.46.59:877][886]BlueprintLog: New page: Compile Human
+[2022.10.18-13.46.59:967][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.10.18-13.47.00:543][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Human" FILE="../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset" SILENT=true
+[2022.10.18-13.47.00:576][910]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/HumanB461FD93469150A861C04F93939AC542.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset'
+[2022.10.18-13.47.00:592][910]AssetCheck: New page: Asset Save: Human
+[2022.10.18-13.47.00:592][910]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Human.Human
+[2022.10.18-13.47.04:463][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.10.18-13.47.04:477][143]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Tester63F7DB834D90D4405B68ACA3DB670BDE.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Tester.umap'
+[2022.10.18-13.47.04:484][143]LogFileHelpers: Saving map 'Tester' took 0.060
+[2022.10.18-13.47.04:501][143]AssetCheck: New page: Asset Save: Tester
+[2022.10.18-13.47.04:501][143]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Tester.Tester
+[2022.10.18-13.47.14:708][737]BlueprintLog: New page: Compile Tester
+[2022.10.18-13.47.14:767][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.10.18-13.47.37:810][124]BlueprintLog: New page: Compile Ghost
+[2022.10.18-13.47.37:921][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.10.18-13.47.54:845][110]BlueprintLog: New page: Compile Ghost
+[2022.10.18-13.47.54:927][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.10.18-13.48.18:927][622]BlueprintLog: New page: Compile Ghost
+[2022.10.18-13.48.19:019][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.10.18-13.48.19:711][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Ghost" FILE="../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset" SILENT=true
+[2022.10.18-13.48.19:744][654]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/GhostDA935C3745CFA1477BEBD0BBF6F4F078.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset'
+[2022.10.18-13.48.19:763][654]AssetCheck: New page: Asset Save: Ghost
+[2022.10.18-13.48.19:763][654]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Ghost.Ghost
+[2022.10.18-13.48.21:776][795]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.18-13.48.21:782][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-13.48.21:782][795]PIE: New page: PIE session: Tester (Oct 18, 2022, 7:48:21 AM)
+[2022.10.18-13.48.21:808][795]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.18-13.48.21:811][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003174s)
+[2022.10.18-13.48.21:812][795]LogAIModule: Creating AISystem for world Tester
+[2022.10.18-13.48.21:813][795]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2022.10.18-13.48.21:813][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Tester.Tester to /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester (0.004522s)
+[2022.10.18-13.48.21:851][795]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2022.10.18-13.48.21:852][795]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2022.10.18-13.48.21:852][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-13.48.21:852][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-13.48.21:852][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-13.48.21:852][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-13.48.21:852][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-13.48.21:852][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.18-13.48.21:852][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-13.48.21:852][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-13.48.21:853][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-13.48.21:853][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-13.48.21:853][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-13.48.21:853][795]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.18-13.48.21:858][795]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.18-13.48.21:858][795]LogAudioMixer: Display: 1: FrontRight
+[2022.10.18-13.48.21:889][795]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.18-13.48.21:889][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-13.48.21:889][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-13.48.21:889][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-13.48.21:890][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.18-13.48.21:890][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.18-13.48.21:890][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.18-13.48.21:891][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.18-13.48.21:891][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.18-13.48.21:891][795]LogInit: FAudioDevice initialized.
+[2022.10.18-13.48.21:891][795]LogAudio: Display: Audio Device (ID: 56) registered with world 'Tester'.
+[2022.10.18-13.48.21:898][795]LogLoad: Game class is 'My_GameMode_C'
+[2022.10.18-13.48.21:901][795]LogWorld: Bringing World /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2022.10.18-10.48.21
+[2022.10.18-13.48.21:901][795]LogWorld: Bringing up level for play took: 0.002058
+[2022.10.18-13.48.21:901][795]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2022.10.18-13.48.21:904][795]PIE: Server logged in
+[2022.10.18-13.48.21:905][795]PIE: Play in editor total start time 0.123 seconds.
+[2022.10.18-13.48.38:880][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-13.48.38:880][589]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.18-13.48.38:880][589]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-13.48.38:881][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-13.48.38:917][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-13.48.38:936][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-13.48.38:970][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-13.48.38:970][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.18-13.48.38:972][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.18-13.48.38:980][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.10.18-13.48.39:034][590]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2022.10.18-13.48.44:154][958]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2022.10.18-13.49.53:336][321]BlueprintLog: New page: Compile Tester
+[2022.10.18-13.49.53:399][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.10.18-13.49.54:162][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.10.18-13.49.54:177][363]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/TesterFD890C3243AE31E215E17292F3C88060.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Tester.umap'
+[2022.10.18-13.49.54:183][363]LogFileHelpers: Saving map 'Tester' took 0.059
+[2022.10.18-13.49.54:199][363]AssetCheck: New page: Asset Save: Tester
+[2022.10.18-13.49.54:199][363]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Tester.Tester
+[2022.10.18-13.49.56:282][509]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.18-13.49.56:288][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-13.49.56:289][509]PIE: New page: PIE session: Tester (Oct 18, 2022, 7:49:56 AM)
+[2022.10.18-13.49.56:308][509]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.18-13.49.56:312][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003150s)
+[2022.10.18-13.49.56:312][509]LogAIModule: Creating AISystem for world Tester
+[2022.10.18-13.49.56:313][509]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2022.10.18-13.49.56:313][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Tester.Tester to /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester (0.004392s)
+[2022.10.18-13.49.56:350][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.10.18-13.49.56:351][509]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2022.10.18-13.49.56:351][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-13.49.56:351][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-13.49.56:351][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-13.49.56:351][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-13.49.56:351][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-13.49.56:351][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.18-13.49.56:351][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-13.49.56:351][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-13.49.56:351][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-13.49.56:352][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-13.49.56:352][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-13.49.56:352][509]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.18-13.49.56:354][509]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.18-13.49.56:354][509]LogAudioMixer: Display: 1: FrontRight
+[2022.10.18-13.49.56:376][509]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.18-13.49.56:376][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-13.49.56:376][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-13.49.56:376][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-13.49.56:377][509]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.18-13.49.56:377][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.18-13.49.56:377][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.18-13.49.56:378][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.18-13.49.56:378][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.18-13.49.56:378][509]LogInit: FAudioDevice initialized.
+[2022.10.18-13.49.56:378][509]LogAudio: Display: Audio Device (ID: 57) registered with world 'Tester'.
+[2022.10.18-13.49.56:388][509]LogLoad: Game class is 'My_GameMode_C'
+[2022.10.18-13.49.56:390][509]LogWorld: Bringing World /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2022.10.18-10.49.56
+[2022.10.18-13.49.56:391][509]LogWorld: Bringing up level for play took: 0.001813
+[2022.10.18-13.49.56:391][509]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2022.10.18-13.49.56:393][509]PIE: Server logged in
+[2022.10.18-13.49.56:394][509]PIE: Play in editor total start time 0.107 seconds.
+[2022.10.18-13.50.35:409][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-13.50.35:409][672]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.18-13.50.35:410][672]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-13.50.35:410][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-13.50.35:446][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-13.50.35:474][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-13.50.35:509][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-13.50.35:509][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.18-13.50.35:511][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.18-13.50.35:519][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.10.18-13.50.35:582][673]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2022.10.18-13.50.40:579][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.18-13.50.40:585][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-13.50.40:585][ 43]PIE: New page: PIE session: Tester (Oct 18, 2022, 7:50:40 AM)
+[2022.10.18-13.50.40:585][ 43]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.18-13.50.40:589][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003193s)
+[2022.10.18-13.50.40:590][ 43]LogAIModule: Creating AISystem for world Tester
+[2022.10.18-13.50.40:590][ 43]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2022.10.18-13.50.40:590][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Tester.Tester to /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester (0.004466s)
+[2022.10.18-13.50.40:625][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.10.18-13.50.40:628][ 43]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2022.10.18-13.50.40:628][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-13.50.40:628][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-13.50.40:628][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-13.50.40:628][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-13.50.40:628][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-13.50.40:628][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.18-13.50.40:628][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-13.50.40:628][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-13.50.40:628][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-13.50.40:628][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-13.50.40:629][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-13.50.40:629][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.18-13.50.40:631][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.18-13.50.40:631][ 43]LogAudioMixer: Display: 1: FrontRight
+[2022.10.18-13.50.40:652][ 43]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.18-13.50.40:652][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-13.50.40:652][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-13.50.40:652][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-13.50.40:653][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.18-13.50.40:653][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.18-13.50.40:653][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.18-13.50.40:654][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.18-13.50.40:654][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.18-13.50.40:654][ 43]LogInit: FAudioDevice initialized.
+[2022.10.18-13.50.40:654][ 43]LogAudio: Display: Audio Device (ID: 58) registered with world 'Tester'.
+[2022.10.18-13.50.40:665][ 43]LogLoad: Game class is 'My_GameMode_C'
+[2022.10.18-13.50.40:667][ 43]LogWorld: Bringing World /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2022.10.18-10.50.40
+[2022.10.18-13.50.40:668][ 43]LogWorld: Bringing up level for play took: 0.001748
+[2022.10.18-13.50.40:668][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2022.10.18-13.50.40:670][ 43]PIE: Server logged in
+[2022.10.18-13.50.40:671][ 43]PIE: Play in editor total start time 0.086 seconds.
+[2022.10.18-13.50.46:746][681]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.10.18-13.50.48:659][877]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.10.18-13.51.02:510][362]LogScript: Warning: Accessed None trying to read property Player
+	Cone_C /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester:PersistentLevel.Cone2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:010A
+[2022.10.18-13.51.02:510][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.10.18-13.51.05:936][720]LogScript: Warning: Accessed None trying to read property Player
+	Cone_C /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester:PersistentLevel.Cone2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:022A
+[2022.10.18-13.51.05:936][720]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.10.18-13.51.06:919][823]LogScript: Warning: Accessed None trying to read property Player
+	Cone_C /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester:PersistentLevel.Cone2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:010A
+[2022.10.18-13.51.06:920][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.10.18-13.51.08:856][ 25]LogScript: Warning: Accessed None trying to read property Player
+	Cone_C /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester:PersistentLevel.Cone2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:022A
+[2022.10.18-13.51.08:856][ 25]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.10.18-13.51.20:682][280]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.10.18-13.51.26:009][838]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.10.18-13.51.26:650][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-13.51.26:650][901]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.18-13.51.26:650][901]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-13.51.26:650][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-13.51.26:668][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-13.51.26:691][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-13.51.26:727][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-13.51.26:727][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.18-13.51.26:728][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.18-13.51.26:736][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.18-13.51.26:890][902]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.10.18-13.51.30:730][126]LogSlate: Window 'Message Log' being destroyed
+[2022.10.18-13.51.30:753][126]LogSlate: Window 'Message Log' being destroyed
+[2022.10.18-13.51.31:788][202]LogEditorViewport: Clicking on Actor (LMB): Cone_C (Cone2)
