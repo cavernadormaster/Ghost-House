@@ -5750,3 +5750,11 @@ Make sure 'TriggerBox3_Blueprint_C' has been compiled for  Get boxtrigger
 [2022.10.19-11.50.11:724][  7]AssetCheck: New page: Asset Save: Tester
 [2022.10.19-11.50.11:725][  7]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Tester.Tester
 [2022.10.19-11.50.12:749][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.19-11.55.53:071][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.10.19-11.55.53:405][400]LogFileManager: Warning: DeleteFile recovered during retry!
+[2022.10.19-11.56.45:500][677]BlueprintLog: New page: Compile Ghost
+[2022.10.19-11.56.45:587][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.10.19-11.56.46:432][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Ghost" FILE="../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset" SILENT=true
+[2022.10.19-11.56.46:469][721]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Ghost379580EC4EFA0C5C3014FB9A1ED6BB63.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset'
+[2022.10.19-11.56.46:486][721]AssetCheck: New page: Asset Save: Ghost
+[2022.10.19-11.56.46:486][721]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Ghost.Ghost
