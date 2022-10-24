@@ -1261,3 +1261,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.24-21.06.17:457][682]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Menu1BC27F0540CD2C2513279A97D7D6CBC1.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/MenuPrincipal/Menu.uasset'
 [2022.10.24-21.06.17:472][682]AssetCheck: New page: Asset Save: Menu
 [2022.10.24-21.06.17:472][682]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyModifications/Level/MenuPrincipal/Menu.Menu
+[2022.10.24-21.07.24:958][558]LogSlate: Window 'Menu' being destroyed
+[2022.10.24-21.07.24:962][558]LogSlate: Window 'Menu' being destroyed
+[2022.10.24-21.07.24:976][558]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-21.07.24:976][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-21.07.24:987][558]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-21.07.24:987][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-21.07.28:056][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.10.24-21.07.28:061][901]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/MenuPrincipal1351DB6443D6C045AC7AC4B23178FF25.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/MenuPrincipal/MenuPrincipal.umap'
+[2022.10.24-21.07.28:098][901]AssetCheck: New page: Asset Save: MenuPrincipal
+[2022.10.24-21.07.28:098][901]LogContentValidation: Display: Validating World /Game/MyModifications/Level/MenuPrincipal/MenuPrincipal.MenuPrincipal
+[2022.10.24-21.07.29:656][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
