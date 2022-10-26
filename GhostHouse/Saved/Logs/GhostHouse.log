@@ -6616,3 +6616,377 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.26-13.28.23:179][858]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/TesterD348708A4BC5697D3A1722B7991EF84C.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Tester.umap'
 [2022.10.26-13.28.23:204][858]AssetCheck: New page: Asset Save: Tester
 [2022.10.26-13.28.23:204][858]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Tester.Tester
+[2022.10.26-13.31.27:536][534]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.26-13.31.27:545][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-13.31.27:545][534]PIE: New page: PIE session: Tester (Oct 26, 2022, 7:31:27 AM)
+[2022.10.26-13.31.27:581][534]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.26-13.31.27:585][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004266s)
+[2022.10.26-13.31.27:587][534]LogAIModule: Creating AISystem for world Tester
+[2022.10.26-13.31.27:587][534]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2022.10.26-13.31.27:587][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Tester.Tester to /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester (0.006087s)
+[2022.10.26-13.31.27:621][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.10.26-13.31.27:624][534]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.10.26-13.31.27:624][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-13.31.27:624][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-13.31.27:624][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-13.31.27:624][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-13.31.27:624][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-13.31.27:624][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.26-13.31.27:624][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-13.31.27:624][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-13.31.27:625][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-13.31.27:625][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-13.31.27:625][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-13.31.27:625][534]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.26-13.31.27:629][534]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-13.31.27:629][534]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-13.31.27:654][534]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.26-13.31.27:654][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-13.31.27:654][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-13.31.27:654][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-13.31.27:656][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.26-13.31.27:656][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.26-13.31.27:656][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.26-13.31.27:658][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.26-13.31.27:658][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.26-13.31.27:658][534]LogInit: FAudioDevice initialized.
+[2022.10.26-13.31.27:658][534]LogAudio: Display: Audio Device (ID: 14) registered with world 'Tester'.
+[2022.10.26-13.31.27:666][534]LogLoad: Game class is 'My_GameMode_C'
+[2022.10.26-13.31.27:669][534]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester:PersistentLevel.Human_3.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0271
+[2022.10.26-13.31.27:669][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.10.26-13.31.27:670][534]LogWorld: Bringing World /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2022.10.26-10.31.27
+[2022.10.26-13.31.27:670][534]LogWorld: Bringing up level for play took: 0.002941
+[2022.10.26-13.31.27:671][534]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.10.26-13.31.27:674][534]PIE: Server logged in
+[2022.10.26-13.31.27:675][534]PIE: Play in editor total start time 0.131 seconds.
+[2022.10.26-13.31.33:996][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.10.26-13.31.39:167][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.10.26-13.31.42:352][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-13.31.42:353][309]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.26-13.31.42:353][309]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-13.31.42:354][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-13.31.42:366][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-13.31.42:379][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-13.31.42:407][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-13.31.42:408][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-13.31.42:409][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-13.31.42:425][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.26-13.31.42:569][310]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.10.26-13.32.02:025][936]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-13.32.02:064][936]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-13.33.28:165][971]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.26-13.33.28:172][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-13.33.28:172][971]PIE: New page: PIE session: Tester (Oct 26, 2022, 7:33:28 AM)
+[2022.10.26-13.33.28:173][971]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.26-13.33.28:178][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005567s)
+[2022.10.26-13.33.28:179][971]LogAIModule: Creating AISystem for world Tester
+[2022.10.26-13.33.28:180][971]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2022.10.26-13.33.28:180][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Tester.Tester to /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester (0.007329s)
+[2022.10.26-13.33.28:215][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.26-13.33.28:218][971]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.10.26-13.33.28:218][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-13.33.28:218][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-13.33.28:219][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-13.33.28:219][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-13.33.28:219][971]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-13.33.28:219][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.26-13.33.28:219][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-13.33.28:219][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-13.33.28:220][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-13.33.28:220][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-13.33.28:220][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-13.33.28:220][971]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.26-13.33.28:224][971]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-13.33.28:224][971]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-13.33.28:247][971]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.26-13.33.28:248][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-13.33.28:248][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-13.33.28:248][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-13.33.28:249][971]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.26-13.33.28:249][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.26-13.33.28:249][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.26-13.33.28:250][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.26-13.33.28:250][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.26-13.33.28:251][971]LogInit: FAudioDevice initialized.
+[2022.10.26-13.33.28:251][971]LogAudio: Display: Audio Device (ID: 15) registered with world 'Tester'.
+[2022.10.26-13.33.28:262][971]LogLoad: Game class is 'My_GameMode_C'
+[2022.10.26-13.33.28:265][971]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester:PersistentLevel.Human_3.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0271
+[2022.10.26-13.33.28:265][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.10.26-13.33.28:266][971]LogWorld: Bringing World /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2022.10.26-10.33.28
+[2022.10.26-13.33.28:266][971]LogWorld: Bringing up level for play took: 0.002874
+[2022.10.26-13.33.28:266][971]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.10.26-13.33.28:269][971]PIE: Server logged in
+[2022.10.26-13.33.28:270][971]PIE: Play in editor total start time 0.1 seconds.
+[2022.10.26-13.33.32:373][241]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:391][242]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:403][243]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:417][244]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:435][245]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:452][246]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:466][247]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:484][248]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:497][249]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:515][250]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:529][251]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:546][252]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:559][253]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:573][254]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:586][255]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:603][256]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:616][257]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:634][258]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:648][259]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:665][260]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:678][261]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:691][262]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:711][263]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:723][264]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:741][265]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:758][266]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:772][267]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:787][268]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:801][269]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:815][270]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:829][271]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:841][272]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:860][273]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:877][274]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:892][275]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:908][276]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:921][277]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:933][278]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:951][279]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:970][280]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.32:985][281]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:001][282]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:017][283]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:033][284]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:050][285]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:064][286]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:082][287]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:096][288]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:108][289]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:128][290]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:145][291]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:157][292]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:176][293]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:188][294]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:206][295]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:219][296]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:237][297]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:250][298]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:268][299]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:281][300]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:299][301]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:313][302]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:330][303]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:344][304]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:362][305]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:375][306]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:388][307]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:407][308]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:423][309]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:437][310]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:454][311]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:467][312]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:481][313]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:499][314]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:516][315]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:530][316]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:542][317]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:561][318]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:573][319]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:592][320]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:610][321]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:622][322]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:641][323]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:653][324]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:671][325]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:684][326]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:702][327]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:716][328]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:733][329]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:747][330]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:764][331]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:777][332]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:790][333]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:809][334]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:826][335]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:840][336]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:857][337]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:870][338]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:888][339]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:901][340]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:918][341]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:932][342]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:945][343]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:963][344]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:976][345]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.33:989][346]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:002][347]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:019][348]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:037][349]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:050][350]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:068][351]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:082][352]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:099][353]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:112][354]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:125][355]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:145][356]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:157][357]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:175][358]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:193][359]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:206][360]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:224][361]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:237][362]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:249][363]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:268][364]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:285][365]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:299][366]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:317][367]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:330][368]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:348][369]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:362][370]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:374][371]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:393][372]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:410][373]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:423][374]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:440][375]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:452][376]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:470][377]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:483][378]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:502][379]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:514][380]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:532][381]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:545][382]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:563][383]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:576][384]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:593][385]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:606][386]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:623][387]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:635][388]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:648][389]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:665][390]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:684][391]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:697][392]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:715][393]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:728][394]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:740][395]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:758][396]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:776][397]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:789][398]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:805][399]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:817][400]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:836][401]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:848][402]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:866][403]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:879][404]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:897][405]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:910][406]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:921][407]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:941][408]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:957][409]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:969][410]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.34:987][411]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.35:000][412]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.35:018][413]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.35:032][414]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.35:049][415]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.10.26-13.33.41:041][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.10.26-13.33.44:239][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.10.26-13.33.52:776][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.10.26-13.33.55:415][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.10.26-13.33.59:880][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.10.26-13.34.01:743][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-13.34.01:743][172]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.26-13.34.01:743][172]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-13.34.01:744][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-13.34.01:785][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-13.34.01:797][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-13.34.01:827][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-13.34.01:827][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-13.34.01:828][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-13.34.01:848][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.26-13.34.01:973][173]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.10.26-13.34.04:661][294]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-13.34.04:696][294]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-13.34.28:686][427]LogEditorViewport: Clicking on Actor (LMB): Cone_C (Cone3)
+[2022.10.26-13.34.57:015][767]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.26-13.34.57:022][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-13.34.57:022][767]PIE: New page: PIE session: Tester (Oct 26, 2022, 7:34:57 AM)
+[2022.10.26-13.34.57:022][767]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.26-13.34.57:027][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004623s)
+[2022.10.26-13.34.57:028][767]LogAIModule: Creating AISystem for world Tester
+[2022.10.26-13.34.57:028][767]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2022.10.26-13.34.57:028][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Tester.Tester to /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester (0.006213s)
+[2022.10.26-13.34.57:060][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.10.26-13.34.57:064][767]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.10.26-13.34.57:065][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-13.34.57:065][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-13.34.57:065][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-13.34.57:065][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-13.34.57:065][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-13.34.57:065][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.26-13.34.57:065][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-13.34.57:065][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-13.34.57:065][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-13.34.57:066][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-13.34.57:066][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-13.34.57:066][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.26-13.34.57:069][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-13.34.57:069][767]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-13.34.57:107][767]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.26-13.34.57:107][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-13.34.57:107][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-13.34.57:108][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-13.34.57:108][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.26-13.34.57:108][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.26-13.34.57:108][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.26-13.34.57:110][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.26-13.34.57:110][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.26-13.34.57:110][767]LogInit: FAudioDevice initialized.
+[2022.10.26-13.34.57:110][767]LogAudio: Display: Audio Device (ID: 16) registered with world 'Tester'.
+[2022.10.26-13.34.57:118][767]LogLoad: Game class is 'My_GameMode_C'
+[2022.10.26-13.34.57:121][767]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester:PersistentLevel.Human_3.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0271
+[2022.10.26-13.34.57:121][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.10.26-13.34.57:122][767]LogWorld: Bringing World /Game/MyModifications/characterTest/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2022.10.26-10.34.57
+[2022.10.26-13.34.57:123][767]LogWorld: Bringing up level for play took: 0.003875
+[2022.10.26-13.34.57:123][767]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.10.26-13.34.57:126][767]PIE: Server logged in
+[2022.10.26-13.34.57:127][767]PIE: Play in editor total start time 0.107 seconds.
+[2022.10.26-13.35.04:176][174]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.10.26-13.35.07:792][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-13.35.07:792][385]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/UEDPIE_0_Tester
+[2022.10.26-13.35.07:793][385]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-13.35.07:793][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-13.35.07:807][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-13.35.07:817][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-13.35.07:844][385]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-13.35.07:845][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-13.35.07:846][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-13.35.07:849][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-13.35.07:853][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.10.26-13.35.07:965][386]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.10.26-13.35.09:727][460]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-13.35.09:755][460]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-13.39.22:266][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.26-13.39.22:288][164]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Tester_Auto53E4BC9C34ACA15949D72C283974F4C7D.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/characterTest/Tester_Auto5.umap'
+[2022.10.26-13.39.22:289][164]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/characterTest/Tester' took 0.058
+[2022.10.26-13.39.22:289][164]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.10.26-13.43.05:102][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.26-13.43.06:504][479]LogSlate: Window 'Save Content' being destroyed
+[2022.10.26-13.43.06:558][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.26-13.43.06:575][479]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Tester25BD2D7349B535CCE4C59B89FFDFCA5E.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Tester.umap'
+[2022.10.26-13.43.06:583][479]LogFileHelpers: Saving map 'Tester' took 0.052
+[2022.10.26-13.43.06:596][479]AssetCheck: New page: Asset Save: Tester
+[2022.10.26-13.43.06:596][479]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Tester.Tester
+[2022.10.26-13.43.08:360][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.26-13.43.08:378][558]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/TesterBD0A27E0458A65EE64BE40BEA1619EA4.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Tester.umap'
+[2022.10.26-13.43.08:405][558]AssetCheck: New page: Asset Save: Tester
+[2022.10.26-13.43.08:405][558]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Tester.Tester
