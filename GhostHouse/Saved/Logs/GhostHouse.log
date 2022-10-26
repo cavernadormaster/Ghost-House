@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 10/26/22 08:20:49
+=======
+﻿Log file open, 10/26/22 08:12:15
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +14,11 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: GhostHouse
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.253833
+=======
+LogStats: Stats thread started at 0.261737
+>>>>>>> Stashed changes
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
@@ -19,16 +27,24 @@ LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
+<<<<<<< Updated upstream
+=======
+LogPluginManager: Mounting plugin LightPropagationVolume
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin OodleNetwork
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AnimationSharing
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin DataValidation
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GeometryMode
@@ -72,19 +88,62 @@ LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosNiagara
+=======
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+=======
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
@@ -101,22 +160,40 @@ LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin ScreenshotTools
+=======
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
-LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
+=======
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin Takes
+=======
+LogPluginManager: Mounting plugin ScreenshotTools
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
@@ -133,8 +210,33 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin WebMMoviePlayer
+=======
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
@@ -142,7 +244,6 @@ LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
-PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.1.1
@@ -164,6 +265,7 @@ LogInit:  - BufferSize = 65536
 LogOnline: OSS: Creating online subsystem instance for: NULL
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogOculusPluginWrapper: OculusPlugin initialized successfully
 LogHMD: Failed initializing OVRPlugin 1.59.0
 LogInit: Build: ++UE4+Release-4.27-CL-18319896
@@ -210,7 +312,11 @@ LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+<<<<<<< Updated upstream
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+>>>>>>> Stashed changes
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -228,6 +334,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2022.10.26-11.20.50:055][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.10.26-11.20.50:055][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.10.26-11.20.50:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
@@ -14786,3 +14893,1460 @@ Ghost
 [2022.10.26-12.18.46:111][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
 [2022.10.26-12.18.46:150][542]LogPlayLevel: Display: Destroying online subsystem :Context_56
 [2022.10.26-12.18.48:675][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+=======
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.10.26-11.12.16:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.10.26-11.12.16:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.10.26-11.12.16:123][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.10.26-11.12.16:129][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:129][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.26-11.12.16:129][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.26-11.12.16:129][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:129][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.26-11.12.16:129][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:129][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.26-11.12.16:129][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.26-11.12.16:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.26-11.12.16:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.26-11.12.16:131][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.26-11.12.16:131][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.26-11.12.16:131][  0]LogHAL: Display: Platform has ~ 16 GB [17119158272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.26-11.12.16:131][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2022.10.26-11.12.16:131][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.10.26-11.12.16:132][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.10.26-11.12.16:132][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Config/Windows/Editor.ini]
+[2022.10.26-11.12.16:133][  0]LogInit: Computer: D-090850
+[2022.10.26-11.12.16:133][  0]LogInit: User: ra00297251
+[2022.10.26-11.12.16:133][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.26-11.12.16:133][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.26-11.12.16:133][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.26-11.12.16:133][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.26-11.12.16:133][  0]LogMemory: Process Physical Memory: 143.60 MB used, 143.61 MB peak
+[2022.10.26-11.12.16:133][  0]LogMemory: Process Virtual Memory: 113.41 MB used, 113.41 MB peak
+[2022.10.26-11.12.16:133][  0]LogMemory: Physical Memory: 7049.01 MB used,  9277.09 MB free, 16326.10 MB total
+[2022.10.26-11.12.16:133][  0]LogMemory: Virtual Memory: 134207120.00 MB used,  10606.88 MB free, 134217728.00 MB total
+[2022.10.26-11.12.16:138][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.26-11.12.16:179][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.26-11.12.16:179][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.10.26-11.12.16:179][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.10.26-11.12.16:393][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.26-11.12.16:409][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.26-11.12.16:424][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.26-11.12.16:424][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.26-11.12.16:573][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.10.26-11.12.16:576][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.26-11.12.16:576][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.26-11.12.16:576][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.26-11.12.16:576][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.26-11.12.16:670][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2022.10.26-11.12.16:670][  0]LogD3D11RHI:       4053/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 745
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     DeviceId    : 1382
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     SubSysId    : 106510de
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     Revision    : 00a2
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     DedicatedVideoMemory : 4250271744 bytes
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     SharedSystemMemory : 8559579136 bytes
+[2022.10.26-11.12.16:673][  0]LogD3D11RHI:     AdapterLuid : 0 45815
+[2022.10.26-11.12.16:678][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.26-11.12.16:678][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.26-11.12.16:678][  0]LogWindows: EnumDisplayDevices:
+[2022.10.26-11.12.16:678][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2022.10.26-11.12.16:678][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2022.10.26-11.12.16:679][  0]LogWindows:    2. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2022.10.26-11.12.16:679][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.10.26-11.12.16:679][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 745
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     DeviceId    : 1382
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     SubSysId    : 106510de
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     Revision    : 00a2
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     DedicatedVideoMemory : 4250271744 bytes
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     SharedSystemMemory : 8559579136 bytes
+[2022.10.26-11.12.16:679][  0]LogD3D11RHI:     AdapterLuid : 0 45815
+[2022.10.26-11.12.16:737][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.26-11.12.16:738][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.26-11.12.16:757][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.26-11.12.16:807][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.10.26-11.12.17:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.26-11.12.17:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.26-11.12.17:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.26-11.12.17:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.26-11.12.17:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.26-11.12.17:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.26-11.12.17:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.26-11.12.17:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.26-11.12.17:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.26-11.12.17:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.26-11.12.17:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.26-11.12.17:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.26-11.12.17:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.26-11.12.17:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.10.26-11.12.17:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.10.26-11.12.17:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.10.26-11.12.17:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.10.26-11.12.17:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.26-11.12.17:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.26-11.12.17:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.26-11.12.17:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.26-11.12.17:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.26-11.12.17:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.26-11.12.17:307][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.26-11.12.17:314][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.26-11.12.17:346][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.10.26-11.12.17:386][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.26-11.12.17:386][  0]LogShaderCompilers: Guid format shader working directory is -69 characters bigger than the processId version (../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Intermediate/Shaders/WorkingDirectory/4968/).
+[2022.10.26-11.12.17:387][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ra00297251/AppData/Local/Temp/UnrealShaderWorkingDir/1D7CA83B4E7FD4FB5824ECB0FA7F8690/'.
+[2022.10.26-11.12.17:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.26-11.12.17:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.26-11.12.17:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.26-11.12.18:165][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.26-11.12.18:225][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/ra00297251/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.26-11.12.18:225][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ra00297251/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.10.26-11.12.18:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.26-11.12.18:225][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.26-11.12.18:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.26-11.12.18:225][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.26-11.12.18:241][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.26-11.12.18:241][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.26-11.12.18:241][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.26-11.12.18:252][  0]LogDerivedDataCache: Speed tests for C:/Users/ra00297251/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.26-11.12.18:252][  0]LogDerivedDataCache: Display: Performance to C:/Users/ra00297251/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=202.03MBs, RandomWriteSpeed=179.16MBs. Assigned SpeedClass 'Local'
+[2022.10.26-11.12.18:253][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ra00297251/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.26-11.12.18:253][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.26-11.12.18:253][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.26-11.12.18:307][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.26-11.12.18:307][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.26-11.12.18:334][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2022.10.26-11.12.18:614][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.26-11.12.18:615][  0]LogInit: Active device profile: [000001B4C43A2C00][000001B4C4E66940 49] Windows
+[2022.10.26-11.12.18:615][  0]LogInit: Profiles: [000001B4C43A2C00][000001B4C4E66940 49] Windows, [000001B4C435D900][000001B4C4E6EC00 49] WindowsNoEditor, [000001B4C43A1900][000001B4C4E72EC0 49] WindowsServer, [000001B4C435D000][000001B4C4E6B140 49] WindowsClient, [000001B4C43A2900][000001B4C4E773C0 49] IOS, [000001B4C435DA00][000001B4C4E7F680 49] iPadAir, [000001B4C43A0400][000001B4C4E83940 49] iPadAir2, [000001B4C430FE00][000001B4C4E96300 49] IPadPro, [000001B4C430FF00][000001B4C4E86340 49] iPadAir3, [000001B4C43A0E00][000001B4C4E8E600 49] iPadAir4, [000001B4C430DB00][000001B4C4E8A8C0 49] iPadMini2, [000001B4C43A3500][000001B4C4E92B80 49] iPadMini3, [000001B4C430E700][000001B4C4E9AE40 49] iPadMini4, [000001B4C43A1000][000001B4C4E9F100 49] iPadMini5, [000001B4C435B700][000001B4C4EAF5C0 49] iPhone6, [000001B4C435B800][000001B4C4E7B600 49] iPodTouch6, [000001B4C430CB00][000001B4C4EBBB40 49] iPhone7, [000001B4C430CA00][000001B4C4EABB80 49] iPodTouch7, [000001B4C4359A00][000001B4C4EB22C0 49] iPhone5S, [000001B4C430F400][000001B4C4EA6580 49] iPhone6Plus, [000001B4C435A800][000001B4C4EB6840 49] iPhone6S, [000001B4C430C300][000001B4B66C0B00 49] iPhone6SPlus, [000001B4C4359C00][000001B4B66C4DC0 49] iPhone7Plus, [000001B4C430CD00][000001B4B66C9080 49] iPhoneSE, [000001B4C435A600][000001B4B66CD340 49] iPhone8, [000001B4C430C100][000001B4C4EA35C0 49] iPhone8Plus, [000001B4C4359F00][000001B4B66D1840 49] iPhoneX, [000001B4C430EF00][000001B4B66D9B00 49] iPhoneXS, [000001B4C435A300][000001B4B66DC240 49] iPhoneXSMax, [000001B4C430E900][000001B4B66E0500 49] iPhoneXR, [000001B4C435A200][000001B4B66E47C0 49] iPhone11, [000001B4C430EC00][000001B4B66E8A80 49] iPhone11Pro, [000001B4C4358200][000001B4C4ED0D40 49] iPhone11ProMax, [000001B4C430F000][000001B4C4ED5000 49] iPhoneSE2, [000001B4C4358C00][000001B4C4ED92C0 49] iPhone12Mini, [000001B4C430D900][000001B4C4EDD580 49] iPhone12, [000001B4C435B900][000001B4B66D5800 49] iPhone12Pro, [000001B4C430DF00][000001B4C4EE1A80 49] iPhone12ProMax, [000001B4C435BE00][000001B4C4EE81C0 49] iPadPro105, [000001B4C430F300][000001B4C4EEC480 49] iPadPro129, [000001B4C4359100][000001B4C4EF0740 49] iPadPro97, [000001B4C430FC00][000001B4C4EF4A00 49] iPadPro2_129, [000001B4C435B500][000001B4C4EF8CC0 49] iPad5, [000001B4C430CE00][000001B4C4EFCF80 49] iPad6, [000001B4C435B300][000001B4C4F01240 49] iPad7, [000001B4C430DE00][000001B4C4F05500 49] iPad8, [000001B4C4359D00][000001B4C4F097C0 49] iPadPro11, [000001B4C430D000][000001B4C4EE5A40 49] iPadPro2_11, [000001B4C435BD00][000001B4C4F0C140 49] iPadPro3_129, [000001B4C430C500][000001B4C4F14400 49] iPadPro4_129, [000001B4C435A500][000001B4C4F186C0 49] AppleTV, [000001B4C430CF00][000001B4C4F1C980 49] AppleTV4K, [000001B4C4359900][000001B4C4F20C40 49] TVOS, [000001B4C430DA00][000001B4C4F24F00 49] Mac, [000001B4C435E900][000001B4C4F291C0 49] MacClient, [000001B4C43F0500][000001B4C4F2D480 49] MacNoEditor, [000001B4C435C200][000001B4C4F31740 49] MacServer, [000001B4C43F1A00][000001B4C4F35A00 49] Linux, [000001B4C435D700][000001B4C4F10100 49] LinuxAArch64, [000001B4C43F0C00][000001B4C4F38380 49] LinuxNoEditor, [000001B4C435E500][000001B4C4F40640 49] LinuxAArch64NoEditor, [000001B4C43F1000][000001B4C4F44900 49] LinuxClient, [000001B4C435EE00][000001B4C4F48BC0 49] LinuxAArch64Client, [000001B4C43F1200][000001B4C4F4CE80 49] LinuxServer, [000001B4C435E000][000001B4C4F51140 49] LinuxAArch64Server, [000001B4C43F0400][000001B4C4F55400 49] Android, [000001B4C435CE00][000001B4C4F596C0 49] Android_Low, [000001B4C43F0F00][000001B4C4F5D980 49] Android_Mid, [000001B4C435C500][000001B4C4F600C0 49] Android_High, [000001B4C43F1600][000001B4C4F3C340 49] Android_Default, [000001B4C435E400][000001B4C4F645C0 49] Android_Adreno4xx, [000001B4C43F0700][000001B4C4F6C880 49] Android_Adreno5xx_Low, [000001B4C435DC00][000001B4C4F70B40 49] Android_Adreno5xx, [000001B4C430C700][000001B4C4F74E00 49] Android_Adreno6xx, [000001B4C435F900][000001B4C4F790C0 49] Android_Adreno6xx_Vulkan, [000001B4C430D600][000001B4C4F7D380 49] Android_Mali_T6xx, [000001B4C435E300][000001B4C4F81640 49] Android_Mali_T7xx, [000001B4C430E600][000001B4C4F85900 49] Android_Mali_T8xx, [000001B4C435FE00][000001B4C4F89BC0 49] Android_Mali_G71, [000001B4C430D200][000001B4C4F8C300 49] Android_Mali_G72, [000001B4C435D600][000001B4C4F68580 49] Android_Mali_G72_Vulkan, [000001B4C430E300][000001B4C4F90800 49] Android_Mali_G76, [000001B4C435C100][000001B4C4F98AC0 49] Android_Mali_G76_Vulkan, [000001B4C430E000][000001B4C4F9CD80 49] Android_Mali_G77, [000001B4C435C800][000001B4C4FA1040 49] Android_Mali_G77_Vulkan, [000001B4C430D500][000001B4C4FA5300 49] Android_Mali_G78, [000001B4C435DD00][000001B4C4FA95C0 49] Android_Mali_G78_Vulkan, [000001B4C430C900][000001B4C4FAD880 49] Android_Mali_G710, [000001B4C435D400][000001B4C4FB1B40 49] Android_Mali_G710_Vulkan, [000001B4C430C600][000001B4C4FB4280 49] Android_Vulkan_SM5, [000001B4C435EF00][000001B4C4FB8540 49] Android_PowerVR_G6xxx, [000001B4C430C200][000001B4C4F947C0 49] Android_PowerVR_GT7xxx, [000001B4C435CD00][000001B4C4FBCA40 49] Android_PowerVR_GE8xxx, [000001B4C430EA00][000001B4C4FC4D00 49] Android_PowerVR_GM9xxx, [000001B4C435D500][000001B4C4FC8FC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001B4C430FA00][000001B4C4FCD280 49] Android_TegraK1, [000001B4C435D200][000001B4C4FD1540 49] Android_Unknown_Vulkan, [000001B4C430F700][000001B4C4FD5800 49] Lumin, [000001B4C435C700][000001B4C4FD9AC0 49] Lumin_Desktop, [000001B4C43A3700][000001B4C4FDC200 49] HoloLens, 
+[2022.10.26-11.12.18:760][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.26-11.12.18:760][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.26-11.12.18:760][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.26-11.12.18:760][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.26-11.12.18:760][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.26-11.12.18:778][  0]LogNetVersion: GhostHouse 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1499812488)
+[2022.10.26-11.12.19:243][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.26-11.12.19:307][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.26-11.12.19:314][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.10.26-11.12.19:314][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.10.26-11.12.19:314][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.26-11.12.19:695][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EEC88CC944EDF2AA38AC14BCA55AD524 | Instance: D39027B04160B5E95D79FCAE5CB04522 (D-090850-4968).
+[2022.10.26-11.12.19:733][  0]LogPython: Using Python 3.7.7
+[2022.10.26-11.12.20:440][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.26-11.12.20:446][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.26-11.12.20:964][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.26-11.12.20:992][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.26-11.12.21:020][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-11.12.21:020][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-11.12.21:179][  0]SourceControl: Source control is disabled
+[2022.10.26-11.12.21:180][  0]SourceControl: Source control is disabled
+[2022.10.26-11.12.21:191][  0]SourceControl: Source control is disabled
+[2022.10.26-11.12.21:194][  0]SourceControl: Source control is disabled
+[2022.10.26-11.12.21:206][  0]SourceControl: Source control is disabled
+[2022.10.26-11.12.21:215][  0]LogUProjectInfo: Found projects:
+[2022.10.26-11.12.21:236][  0]LogCollectionManager: Loaded 0 collections in 0.001852 seconds
+[2022.10.26-11.12.21:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Collections/' took 0.00s
+[2022.10.26-11.12.21:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/Developers/ra00297251/Collections/' took 0.00s
+[2022.10.26-11.12.21:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/Collections/' took 0.00s
+[2022.10.26-11.12.21:271][  0]LogOcInput: OculusInput pre-init called
+[2022.10.26-11.12.21:521][  0]LogEngine: Initializing Engine...
+[2022.10.26-11.12.21:523][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.10.26-11.12.21:523][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.26-11.12.21:523][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.10.26-11.12.21:524][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.26-11.12.21:679][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.26-11.12.21:694][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.26-11.12.21:695][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.26-11.12.21:699][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.26-11.12.21:699][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.26-11.12.21:700][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.26-11.12.21:700][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-11.12.21:700][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-11.12.21:700][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-11.12.21:700][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-11.12.21:700][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-11.12.21:700][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.26-11.12.21:712][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-11.12.21:712][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-11.12.21:907][  0]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.26-11.12.21:910][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-11.12.21:912][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-11.12.21:912][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-11.12.21:913][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.26-11.12.21:913][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.26-11.12.21:913][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.26-11.12.21:914][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.26-11.12.21:914][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.26-11.12.21:914][  0]LogInit: FAudioDevice initialized.
+[2022.10.26-11.12.21:914][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.26-11.12.21:914][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.26-11.12.22:167][  0]LogDerivedDataCache: Saved boot cache 0.25s 94MB C:/Users/ra00297251/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.26-11.12.22:167][  0]LogInit: Texture streaming: Enabled
+[2022.10.26-11.12.22:182][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.10.26-11.12.22:185][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.26-11.12.22:185][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.26-11.12.22:188][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.26-11.12.22:212][  0]LogInit: Transaction tracking system initialized
+[2022.10.26-11.12.22:231][  0]BlueprintLog: New page: Editor Load
+[2022.10.26-11.12.22:289][  0]LocalizationService: Localization service is disabled
+[2022.10.26-11.12.22:315][  0]TimingProfiler: Initialize
+[2022.10.26-11.12.22:315][  0]TimingProfiler: OnSessionChanged
+[2022.10.26-11.12.22:315][  0]LoadingProfiler: Initialize
+[2022.10.26-11.12.22:315][  0]LoadingProfiler: OnSessionChanged
+[2022.10.26-11.12.22:315][  0]NetworkingProfiler: Initialize
+[2022.10.26-11.12.22:315][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.26-11.12.22:315][  0]MemoryProfiler: Initialize
+[2022.10.26-11.12.22:315][  0]MemoryProfiler: OnSessionChanged
+[2022.10.26-11.12.22:492][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.10.26-11.12.22:492][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.26-11.12.22:686][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/' took 0.01s
+[2022.10.26-11.12.22:895][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.26-11.12.22:898][  0]SourceControl: Source control is disabled
+[2022.10.26-11.12.22:898][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.992
+[2022.10.26-11.12.22:898][  0]LightingResults: New page: Lighting Build
+[2022.10.26-11.12.22:899][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-11.12.22:900][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-11.12.22:900][  0]MapCheck: New page: Map Check
+[2022.10.26-11.12.22:900][  0]LightingResults: New page: Lighting Build
+[2022.10.26-11.12.23:069][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-11.12.23:072][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.26-11.12.26:291][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.10.26-11.12.26:291][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.10.26-11.12.26:297][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-11.12.27:972][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.26-11.12.27:972][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-11.12.27:973][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.275ms to complete.
+[2022.10.26-11.12.27:973][  0]LogFileHelpers: Loading map 'Minimal_Default' took 5.074
+[2022.10.26-11.12.27:975][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.069
+[2022.10.26-11.12.28:105][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-11.12.28:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-11.12.28:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-11.12.28:125][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-11.12.28:141][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3822 classes and 928 folders.
+[2022.10.26-11.12.28:143][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.26-11.12.28:144][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.26-11.12.28:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.26-11.12.28:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.10.26-11.12.28:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.10.26-11.12.28:145][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.26-11.12.28:145][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.26-11.12.28:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.10.26-11.12.28:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.10.26-11.12.28:146][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.10.26-11.12.28:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.10.26-11.12.28:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.10.26-11.12.28:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.10.26-11.12.28:146][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.26-11.12.28:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.26-11.12.28:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.10.26-11.12.28:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.10.26-11.12.28:147][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.26-11.12.28:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.26-11.12.28:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.10.26-11.12.28:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.10.26-11.12.28:148][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.26-11.12.28:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.26-11.12.28:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.10.26-11.12.28:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.10.26-11.12.28:149][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.26-11.12.28:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.26-11.12.28:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.10.26-11.12.28:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.10.26-11.12.28:150][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.26-11.12.28:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.26-11.12.28:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.10.26-11.12.28:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.10.26-11.12.28:151][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.26-11.12.28:151][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:151][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.26-11.12.28:151][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:151][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.10.26-11.12.28:151][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.10.26-11.12.28:152][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.26-11.12.28:152][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.26-11.12.28:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.10.26-11.12.28:152][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.10.26-11.12.28:152][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.26-11.12.28:152][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.26-11.12.28:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.10.26-11.12.28:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.10.26-11.12.28:153][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.26-11.12.28:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.26-11.12.28:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.10.26-11.12.28:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.10.26-11.12.28:154][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.26-11.12.28:154][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:154][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.26-11.12.28:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.10.26-11.12.28:154][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.10.26-11.12.28:155][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.26-11.12.28:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.26-11.12.28:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.10.26-11.12.28:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.10.26-11.12.28:155][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.26-11.12.28:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.26-11.12.28:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.10.26-11.12.28:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.10.26-11.12.28:156][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.26-11.12.28:156][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.26-11.12.28:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.10.26-11.12.28:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.10.26-11.12.28:156][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.26-11.12.28:156][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.26-11.12.28:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.10.26-11.12.28:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.10.26-11.12.28:157][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.26-11.12.28:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.26-11.12.28:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.10.26-11.12.28:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.10.26-11.12.28:158][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.26-11.12.28:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.26-11.12.28:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.10.26-11.12.28:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.10.26-11.12.28:159][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.26-11.12.28:159][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:159][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.26-11.12.28:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.10.26-11.12.28:159][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.10.26-11.12.28:160][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.26-11.12.28:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.26-11.12.28:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.10.26-11.12.28:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.10.26-11.12.28:161][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.26-11.12.28:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.26-11.12.28:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.10.26-11.12.28:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.10.26-11.12.28:161][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.10.26-11.12.28:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.10.26-11.12.28:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.10.26-11.12.28:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.10.26-11.12.28:162][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.26-11.12.28:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.26-11.12.28:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.10.26-11.12.28:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.10.26-11.12.28:163][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.26-11.12.28:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.26-11.12.28:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.10.26-11.12.28:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.10.26-11.12.28:164][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.26-11.12.28:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.26-11.12.28:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.26-11.12.28:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.26-11.12.28:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.10.26-11.12.28:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.10.26-11.12.28:223][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.26-11.12.28:226][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.10.26-11.12.28:261][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.26-11.12.28:263][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.26-11.12.28:266][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.26-11.12.28:369][  0]LogRenderer: Reallocating scene render targets to support 1528x616 Format 9 NumSamples 1 (Frame:1).
+[2022.10.26-11.12.28:484][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.10.26-11.12.28:484][  0]LogLoad: (Engine Initialization) Total time: 13.58 seconds
+[2022.10.26-11.12.28:484][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.26-11.12.28:540][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.10.26-11.12.28:691][  3]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.26-11.12.29:583][ 73]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.26-11.12.30:752][158]LogAssetRegistry: Asset discovery search completed in 12.4174 seconds
+[2022.10.26-11.12.30:758][158]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.26-11.12.33:174][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.26-11.12.33:879][400]LogStaticMesh: Building static mesh Paredao_com__porta...
+[2022.10.26-11.12.33:996][400]LogStaticMesh: Built static mesh [0.15s] /Game/MyModifications/Fbx/Estrutura_Casa/Paredao_com__porta.Paredao_com__porta
+[2022.10.26-11.12.34:084][400]LogStaticMesh: Building static mesh Paredao...
+[2022.10.26-11.12.34:086][400]LogStaticMesh: Built static mesh [0.00s] /Game/MyModifications/Fbx/Estrutura_Casa/Paredao.Paredao
+[2022.10.26-11.12.34:164][400]LogStaticMesh: Building static mesh Janela_Aberta...
+[2022.10.26-11.12.34:179][400]LogStaticMesh: Built static mesh [0.04s] /Game/MyModifications/Fbx/Estrutura_Casa/Janela_Aberta.Janela_Aberta
+[2022.10.26-11.12.34:262][400]LogStaticMesh: Building static mesh Corner...
+[2022.10.26-11.12.34:269][400]LogStaticMesh: Built static mesh [0.07s] /Game/MyModifications/Fbx/Estrutura_Casa/Corner.Corner
+[2022.10.26-11.12.34:396][400]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyModifications/animations/Idle.Idle
+[2022.10.26-11.12.34:564][400]LogStaticMesh: Building static mesh Parede...
+[2022.10.26-11.12.34:569][400]LogStaticMesh: Built static mesh [0.01s] /Game/MyModifications/Fbx/Estrutura_Casa/Parede.Parede
+[2022.10.26-11.12.34:621][400]LogStaticMesh: Building static mesh Porta_com_parede_Cube_021...
+[2022.10.26-11.12.34:629][400]LogStaticMesh: Built static mesh [0.04s] /Game/MyModifications/Fbx/Estrutura_Casa/Porta_com_parede_Cube_021.Porta_com_parede_Cube_021
+[2022.10.26-11.12.34:687][400]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyModifications/animations/Pushing.Pushing
+[2022.10.26-11.12.34:687][400]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0021
+[2022.10.26-11.12.34:687][400]LogScript: Warning: Accessed None
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0036
+[2022.10.26-11.12.34:704][400]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.10.26-11.12.34:705][400]LightingResults: New page: Lighting Build
+[2022.10.26-11.12.34:705][400]LoadErrors: New page: Loading map: BlocagemLevel.umap
+[2022.10.26-11.12.34:709][400]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-11.12.34:709][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-11.12.34:709][400]MapCheck: New page: Map Check
+[2022.10.26-11.12.34:709][400]LightingResults: New page: Lighting Build
+[2022.10.26-11.12.34:717][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-11.12.34:721][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.26-11.12.34:722][400]LogAudio: Display: Audio Device (ID: 1) registered with world 'BlocagemLevel'.
+[2022.10.26-11.12.34:727][400]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0021
+[2022.10.26-11.12.34:727][400]LogScript: Warning: Accessed None
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0036
+[2022.10.26-11.12.34:741][400]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-11.12.34:741][400]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.10.26-11.12.34:751][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.26-11.12.34:756][400]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-11.12.34:756][400]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2022.10.26-11.12.34:756][400]LogFileHelpers: Loading map 'BlocagemLevel' took 0.052
+[2022.10.26-11.12.46:866][651]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1412' invalid (716 verts, 0 indices).
+[2022.10.26-11.12.46:866][651]LogPhysics: Warning: Attempt to build physics data for /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1412.BodySetup_0 when we are unable to.
+[2022.10.26-11.12.46:875][651]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1413' invalid (716 verts, 0 indices).
+[2022.10.26-11.12.46:875][651]LogPhysics: Warning: Attempt to build physics data for /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1413.BodySetup_0 when we are unable to.
+[2022.10.26-11.12.46:879][651]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1414' invalid (716 verts, 0 indices).
+[2022.10.26-11.12.46:879][651]LogPhysics: Warning: Attempt to build physics data for /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1414.BodySetup_0 when we are unable to.
+[2022.10.26-11.12.46:882][651]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1415' invalid (716 verts, 0 indices).
+[2022.10.26-11.12.46:882][651]LogPhysics: Warning: Attempt to build physics data for /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1415.BodySetup_0 when we are unable to.
+[2022.10.26-11.12.46:898][651]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1416' invalid (716 verts, 0 indices).
+[2022.10.26-11.12.46:898][651]LogPhysics: Warning: Attempt to build physics data for /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1416.BodySetup_0 when we are unable to.
+[2022.10.26-11.12.46:906][651]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1417' invalid (716 verts, 0 indices).
+[2022.10.26-11.12.46:906][651]LogPhysics: Warning: Attempt to build physics data for /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1417.BodySetup_0 when we are unable to.
+[2022.10.26-11.12.46:912][651]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1418' invalid (716 verts, 0 indices).
+[2022.10.26-11.12.46:912][651]LogPhysics: Warning: Attempt to build physics data for /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.ModelComponent_1418.BodySetup_0 when we are unable to.
+[2022.10.26-11.12.48:134][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chão)
+[2022.10.26-11.12.49:419][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.12.52:179][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.12.53:954][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.12.54:572][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_021)
+[2022.10.26-11.12.55:740][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao2)
+[2022.10.26-11.12.57:861][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.13.05:845][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.13.06:308][638]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao6)
+[2022.10.26-11.13.11:918][224]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao6)
+[2022.10.26-11.13.17:811][889]Cmd: PIVOT SNAPPED
+[2022.10.26-11.13.25:089][666]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Chão)
+[2022.10.26-11.13.27:259][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.13.32:430][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.13.45:927][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-11.13.49:936][324]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.26-11.13.51:210][428]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.10.26-11.13.51:229][428]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.10.26-11.13.51:229][428]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.10.26-11.13.51:234][428]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.26-11.13.52:157][529]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao6)
+[2022.10.26-11.13.53:144][611]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.10.26-11.13.53:144][611]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.10.26-11.13.53:144][611]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.10.26-11.13.53:163][611]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.26-11.13.55:157][802]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.10.26-11.13.55:157][802]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.10.26-11.13.55:157][802]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.10.26-11.13.55:169][803]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.26-11.14.07:720][161]Cmd: PIVOT HERE
+[2022.10.26-11.14.09:305][325]Cmd: TRANSACTION UNDO
+[2022.10.26-11.14.09:318][325]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.26-11.14.11:805][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.14.22:373][627]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao6)
+[2022.10.26-11.14.29:800][236]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.14.31:851][452]LogEditorViewport: Clicking Background
+[2022.10.26-11.14.32:439][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.14.36:133][900]Cmd: TRANSACTION UNDO
+[2022.10.26-11.14.36:133][900]LogEditorTransaction: Undo Move Actors
+[2022.10.26-11.14.37:096][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-11.14.44:217][679]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao8)
+[2022.10.26-11.14.46:735][880]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.14.48:130][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-11.14.48:552][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.14.49:431][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-11.14.50:047][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.14.50:784][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.15.02:342][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.26-11.15.12:716][541]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.26-11.15.14:752][733]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao4)
+[2022.10.26-11.15.17:872][992]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.15.20:259][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.15.21:037][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.15.21:988][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-11.15.22:386][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.15.23:004][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.15.27:091][890]LogSlate: Took 0.075364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.26-11.16.00:785][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.16.02:315][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.16.02:724][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-11.16.04:444][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao10)
+[2022.10.26-11.16.40:079][749]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.16.40:503][792]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.16.41:241][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.16.46:438][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao10)
+[2022.10.26-11.17.23:055][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao10)
+[2022.10.26-11.17.43:394][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.17.48:048][583]Cmd: TRANSACTION UNDO
+[2022.10.26-11.17.48:048][583]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.26-11.17.49:540][712]Cmd: TRANSACTION UNDO
+[2022.10.26-11.17.49:540][712]LogEditorTransaction: Undo Move Actors
+[2022.10.26-11.17.52:599][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.17.56:367][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.18.16:532][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.18.18:474][707]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_3:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0021
+[2022.10.26-11.18.18:474][707]LogScript: Warning: Accessed None
+	HUman_anim_BP_C /Engine/Transient.World_3:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0036
+[2022.10.26-11.18.28:563][546]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MyModifications/Fbx/Estrutura_Casa/Paredao.Paredao
+[2022.10.26-11.18.28:819][546]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.10.26-11.18.28:999][546]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.26-11.18.46:455][679]LogSlate: Window 'Paredao' being destroyed
+[2022.10.26-11.18.46:460][679]LogSlate: Window 'Paredao' being destroyed
+[2022.10.26-11.18.46:466][679]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-11.18.46:466][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-11.18.48:434][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.18.50:973][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao5)
+[2022.10.26-11.19.07:191][763]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao5)
+[2022.10.26-11.19.12:213][334]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.19.12:982][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.19.13:820][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao5)
+[2022.10.26-11.19.15:560][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.19.22:093][343]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao3)
+[2022.10.26-11.19.24:736][635]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.19.26:031][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao)
+[2022.10.26-11.19.26:923][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.19.27:536][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao5)
+[2022.10.26-11.19.28:988][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao7)
+[2022.10.26-11.19.31:653][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.19.32:010][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.19.32:718][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-11.19.34:246][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao10)
+[2022.10.26-11.21.11:310][249]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao10)
+[2022.10.26-11.21.14:637][608]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.21.18:267][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao10)
+[2022.10.26-11.21.22:877][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao10)
+[2022.10.26-11.21.34:038][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.21.56:989][251]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao9)
+[2022.10.26-11.21.59:818][563]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.22.01:092][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.22.01:577][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao11)
+[2022.10.26-11.22.02:037][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.22.04:285][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.22.19:565][653]LogEditorViewport: Clicking Background
+[2022.10.26-11.22.47:017][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.23.14:081][803]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.23.18:412][294]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.23.19:466][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta2)
+[2022.10.26-11.23.24:407][923]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta2)
+[2022.10.26-11.23.27:385][259]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.23.52:388][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.26-11.23.52:824][295]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto1D78A9C804342F109356D96A1C0370EFF.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto1.umap'
+[2022.10.26-11.23.52:852][295]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.492
+[2022.10.26-11.23.52:852][295]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.492
+[2022.10.26-11.24.02:024][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede)
+[2022.10.26-11.25.01:333][633]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede)
+[2022.10.26-11.25.04:167][939]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.25.14:596][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner)
+[2022.10.26-11.26.16:248][700]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Corner)
+[2022.10.26-11.26.19:851][100]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.26.25:382][662]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Chão)
+[2022.10.26-11.26.27:616][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner)
+[2022.10.26-11.26.33:377][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao14)
+[2022.10.26-11.26.47:692][ 44]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao14)
+[2022.10.26-11.26.50:033][299]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.26.52:158][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta3)
+[2022.10.26-11.26.57:881][ 80]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta3)
+[2022.10.26-11.27.01:575][485]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.27.02:370][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao16)
+[2022.10.26-11.27.02:832][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta3)
+[2022.10.26-11.27.53:027][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao16)
+[2022.10.26-11.28.41:982][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao16)
+[2022.10.26-11.29.01:749][431]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao16)
+[2022.10.26-11.29.05:433][840]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.29.09:736][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao18)
+[2022.10.26-11.29.14:113][731]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao18)
+[2022.10.26-11.29.17:684][131]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.29.29:985][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao20)
+[2022.10.26-11.29.30:582][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao18)
+[2022.10.26-11.29.31:091][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao20)
+[2022.10.26-11.29.35:277][978]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao20)
+[2022.10.26-11.29.38:747][362]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.29.40:327][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao22)
+[2022.10.26-11.29.53:645][846]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao22)
+[2022.10.26-11.29.56:540][164]Cmd: ACTOR UNBAKEPREPIVOT
+[2022.10.26-11.29.58:469][340]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Chão)
+[2022.10.26-11.29.59:502][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao22)
+[2022.10.26-11.30.00:307][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao20)
+[2022.10.26-11.30.00:652][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao22)
+[2022.10.26-11.30.08:519][402]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao22)
+[2022.10.26-11.30.11:224][698]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.30.12:962][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao24)
+[2022.10.26-11.30.13:333][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao22)
+[2022.10.26-11.30.13:670][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao24)
+[2022.10.26-11.30.24:531][ 68]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao24)
+[2022.10.26-11.30.27:964][448]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.30.30:351][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta4)
+[2022.10.26-11.30.34:493][150]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta4)
+[2022.10.26-11.30.36:981][417]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.30.37:822][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta5)
+[2022.10.26-11.30.41:286][911]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta5)
+[2022.10.26-11.30.43:841][189]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.30.44:905][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta4)
+[2022.10.26-11.30.45:429][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta5)
+[2022.10.26-11.30.45:797][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao26)
+[2022.10.26-11.31.09:094][898]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao26)
+[2022.10.26-11.31.12:232][233]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.31.16:527][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner2)
+[2022.10.26-11.31.30:181][ 30]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Corner2)
+[2022.10.26-11.31.32:658][302]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.31.33:879][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao28)
+[2022.10.26-11.31.34:319][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner2)
+[2022.10.26-11.32.55:325][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao28)
+[2022.10.26-11.33.03:184][901]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao28)
+[2022.10.26-11.33.05:833][192]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.33.07:834][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao30)
+[2022.10.26-11.33.17:306][310]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao30)
+[2022.10.26-11.33.19:699][564]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.33.20:500][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao28)
+[2022.10.26-11.33.21:000][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao30)
+[2022.10.26-11.33.22:370][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao28)
+[2022.10.26-11.33.22:727][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao30)
+[2022.10.26-11.33.23:900][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao28)
+[2022.10.26-11.33.24:576][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao30)
+[2022.10.26-11.33.25:021][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao30)
+[2022.10.26-11.33.25:670][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao32)
+[2022.10.26-11.33.37:968][366]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao32)
+[2022.10.26-11.33.41:661][775]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.33.44:055][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao30)
+[2022.10.26-11.33.44:431][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao32)
+[2022.10.26-11.33.45:997][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta8)
+[2022.10.26-11.33.46:457][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta7)
+[2022.10.26-11.33.47:265][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta6)
+[2022.10.26-11.33.47:977][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta8)
+[2022.10.26-11.33.51:467][752]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta8)
+[2022.10.26-11.33.54:312][ 61]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.33.55:172][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta7)
+[2022.10.26-11.33.59:247][569]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta7)
+[2022.10.26-11.34.02:387][912]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.34.03:274][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta6)
+[2022.10.26-11.34.06:738][362]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta6)
+[2022.10.26-11.34.09:513][659]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.34.10:548][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta7)
+[2022.10.26-11.34.11:131][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta8)
+[2022.10.26-11.34.11:844][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta6)
+[2022.10.26-11.34.14:825][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao34)
+[2022.10.26-11.34.36:342][353]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao34)
+[2022.10.26-11.34.39:224][665]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.34.42:666][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao36)
+[2022.10.26-11.34.49:275][615]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao36)
+[2022.10.26-11.34.51:781][892]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.34.53:585][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao38)
+[2022.10.26-11.35.02:405][892]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao38)
+[2022.10.26-11.35.04:715][140]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.35.06:179][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede4)
+[2022.10.26-11.35.11:840][794]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.10.26-11.35.13:171][936]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.10.26-11.35.20:910][657]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.10.26-11.35.22:064][782]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.10.26-11.35.28:494][464]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.10.26-11.35.38:418][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede6)
+[2022.10.26-11.35.39:073][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede4)
+[2022.10.26-11.35.40:270][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede6)
+[2022.10.26-11.35.40:961][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede6)
+[2022.10.26-11.35.42:325][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede4)
+[2022.10.26-11.35.44:838][313]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede4)
+[2022.10.26-11.35.46:800][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede4)
+[2022.10.26-11.35.56:966][602]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede4)
+[2022.10.26-11.36.00:087][956]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.36.01:827][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede6)
+[2022.10.26-11.36.02:247][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede4)
+[2022.10.26-11.36.02:865][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede6)
+[2022.10.26-11.36.20:769][943]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede6)
+[2022.10.26-11.36.23:698][258]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.36.29:869][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao66)
+[2022.10.26-11.36.39:689][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao66)
+[2022.10.26-11.36.50:907][ 17]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao66)
+[2022.10.26-11.36.53:649][320]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.36.54:317][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede6)
+[2022.10.26-11.36.55:057][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao66)
+[2022.10.26-11.36.59:684][902]Cmd: TRANSACTION UNDO
+[2022.10.26-11.36.59:684][902]LogEditorTransaction: Undo Move Actors
+[2022.10.26-11.37.01:997][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta10)
+[2022.10.26-11.37.06:148][561]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta10)
+[2022.10.26-11.37.08:239][775]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.37.08:951][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta9)
+[2022.10.26-11.37.11:872][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta9)
+[2022.10.26-11.37.15:481][576]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.37.16:304][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao62)
+[2022.10.26-11.37.26:556][711]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao62)
+[2022.10.26-11.37.30:105][106]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.37.31:829][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao60)
+[2022.10.26-11.37.51:525][366]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao60)
+[2022.10.26-11.37.56:489][931]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.38.04:420][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao89)
+[2022.10.26-11.38.52:924][284]Cmd: TRANSACTION UNDO
+[2022.10.26-11.38.52:924][284]LogEditorTransaction: Undo Move Actors
+[2022.10.26-11.38.54:409][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao89)
+[2022.10.26-11.39.06:203][601]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao89)
+[2022.10.26-11.39.09:906][  8]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.39.32:487][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta11)
+[2022.10.26-11.39.33:016][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta12)
+[2022.10.26-11.39.38:208][986]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta12)
+[2022.10.26-11.39.41:004][294]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.39.41:930][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta11)
+[2022.10.26-11.39.44:933][692]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta11)
+[2022.10.26-11.39.47:970][ 27]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.39.49:487][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao93)
+[2022.10.26-11.40.15:603][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.26-11.40.15:668][ 22]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto25D9973764B4916A6B3201490C8C41E55.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto2.umap'
+[2022.10.26-11.40.15:670][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.101
+[2022.10.26-11.40.15:670][ 22]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2022.10.26-11.40.38:355][522]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao93)
+[2022.10.26-11.40.40:519][752]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.40.43:243][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao95)
+[2022.10.26-11.41.07:876][556]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao95)
+[2022.10.26-11.41.10:395][826]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.41.33:148][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao94)
+[2022.10.26-11.41.34:192][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao93)
+[2022.10.26-11.41.37:324][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao95)
+[2022.10.26-11.41.38:929][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta13)
+[2022.10.26-11.41.52:013][179]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta13)
+[2022.10.26-11.41.55:271][527]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.41.55:881][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta14)
+[2022.10.26-11.41.59:135][922]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Janela_Aberta14)
+[2022.10.26-11.42.01:879][234]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.42.02:574][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta13)
+[2022.10.26-11.42.02:976][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta14)
+[2022.10.26-11.42.04:674][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao99)
+[2022.10.26-11.42.22:461][348]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao99)
+[2022.10.26-11.42.26:127][750]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.42.34:799][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.42.35:115][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.42.37:449][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao99)
+[2022.10.26-11.42.37:878][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.43.01:771][300]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao101)
+[2022.10.26-11.43.05:698][739]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.43.08:517][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao99)
+[2022.10.26-11.43.09:033][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.43.10:217][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao99)
+[2022.10.26-11.43.10:615][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.43.16:256][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao2)
+[2022.10.26-11.44.47:465][877]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao2)
+[2022.10.26-11.44.49:762][124]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.44.51:978][354]Cmd: TRANSACTION UNDO
+[2022.10.26-11.44.51:978][354]LogEditorTransaction: Undo Move Actors
+[2022.10.26-11.44.52:606][380]Cmd: TRANSACTION UNDO
+[2022.10.26-11.44.52:606][380]LogEditorTransaction: Undo Move Actors
+[2022.10.26-11.44.53:392][470]Cmd: TRANSACTION UNDO
+[2022.10.26-11.44.53:392][470]LogEditorTransaction: Undo Move Actors
+[2022.10.26-11.44.54:233][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao2)
+[2022.10.26-11.45.09:158][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.45.11:737][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao2)
+[2022.10.26-11.45.53:995][680]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao2)
+[2022.10.26-11.45.56:936][  5]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.46.12:138][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chão)
+[2022.10.26-11.46.19:746][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.46.20:619][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao2)
+[2022.10.26-11.46.22:977][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_021)
+[2022.10.26-11.46.35:308][867]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Porta_com_parede_Cube_021)
+[2022.10.26-11.46.38:909][269]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.46.40:162][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.46.40:532][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.47.03:976][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.47.04:378][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.47.04:882][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-11.47.05:431][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao6)
+[2022.10.26-11.47.09:389][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.47.12:752][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.47.17:479][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao4)
+[2022.10.26-11.47.19:542][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao101)
+[2022.10.26-11.47.22:328][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao102)
+[2022.10.26-11.47.31:862][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao)
+[2022.10.26-11.47.48:315][680]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao)
+[2022.10.26-11.47.50:824][934]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.47.52:520][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao)
+[2022.10.26-11.47.53:615][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.47.54:156][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao5)
+[2022.10.26-11.47.55:642][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao7)
+[2022.10.26-11.48.08:146][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao)
+[2022.10.26-11.48.09:060][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.48.09:645][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao5)
+[2022.10.26-11.48.10:354][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.48.10:808][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao)
+[2022.10.26-11.48.33:892][221]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao)
+[2022.10.26-11.48.36:703][514]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.49.51:381][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.49.51:888][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao)
+[2022.10.26-11.49.53:103][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao3)
+[2022.10.26-11.49.53:482][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao5)
+[2022.10.26-11.49.54:598][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao7)
+[2022.10.26-11.51.25:539][204]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao7)
+[2022.10.26-11.51.28:093][482]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.51.32:529][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.51.33:596][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.51.35:896][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta2)
+[2022.10.26-11.51.36:597][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao11)
+[2022.10.26-11.52.08:662][508]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao11)
+[2022.10.26-11.52.11:995][886]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.52.41:471][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.26-11.52.41:539][941]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto3B662906C451055036B826B96AFF6D1F4.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto3.umap'
+[2022.10.26-11.52.41:541][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.081
+[2022.10.26-11.52.41:541][941]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2022.10.26-11.52.44:397][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede2)
+[2022.10.26-11.52.49:693][726]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede2)
+[2022.10.26-11.52.52:270][ 11]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.52.52:945][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner)
+[2022.10.26-11.52.54:166][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao13)
+[2022.10.26-11.53.32:377][  6]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao13)
+[2022.10.26-11.53.34:722][255]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.53.39:038][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta3)
+[2022.10.26-11.53.39:894][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao15)
+[2022.10.26-11.54.00:179][672]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao15)
+[2022.10.26-11.54.03:238][  6]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.54.06:886][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.54.43:970][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao15)
+[2022.10.26-11.54.47:455][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.55.40:151][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao16)
+[2022.10.26-11.55.44:202][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.55.57:240][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.56.29:293][395]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao17)
+[2022.10.26-11.56.31:796][666]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.56.53:619][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.57.04:892][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao20)
+[2022.10.26-11.57.05:497][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao18)
+[2022.10.26-11.57.08:205][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.57.12:525][191]LogEditorViewport: Clicking Background
+[2022.10.26-11.57.17:423][723]LogEditorViewport: Clicking Background
+[2022.10.26-11.57.23:095][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao15)
+[2022.10.26-11.57.28:572][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.57.36:642][618]LogEditorViewport: Clicking Background
+[2022.10.26-11.57.43:570][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.57.47:083][758]LogEditorViewport: Clicking Background
+[2022.10.26-11.57.50:531][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.57.54:001][456]LogEditorViewport: Clicking Background
+[2022.10.26-11.58.11:243][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-11.58.12:529][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao15)
+[2022.10.26-11.58.13:188][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta3)
+[2022.10.26-11.58.14:238][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao13)
+[2022.10.26-11.58.15:331][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner)
+[2022.10.26-11.58.16:489][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede2)
+[2022.10.26-11.58.16:991][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao11)
+[2022.10.26-11.58.18:194][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta2)
+[2022.10.26-11.58.19:023][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.58.20:015][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta)
+[2022.10.26-11.58.20:460][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao7)
+[2022.10.26-11.58.21:557][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao64)
+[2022.10.26-11.58.34:520][712]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao64)
+[2022.10.26-11.58.38:171][115]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.58.50:223][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_22)
+[2022.10.26-11.59.01:678][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_021)
+[2022.10.26-11.59.06:829][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_22)
+[2022.10.26-11.59.16:562][698]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Porta_com_parede_Cube_22)
+[2022.10.26-11.59.19:721][ 50]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-11.59.38:099][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao68)
+[2022.10.26-11.59.38:583][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_22)
+[2022.10.26-11.59.39:192][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao68)
+[2022.10.26-11.59.41:907][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao7)
+[2022.10.26-11.59.45:591][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao68)
+[2022.10.26-11.59.47:713][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao7)
+[2022.10.26-11.59.49:367][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao9)
+[2022.10.26-11.59.50:066][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao7)
+[2022.10.26-11.59.51:363][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao64)
+[2022.10.26-11.59.52:552][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao68)
+[2022.10.26-12.00.00:508][630]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao68)
+[2022.10.26-12.00.02:844][882]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.00.03:949][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao70)
+[2022.10.26-12.00.10:623][546]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao70)
+[2022.10.26-12.00.14:737][  5]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.00.15:757][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao70)
+[2022.10.26-12.00.16:942][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner3)
+[2022.10.26-12.00.17:519][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao70)
+[2022.10.26-12.00.22:000][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner3)
+[2022.10.26-12.00.44:119][ 58]Cmd: TRANSACTION UNDO
+[2022.10.26-12.00.44:120][ 58]LogEditorTransaction: Undo Move Actors
+[2022.10.26-12.00.44:632][ 73]Cmd: TRANSACTION UNDO
+[2022.10.26-12.00.44:632][ 73]LogEditorTransaction: Undo Move Actors
+[2022.10.26-12.00.51:662][775]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Corner3)
+[2022.10.26-12.00.54:544][ 89]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.00.55:326][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao71)
+[2022.10.26-12.01.33:882][147]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao71)
+[2022.10.26-12.01.36:043][363]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.01.40:020][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao73)
+[2022.10.26-12.01.58:781][486]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao73)
+[2022.10.26-12.02.01:637][806]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.02.32:156][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao75)
+[2022.10.26-12.03.27:810][677]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao75)
+[2022.10.26-12.03.31:142][ 39]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.03.39:614][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao77)
+[2022.10.26-12.03.52:769][178]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao77)
+[2022.10.26-12.03.54:727][378]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.03.57:091][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede7)
+[2022.10.26-12.04.20:359][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao77)
+[2022.10.26-12.04.21:049][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede7)
+[2022.10.26-12.04.49:800][896]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede7)
+[2022.10.26-12.04.53:501][282]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.05.12:346][258]LogEditorViewport: Clicking Background
+[2022.10.26-12.05.12:831][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede7)
+[2022.10.26-12.05.20:968][218]LogEditorViewport: Clicking Background
+[2022.10.26-12.05.23:741][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao17)
+[2022.10.26-12.05.25:995][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede7)
+[2022.10.26-12.05.26:374][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao77)
+[2022.10.26-12.05.26:855][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao75)
+[2022.10.26-12.05.27:891][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao73)
+[2022.10.26-12.05.28:313][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao71)
+[2022.10.26-12.05.28:755][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner3)
+[2022.10.26-12.05.29:876][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao70)
+[2022.10.26-12.05.30:173][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao68)
+[2022.10.26-12.05.31:530][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_22)
+[2022.10.26-12.05.32:184][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao64)
+[2022.10.26-12.05.33:077][436]LogEditorViewport: Clicking Background
+[2022.10.26-12.05.36:726][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao64)
+[2022.10.26-12.05.44:180][535]Cmd: TRANSACTION UNDO
+[2022.10.26-12.05.44:181][535]LogEditorTransaction: Undo Move Actors
+[2022.10.26-12.05.46:139][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porta_com_parede_Cube_22)
+[2022.10.26-12.06.00:390][209]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.26-12.06.00:478][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-12.06.00:505][209]PIE: New page: PIE session: BlocagemLevel (Oct 26, 2022, 6:06:00 AM)
+[2022.10.26-12.06.00:534][209]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.26-12.06.00:549][209]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.26-12.06.00:561][209]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.10.26-12.06.00:622][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061390s)
+[2022.10.26-12.06.00:661][209]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.10.26-12.06.00:701][209]LogPlayLevel: PIE: World Init took: (0.076153s)
+[2022.10.26-12.06.00:724][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.163113s)
+[2022.10.26-12.06.00:744][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.26-12.06.00:787][209]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.26-12.06.00:787][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-12.06.00:788][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-12.06.00:788][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-12.06.00:788][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-12.06.00:788][209]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-12.06.00:788][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.26-12.06.00:788][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-12.06.00:788][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-12.06.00:788][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-12.06.00:788][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-12.06.00:788][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-12.06.00:788][209]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.26-12.06.00:792][209]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-12.06.00:792][209]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-12.06.00:818][209]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.10.26-12.06.00:818][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-12.06.00:818][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-12.06.00:818][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-12.06.00:819][209]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.26-12.06.00:819][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.26-12.06.00:819][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.26-12.06.00:820][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.26-12.06.00:820][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.26-12.06.00:820][209]LogInit: FAudioDevice initialized.
+[2022.10.26-12.06.00:820][209]LogAudio: Display: Audio Device (ID: 2) registered with world 'BlocagemLevel'.
+[2022.10.26-12.06.00:892][209]LogLoad: Game class is 'My_GameMode_C'
+[2022.10.26-12.06.01:028][209]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0021
+[2022.10.26-12.06.01:029][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  EventGraph Node:  Set is pusinhg?
+[2022.10.26-12.06.01:029][209]LogScript: Warning: Accessed None
+	HUman_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_0
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0036
+[2022.10.26-12.06.01:029][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  EventGraph Node:  Set is pusinhg?
+[2022.10.26-12.06.01:029][209]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.10.26-09.06.01
+[2022.10.26-12.06.01:044][209]LogWorld: Bringing up level for play took: 0.028148
+[2022.10.26-12.06.01:045][209]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.10.26-12.06.01:181][209]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.10.26-12.06.01:259][209]PIE: Server logged in
+[2022.10.26-12.06.01:264][209]PIE: Play in editor total start time 0.845 seconds.
+[2022.10.26-12.06.09:868][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-12.06.09:868][203]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.10.26-12.06.09:887][203]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-12.06.09:888][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-12.06.09:911][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-12.06.09:935][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-12.06.09:949][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-12.06.09:949][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-12.06.09:950][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.26-12.06.09:953][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-12.06.09:967][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.26-12.06.10:101][203]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.26-12.06.10:111][204]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.10.26-12.06.11:187][310]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-12.06.11:202][310]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-12.06.34:753][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao72)
+[2022.10.26-12.06.36:686][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao69)
+[2022.10.26-12.06.39:624][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao63)
+[2022.10.26-12.06.43:860][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao5)
+[2022.10.26-12.06.45:154][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao63)
+[2022.10.26-12.06.46:874][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao8)
+[2022.10.26-12.06.48:755][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao63)
+[2022.10.26-12.08.58:298][818]Cmd: TRANSACTION UNDO
+[2022.10.26-12.08.58:298][818]LogEditorTransaction: Undo Move Actors
+[2022.10.26-12.09.16:489][741]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao63)
+[2022.10.26-12.09.20:650][ 76]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.09.31:632][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao67)
+[2022.10.26-12.09.39:537][964]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao67)
+[2022.10.26-12.09.41:928][152]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.09.44:091][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao69)
+[2022.10.26-12.09.44:434][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao69)
+[2022.10.26-12.09.44:839][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao67)
+[2022.10.26-12.09.45:476][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao69)
+[2022.10.26-12.09.45:749][523]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao69)
+[2022.10.26-12.09.47:974][707]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.09.57:273][578]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao69)
+[2022.10.26-12.09.59:655][767]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.10.00:155][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner3)
+[2022.10.26-12.10.01:615][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao72)
+[2022.10.26-12.10.05:167][285]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao72)
+[2022.10.26-12.10.07:408][456]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.10.08:952][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao74)
+[2022.10.26-12.10.12:322][897]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao74)
+[2022.10.26-12.10.14:339][ 42]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.10.14:986][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao76)
+[2022.10.26-12.10.19:267][504]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao76)
+[2022.10.26-12.10.21:621][694]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.10.47:121][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.26-12.10.47:187][310]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto498D6EEF44F03B596BF9D7990B8F69B16.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto4.umap'
+[2022.10.26-12.10.47:189][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.084
+[2022.10.26-12.10.47:189][310]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2022.10.26-12.11.10:039][716]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao76)
+[2022.10.26-12.11.12:871][951]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.11.13:777][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao78)
+[2022.10.26-12.11.14:213][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao76)
+[2022.10.26-12.11.15:669][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao78)
+[2022.10.26-12.11.21:665][884]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao78)
+[2022.10.26-12.11.26:501][287]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.11.27:590][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao76)
+[2022.10.26-12.11.28:092][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao78)
+[2022.10.26-12.11.29:614][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede8)
+[2022.10.26-12.11.53:281][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede8)
+[2022.10.26-12.12.05:877][527]LogEditorViewport: Clicking Background
+[2022.10.26-12.12.12:371][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede8)
+[2022.10.26-12.12.49:940][790]LogEditorViewport: Clicking Background
+[2022.10.26-12.12.51:184][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede8)
+[2022.10.26-12.13.06:752][707]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede8)
+[2022.10.26-12.13.11:806][225]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.13.14:285][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao78)
+[2022.10.26-12.13.15:622][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede8)
+[2022.10.26-12.13.42:669][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao78)
+[2022.10.26-12.13.43:205][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede8)
+[2022.10.26-12.13.43:773][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao19)
+[2022.10.26-12.13.45:689][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao21)
+[2022.10.26-12.13.46:914][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao23)
+[2022.10.26-12.13.47:462][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao21)
+[2022.10.26-12.13.48:001][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao19)
+[2022.10.26-12.13.57:210][279]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.26-12.13.57:539][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:539][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:539][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:539][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:540][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:540][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:540][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:540][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:540][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.57:540][317]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:758][459]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:758][459]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:767][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.58:768][460]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.10.26-12.13.59:324][513]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.10.26-12.13.59:324][513]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.10.26-12.13.59:324][513]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.10.26-12.13.59:329][513]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.26-12.14.01:340][699]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.10.26-12.14.01:340][699]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.10.26-12.14.01:340][699]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.10.26-12.14.01:343][699]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.26-12.14.40:518][651]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao19)
+[2022.10.26-12.14.49:461][267]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.15.17:237][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao21)
+[2022.10.26-12.15.17:633][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao19)
+[2022.10.26-12.15.18:151][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao21)
+[2022.10.26-12.15.48:267][921]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao21)
+[2022.10.26-12.15.50:619][122]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.15.52:674][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao19)
+[2022.10.26-12.15.53:163][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao21)
+[2022.10.26-12.15.54:535][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao23)
+[2022.10.26-12.16.40:702][895]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao23)
+[2022.10.26-12.16.43:075][ 89]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.16.44:613][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta4)
+[2022.10.26-12.16.45:852][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta5)
+[2022.10.26-12.16.46:184][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao25)
+[2022.10.26-12.16.50:046][740]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao25)
+[2022.10.26-12.16.52:403][932]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.16.53:110][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner2)
+[2022.10.26-12.16.55:475][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao27)
+[2022.10.26-12.16.59:810][664]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao27)
+[2022.10.26-12.17.02:085][852]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.17.24:004][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao29)
+[2022.10.26-12.17.36:890][966]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao29)
+[2022.10.26-12.17.39:304][152]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.17.40:209][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao31)
+[2022.10.26-12.17.48:798][105]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao31)
+[2022.10.26-12.17.50:938][270]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.17.52:140][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta8)
+[2022.10.26-12.17.52:549][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta7)
+[2022.10.26-12.17.52:946][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Janela_Aberta6)
+[2022.10.26-12.17.53:478][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao33)
+[2022.10.26-12.18.17:981][929]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao33)
+[2022.10.26-12.18.20:302][120]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.18.21:476][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao35)
+[2022.10.26-12.18.35:838][773]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao35)
+[2022.10.26-12.18.38:246][980]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.18.39:309][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao37)
+[2022.10.26-12.18.43:338][411]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Paredao37)
+[2022.10.26-12.18.45:556][590]Cmd: ACTOR BAKEPREPIVOT
+[2022.10.26-12.18.46:806][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Parede3)
+[2022.10.26-12.19.10:834][228]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Parede3)
+[2022.10.26-12.19.13:988][491]Cmd: ACTOR BAKEPREPIVOT
+>>>>>>> Stashed changes
