@@ -8866,3 +8866,575 @@ MasterItem_C.ReceiveBeginPlay
 [2022.11.08-14.36.50:355][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Human]
 [2022.11.08-14.36.50:436][977]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/Human_Auto027DD36D443EFC93BFBD86198BE98DD4E.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Human_Auto0.uasset'
 [2022.11.08-14.36.50:436][977]LogFileHelpers: Auto-saving content packages took 0.129
+[2022.11.08-14.39.20:931][460]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ra00297271\Downloads\Right Turn.fbx)
+[2022.11.08-14.39.20:942][460]LogFbx: Loading FBX Scene from C:\Users\ra00297271\Downloads\Right Turn.fbx
+[2022.11.08-14.39.20:981][460]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.08-14.39.25:841][460]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(0) Hips
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(1) Spine
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(2) Spine1
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(3) Spine2
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(4) Neck
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(5) Head
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(7) RightEye
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(8) LeftEye
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(10) LeftArm
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(12) LeftHand
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2022.11.08-14.39.25:862][460]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(33) RightShoulder
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(34) RightArm
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(35) RightForeArm
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(36) RightHand
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(41) RightHandThumb1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(42) RightHandThumb2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(43) RightHandThumb3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(44) RightHandThumb4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(45) RightHandIndex1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(46) RightHandIndex2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(47) RightHandIndex3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(48) RightHandIndex4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(49) RightHandRing1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(50) RightHandRing2
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(51) RightHandRing3
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(52) RightHandRing4
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(53) RightHandPinky1
+[2022.11.08-14.39.25:864][460]LogFbx: SortedLinks :(54) RightHandPinky2
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(55) RightHandPinky3
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(56) RightHandPinky4
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(57) LeftUpLeg
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(58) LeftLeg
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(59) LeftFoot
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(60) LeftToeBase
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(61) LeftToe_End
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(62) RightUpLeg
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(63) RightLeg
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(64) RightFoot
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(65) RightToeBase
+[2022.11.08-14.39.25:865][460]LogFbx: SortedLinks :(66) RightToe_End
+[2022.11.08-14.39.25:865][460]LogFbx: Parsing AnimStack mixamo.com
+[2022.11.08-14.39.26:073][460]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyModifications/animations/Right_Turn.Right_Turn
+[2022.11.08-14.39.26:091][460]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyModifications/animations/Right_Turn.Right_Turn
+[2022.11.08-14.39.29:226][533]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MyModifications/animations/Right_Turn.Right_Turn
+[2022.11.08-14.39.29:231][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.39.29:534][533]LogLinker: Warning: Failed to load '/Game/MyModifications/animations/Right_Turn__1_': Can't find file.
+[2022.11.08-14.39.29:534][533]LogLinker: Warning: Failed to load '/Game/MyModifications/animations/Right_Turn__1_': Can't find file.
+[2022.11.08-14.39.29:534][533]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MyModifications/animations/Right_Turn__1_.Right_Turn__1_'
+[2022.11.08-14.39.29:749][533]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.11.08-14.39.39:851][748]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.11.08-14.39.39:860][748]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.11.08-14.39.39:878][748]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.11.08-14.40.01:225][157]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> RightTurn
+[2022.11.08-14.40.01:229][157]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.11.08-14.40.04:924][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.11.08-14.40.06:419][223]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-14.40.06:507][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.11.08-14.40.16:580][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.11.08-14.40.17:576][407]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.08-14.40.19:177][407]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MyModifications/animations/Left_Turn.Left_Turn
+[2022.11.08-14.40.19:683][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.08-14.40.21:641][439]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/MyModifications/animations/RightTurn.RightTurn
+[2022.11.08-14.40.21:737][439]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.40.21:737][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.40.28:535][590]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/RightTurn5B7CF1B94FF9A0EC764C5993A9F87042.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/animations/RightTurn.uasset'
+[2022.11.08-14.40.28:552][590]AssetCheck: New page: Asset Save: RightTurn
+[2022.11.08-14.40.28:552][590]LogContentValidation: Display: Validating BlendSpace1D /Game/MyModifications/animations/RightTurn.RightTurn
+[2022.11.08-14.41.54:290][785]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/MyModifications/animations/Walk.Walk
+[2022.11.08-14.42.30:460][628]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/Walk75935F9D4AF73C9373B44FB82DBDDBC5.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/animations/Walk.uasset'
+[2022.11.08-14.42.30:477][628]AssetCheck: New page: Asset Save: Walk
+[2022.11.08-14.42.30:477][628]LogContentValidation: Display: Validating BlendSpace /Game/MyModifications/animations/Walk.Walk
+[2022.11.08-14.42.33:421][710]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.08-14.42.33:428][710]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.08-14.42.33:428][710]LogPlayLevel: [PlayLevel] Compiling HUman_anim_BP before play...
+[2022.11.08-14.42.33:438][710]LogBlueprint: Warning: [AssetLog] C:\Users\ra00297271\Documents\GitHub\Ghost-House\GhostHouse\Content\MyModifications\animations\HUman_anim_BP.uasset: [Compiler] IDLE_Anim to RightTurn  will never be taken, please connect something to  Can Enter Transition
+[2022.11.08-14.42.33:438][710]LogBlueprint: Warning: [AssetLog] C:\Users\ra00297271\Documents\GitHub\Ghost-House\GhostHouse\Content\MyModifications\animations\HUman_anim_BP.uasset: [Compiler] RightTurn to IDLE_Anim  will never be taken, please connect something to  Can Enter Transition
+[2022.11.08-14.42.33:473][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:026C
+[2022.11.08-14.42.33:473][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02A1
+[2022.11.08-14.42.33:474][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:026C
+[2022.11.08-14.42.33:474][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02A1
+[2022.11.08-14.42.33:474][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:026C
+[2022.11.08-14.42.33:474][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02A1
+[2022.11.08-14.42.33:474][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:026C
+[2022.11.08-14.42.33:474][710]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02A1
+[2022.11.08-14.42.33:523][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.11.08-14.42.33:528][710]LogPlayLevel: PlayLevel: Blueprint regeneration took 100 ms (1 blueprints)
+[2022.11.08-14.42.33:528][710]PIE: New page: PIE session: BlocagemLevel (Nov 8, 2022, 8:42:33 AM)
+[2022.11.08-14.42.33:529][710]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.08-14.42.33:553][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024395s)
+[2022.11.08-14.42.33:554][710]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.08-14.42.33:555][710]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2022.11.08-14.42.33:555][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.026112s)
+[2022.11.08-14.42.33:584][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.11.08-14.42.33:584][710]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.11.08-14.42.33:584][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.08-14.42.33:584][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.08-14.42.33:584][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.08-14.42.33:584][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.08-14.42.33:584][710]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.08-14.42.33:584][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.08-14.42.33:584][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.08-14.42.33:584][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.08-14.42.33:585][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.08-14.42.33:585][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.08-14.42.33:585][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.08-14.42.33:585][710]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.08-14.42.33:587][710]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.08-14.42.33:587][710]LogAudioMixer: Display: 1: FrontRight
+[2022.11.08-14.42.33:609][710]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.08-14.42.33:609][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.08-14.42.33:609][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.08-14.42.33:609][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.08-14.42.33:610][710]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.08-14.42.33:610][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.08-14.42.33:610][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.08-14.42.33:611][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.08-14.42.33:611][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.08-14.42.33:611][710]LogInit: FAudioDevice initialized.
+[2022.11.08-14.42.33:611][710]LogAudio: Display: Audio Device (ID: 54) registered with world 'BlocagemLevel'.
+[2022.11.08-14.42.33:624][710]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.08-14.42.33:635][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.08-14.42.33:635][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.08-14.42.33:636][710]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.08-11.42.33
+[2022.11.08-14.42.33:637][710]LogWorld: Bringing up level for play took: 0.012307
+[2022.11.08-14.42.33:637][710]LogOnline: OSS: Creating online subsystem instance for: :Context_150
+[2022.11.08-14.42.33:640][710]PIE: Server logged in
+[2022.11.08-14.42.33:641][710]PIE: Play in editor total start time 0.214 seconds.
+[2022.11.08-14.42.36:784][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-14.42.36:784][844]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.08-14.42.36:785][844]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.42.36:787][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.42.36:810][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.08-14.42.36:821][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.42.36:849][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.08-14.42.36:849][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.08-14.42.36:851][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.08-14.42.36:854][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-14.42.36:859][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.11.08-14.42.37:000][845]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2022.11.08-14.42.38:492][896]LogSlate: Window 'Message Log' being destroyed
+[2022.11.08-14.42.38:548][896]LogSlate: Window 'Message Log' being destroyed
+[2022.11.08-14.42.52:727][231]BlueprintLog: New page: Compile HUman_anim_BP
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:765][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.52:766][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:766][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.52:766][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:766][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.52:766][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:766][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.52:797][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.11.08-14.42.52:811][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.42.52:811][231]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_2
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.42.53:729][246]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/HUman_anim_BPE99191B1406131B7D10D4A8BBD7BA672.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/animations/HUman_anim_BP.uasset'
+[2022.11.08-14.42.53:746][246]AssetCheck: New page: Asset Save: HUman_anim_BP
+[2022.11.08-14.42.53:746][246]LogContentValidation: Display: Validating AnimBlueprint /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP
+[2022.11.08-14.43.55:466][755]LogEditorTransaction: Undo Create Pin Link
+[2022.11.08-14.43.55:832][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.55:847][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.55:861][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.55:868][755]LogEditorTransaction: Undo Create Pin Link
+[2022.11.08-14.43.56:251][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.56:255][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.56:257][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.56:260][755]LogEditorTransaction: Undo Move Node
+[2022.11.08-14.43.56:688][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.56:692][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.56:694][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.56:697][755]LogEditorTransaction: Undo Create Pin Link
+[2022.11.08-14.43.57:092][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.57:096][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.43.57:098][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.08-14.44.08:470][944]BlueprintLog: New page: Compile HUman_anim_BP
+[2022.11.08-14.44.08:511][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:511][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.44.08:511][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:511][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.44.08:511][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:512][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.44.08:547][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.11.08-14.44.08:559][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.44.08:559][944]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_3
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.45.26:001][978]BlueprintLog: New page: Compile HUman_anim_BP
+[2022.11.08-14.45.26:044][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:044][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.26:045][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:046][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.26:080][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.08-14.45.26:096][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.26:096][978]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_4
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:308][279]BlueprintLog: New page: Compile HUman_anim_BP
+[2022.11.08-14.45.37:345][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:345][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:345][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:346][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.37:378][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.11.08-14.45.37:390][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0289
+[2022.11.08-14.45.37:391][279]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_5
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:0336
+[2022.11.08-14.45.38:644][304]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/HUman_anim_BP15E422954C3CB767B40C10A97329442F.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/animations/HUman_anim_BP.uasset'
+[2022.11.08-14.45.38:663][304]AssetCheck: New page: Asset Save: HUman_anim_BP
+[2022.11.08-14.45.38:663][304]LogContentValidation: Display: Validating AnimBlueprint /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP
+[2022.11.08-14.45.41:441][388]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.08-14.45.41:448][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.08-14.45.41:448][388]PIE: New page: PIE session: BlocagemLevel (Nov 8, 2022, 8:45:41 AM)
+[2022.11.08-14.45.41:449][388]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.08-14.45.41:472][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023886s)
+[2022.11.08-14.45.41:473][388]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.08-14.45.41:473][388]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2022.11.08-14.45.41:473][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.025223s)
+[2022.11.08-14.45.41:507][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.11.08-14.45.41:508][388]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.11.08-14.45.41:508][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.08-14.45.41:508][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.08-14.45.41:508][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.08-14.45.41:508][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.08-14.45.41:508][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.08-14.45.41:508][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.08-14.45.41:508][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.08-14.45.41:508][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.08-14.45.41:509][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.08-14.45.41:509][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.08-14.45.41:509][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.08-14.45.41:509][388]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.08-14.45.41:512][388]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.08-14.45.41:512][388]LogAudioMixer: Display: 1: FrontRight
+[2022.11.08-14.45.41:540][388]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.08-14.45.41:540][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.08-14.45.41:540][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.08-14.45.41:540][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.08-14.45.41:541][388]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.08-14.45.41:541][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.08-14.45.41:541][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.08-14.45.41:542][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.08-14.45.41:542][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.08-14.45.41:542][388]LogInit: FAudioDevice initialized.
+[2022.11.08-14.45.41:542][388]LogAudio: Display: Audio Device (ID: 55) registered with world 'BlocagemLevel'.
+[2022.11.08-14.45.41:549][388]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.08-14.45.41:560][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.08-14.45.41:560][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.08-14.45.41:561][388]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.08-11.45.41
+[2022.11.08-14.45.41:562][388]LogWorld: Bringing up level for play took: 0.011546
+[2022.11.08-14.45.41:562][388]LogOnline: OSS: Creating online subsystem instance for: :Context_151
+[2022.11.08-14.45.41:566][388]PIE: Server logged in
+[2022.11.08-14.45.41:567][388]PIE: Play in editor total start time 0.12 seconds.
+[2022.11.08-14.45.46:615][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-14.45.46:615][591]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.08-14.45.46:615][591]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.45.46:617][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.45.46:674][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.08-14.45.46:685][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.45.46:711][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.08-14.45.46:713][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.08-14.45.46:714][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.08-14.45.46:722][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.11.08-14.45.46:869][592]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2022.11.08-14.45.48:309][636]LogSlate: Window 'Message Log' being destroyed
+[2022.11.08-14.45.48:345][636]LogSlate: Window 'Message Log' being destroyed
+[2022.11.08-14.46.14:126][200]BlueprintLog: New page: Compile HUman_anim_BP
+[2022.11.08-14.46.14:163][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:163][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_7:PersistentLevel.Human_C_11.CharacterMesh0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.14:163][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:163][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_6:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_75:PersistentLevel.Human_C_0.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.14:164][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:165][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.14:197][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.11.08-14.46.14:209][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.14:210][200]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.HUman_anim_BP_C_6
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.16:378][248]LogSlate: Window 'Human' being destroyed
+[2022.11.08-14.46.16:384][248]LogSlate: Window 'Human' being destroyed
+[2022.11.08-14.46.16:390][248]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:391][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:473][248]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:473][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:482][248]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:482][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:613][248]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:613][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:635][248]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:635][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:727][248]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:727][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:805][248]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:805][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:889][248]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:889][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.16:909][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.08-14.46.16:909][248]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-14.46.16:909][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.08-14.46.18:035][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.11.08-14.46.19:300][264]LogSlate: Window 'Save Content' being destroyed
+[2022.11.08-14.46.19:359][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.11.08-14.46.19:467][264]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevelDA0A0F9C43002E860A8ABEA93805DAD9.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.08-14.46.19:475][264]LogFileHelpers: Saving map 'BlocagemLevel' took 0.138
+[2022.11.08-14.46.19:475][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Human" FILE="../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset" SILENT=true
+[2022.11.08-14.46.19:561][264]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/HumanCF58118C424E328634E394AC883BAEAB.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset'
+[2022.11.08-14.46.19:628][264]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/HUman_anim_BP35D74A2F4C137F7179EE708C9E47FEA8.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/animations/HUman_anim_BP.uasset'
+[2022.11.08-14.46.19:654][264]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/Right_Turn616E416B486D61A56817EC888AC4E86F.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/animations/Right_Turn.uasset'
+[2022.11.08-14.46.19:656][264]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.19:656][264]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.19:681][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.11.08-14.46.19:688][264]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/Testes_Yuri6E36E10E4B4726329596C7961DD6CD3C.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.umap'
+[2022.11.08-14.46.19:690][264]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02C3
+[2022.11.08-14.46.19:690][264]LogScript: Warning: Accessed None trying to read property OwningPlayer
+	HUman_anim_BP_C /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri:PersistentLevel.Human_2.CharacterMesh0.HUman_anim_BP_C_7
+	Function /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP_C:ExecuteUbergraph_HUman_anim_BP:02FA
+[2022.11.08-14.46.19:692][264]LogFileHelpers: Saving map 'Testes_Yuri' took 0.037
+[2022.11.08-14.46.19:714][264]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.08-14.46.19:714][264]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Human.Human
+[2022.11.08-14.46.19:714][264]LogContentValidation: Display: Validating AnimBlueprint /Game/MyModifications/animations/HUman_anim_BP.HUman_anim_BP
+[2022.11.08-14.46.19:715][264]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri
+[2022.11.08-14.46.19:715][264]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.08-14.46.19:715][264]LogContentValidation: Display: Validating AnimSequence /Game/MyModifications/animations/Right_Turn.Right_Turn
+[2022.11.08-14.46.20:897][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.11.08-14.46.21:001][300]LogSavePackage: Moving '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevel0DF2F04045CE232EC8ADF79FF4BDCFB1.tmp' to '../../../../../../Users/ra00297271/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.08-14.46.21:026][300]AssetCheck: New page: Asset Save: BlocagemLevel
+[2022.11.08-14.46.21:026][300]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
