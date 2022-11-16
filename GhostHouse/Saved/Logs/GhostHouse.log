@@ -9294,3 +9294,366 @@ Script Stack (0 frames):
 [2022.11.16-12.36.47:022][481]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
 /Game/MyModifications/Maeriais/Poltrona/Poltrona.Poltrona
 (Selecting 'No' will cause all changes to be lost!)
+[2022.11.16-12.36.47:414][481]LogMaterial: Display: Missing cached shadermap for Poltrona in PCD3D_SM5, Default, SM5 (DDC key hash: 538C7385E98DF1A7E1376320A50C8D6B35198C47), compiling. 
+[2022.11.16-12.36.47:441][481]LogMaterial: Display: Missing cached shadermap for Poltrona in PCD3D_SM5, Default, SM5 (DDC key hash: 53C21EBA16B91B136C5FA9AC8534FE3E48CB635A), compiling. 
+[2022.11.16-12.36.47:676][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.11.16-12.36.47:823][481]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.16-12.36.47:823][481]LogShaderCompilers: Display: Total job queries 20450, among them cache hits 12050 (58.92%)
+[2022.11.16-12.36.47:823][481]LogShaderCompilers: Display: Tracking 6135 distinct input hashes that result in 1126 distinct outputs (18.35%)
+[2022.11.16-12.36.47:823][481]LogShaderCompilers: Display: RAM used: 4.68 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.57%
+[2022.11.16-12.36.47:823][481]LogShaderCompilers: Display: ================================================
+[2022.11.16-12.36.47:855][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.16-12.36.49:898][481]LogSlate: Window 'Message' being destroyed
+[2022.11.16-12.36.49:902][481]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MyModifications/Maeriais/Livros/livros.livros
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.16-12.36.50:270][481]LogMaterial: Display: Missing cached shadermap for livros in PCD3D_SM5, Default, SM5 (DDC key hash: F54665985C9B71301549D9F9EAAF8ADE06F8E3DC), compiling. 
+[2022.11.16-12.36.50:297][481]LogMaterial: Display: Missing cached shadermap for livros in PCD3D_SM5, Default, SM5 (DDC key hash: 0CB78BF2CF2C5D84EF4F48A6DB56D7DD0EBD7589), compiling. 
+[2022.11.16-12.36.50:559][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.16-12.36.50:741][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.16-12.36.50:776][481]LogSlate: Window 'Menu' being destroyed
+[2022.11.16-12.36.50:778][481]LogSlate: Window 'Menu' being destroyed
+[2022.11.16-12.36.50:804][481]LogMaterial: Display: Missing cached shadermap for Poltrona in PCD3D_SM5, Default, SM5 (DDC key hash: 4CD8328D2C812B10DECFCEE0D401923AAB80294E), compiling. 
+[2022.11.16-12.36.50:823][481]LogMaterial: Display: Missing cached shadermap for Poltrona in PCD3D_SM5, Default, SM5 (DDC key hash: 69A218474F9D069541D4DF0A96F4526BF1B47D1D), compiling. 
+[2022.11.16-12.36.51:034][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.16-12.36.51:203][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.16-12.36.51:208][481]LogSlate: Window 'Menu' being destroyed
+[2022.11.16-12.36.51:221][481]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.16-12.36.51:240][481]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-12.36.51:240][481]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-12.36.51:456][481]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-12.36.51:457][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-12.36.51:485][481]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-12.36.51:485][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-12.36.51:556][481]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-12.36.51:556][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-12.36.51:567][481]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-12.36.51:567][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-12.37.01:515][481]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.11.16-12.37.01:516][481]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.16-12.37.01:516][481]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.16-12.37.01:516][481]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.16-12.37.01:516][481]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.16-12.37.01:516][481]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.16-12.37.02:241][481]LogEditorBuildUtils: Build time 2:08
+[2022.11.16-12.37.02:331][482]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Armario in PCD3D_SM5, Default, SM5 (DDC key hash: 62199F6BB5E10A7A1A52328459715AD7DF7FE5D0), compiling. 
+[2022.11.16-12.37.02:336][482]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:338][482]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Armario in PCD3D_SM5, Default, SM5 (DDC key hash: D047C86E89226D97ABF14185339353879D876635), compiling. 
+[2022.11.16-12.37.02:342][482]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:384][483]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.11.16-12.37.02:384][483]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.11.16-12.37.02:385][483]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:397][483]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Armario_Baixo in PCD3D_SM5, Default, SM5 (DDC key hash: 1DAE90B3EC57FDD90E14E28E9BD387B7A856FE7D), compiling. 
+[2022.11.16-12.37.02:404][483]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.11.16-12.37.02:404][483]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.11.16-12.37.02:404][483]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:404][483]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:406][483]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Armario_Baixo in PCD3D_SM5, Default, SM5 (DDC key hash: BA16D45018097E3F9507D0CA06F4BB545FEBEA48), compiling. 
+[2022.11.16-12.37.02:414][483]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:492][484]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cabideiro in PCD3D_SM5, Default, SM5 (DDC key hash: 33B5BC268250A2E41AC70A289AF06665A6039BF9), compiling. 
+[2022.11.16-12.37.02:498][484]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:500][484]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cabideiro in PCD3D_SM5, Default, SM5 (DDC key hash: CC96216C0888CFF8A80E360DFFD75EE3100BE65D), compiling. 
+[2022.11.16-12.37.02:505][484]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:555][485]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cadeira in PCD3D_SM5, Default, SM5 (DDC key hash: 376D500500DE1D1E00782DE1B95DE059492710B5), compiling. 
+[2022.11.16-12.37.02:560][485]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:565][485]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cadeira in PCD3D_SM5, Default, SM5 (DDC key hash: A842E707F0344457F10A16E78B7DC4609317941D), compiling. 
+[2022.11.16-12.37.02:570][485]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:632][486]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cama in PCD3D_SM5, Default, SM5 (DDC key hash: 6C1DAABF47B9D56887EF6183305BC5575FDD6593), compiling. 
+[2022.11.16-12.37.02:638][486]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:641][486]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cama in PCD3D_SM5, Default, SM5 (DDC key hash: FA21530A457DF9B898CCEA2280F1E7DC8FEF76A4), compiling. 
+[2022.11.16-12.37.02:647][486]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:709][487]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Armario_Cozinha in PCD3D_SM5, Default, SM5 (DDC key hash: 0F956C3FAF6B79DD98E31161096CE6A0C6B62027), compiling. 
+[2022.11.16-12.37.02:713][487]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:717][487]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Armario_Cozinha in PCD3D_SM5, Default, SM5 (DDC key hash: 16614245BE9AF991C188ABF8F04BC5C4AAA0EEC3), compiling. 
+[2022.11.16-12.37.02:722][487]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:764][488]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Estante in PCD3D_SM5, Default, SM5 (DDC key hash: 6E331AA75F794FB7C4C4151084F8CCC3DC441A8D), compiling. 
+[2022.11.16-12.37.02:770][488]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:773][488]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Estante in PCD3D_SM5, Default, SM5 (DDC key hash: A38AAC3D5AC182DF2BF54E7BDE7CC2599D0D1885), compiling. 
+[2022.11.16-12.37.02:778][488]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:795][489]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mesa in PCD3D_SM5, Default, SM5 (DDC key hash: 39586108DF57C3BE5E2EE7CE9F14FA35E1C4E192), compiling. 
+[2022.11.16-12.37.02:801][489]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:805][489]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mesa in PCD3D_SM5, Default, SM5 (DDC key hash: 321E2FA5EFB2CD9F9E4A460F7D9D1EC30851D644), compiling. 
+[2022.11.16-12.37.02:812][489]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:838][490]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mesa_de_Centro in PCD3D_SM5, Default, SM5 (DDC key hash: D5F4E63A75211D6D6CC52BB69B835E0EE5BC34D1), compiling. 
+[2022.11.16-12.37.02:845][490]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:850][490]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mesa_de_Centro in PCD3D_SM5, Default, SM5 (DDC key hash: 73F784593F58DDD9D370D56E4123ECC954D8AFD6), compiling. 
+[2022.11.16-12.37.02:855][490]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:873][491]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Poltrona in PCD3D_SM5, Default, SM5 (DDC key hash: F9079F8B5F54B2810F5C88EFB44368B3F96A3D00), compiling. 
+[2022.11.16-12.37.02:879][491]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:882][491]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Poltrona in PCD3D_SM5, Default, SM5 (DDC key hash: D07E5FCD18C56C5EDA764E7D490A8EE87ADD6D87), compiling. 
+[2022.11.16-12.37.02:888][491]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:903][492]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Sofa in PCD3D_SM5, Default, SM5 (DDC key hash: 41237BEBF6DFE30EC06FD97E56085530F425BBDF), compiling. 
+[2022.11.16-12.37.02:909][492]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:912][492]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Sofa in PCD3D_SM5, Default, SM5 (DDC key hash: 8CC0689AA7D7107C954EBF692DE1A93C0ABDC000), compiling. 
+[2022.11.16-12.37.02:918][492]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:935][493]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Televisão in PCD3D_SM5, Default, SM5 (DDC key hash: 94AA030C216A7FEC6D80812F6E256EF9B5D00C90), compiling. 
+[2022.11.16-12.37.02:941][493]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:943][493]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Televisão in PCD3D_SM5, Default, SM5 (DDC key hash: 7EA15561C8F3C84A01533C9A8473251A088E5C4E), compiling. 
+[2022.11.16-12.37.02:949][493]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:967][494]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Vela in PCD3D_SM5, Default, SM5 (DDC key hash: 9D762DAA148524A86EA834500AFFEB3DA67CA530), compiling. 
+[2022.11.16-12.37.02:972][494]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:975][494]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Vela in PCD3D_SM5, Default, SM5 (DDC key hash: D297E2F15F0B914064DD4445ADACC6DFE4F81C99), compiling. 
+[2022.11.16-12.37.02:981][494]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.02:997][495]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Geladeira in PCD3D_SM5, Default, SM5 (DDC key hash: 43E903E353BBDEFBCC414AA68862D73DB6798CAC), compiling. 
+[2022.11.16-12.37.03:003][495]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.03:006][495]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Geladeira in PCD3D_SM5, Default, SM5 (DDC key hash: 24023C827AE357053F69BFAF399B19448CCAD367), compiling. 
+[2022.11.16-12.37.03:012][495]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.03:027][496]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer livros in PCD3D_SM5, Default, SM5 (DDC key hash: 5D1963DE29046C76D853D5943BF9C2B6E6D6BA06), compiling. 
+[2022.11.16-12.37.03:034][496]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.03:037][496]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer livros in PCD3D_SM5, Default, SM5 (DDC key hash: 8A99111DF41C3E63FCE33CD8879DB26701D43071), compiling. 
+[2022.11.16-12.37.03:042][496]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.03:059][497]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WoodenFloor in PCD3D_SM5, Default, SM5 (DDC key hash: D5F4AFE5D0E21979E74A1A96EF0F5722C531498B), compiling. 
+[2022.11.16-12.37.03:066][497]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.03:070][497]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WoodenFloor in PCD3D_SM5, Default, SM5 (DDC key hash: 1353928F9ADD8F9AB3E87F1402640C8393FC750E), compiling. 
+[2022.11.16-12.37.03:076][497]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2022.11.16-12.37.09:469][499]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.11.16-12.37.09:470][499]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.11:351][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.16-12.37.17:973][543]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.17:973][543]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.18:308][544]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.18:308][544]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.18:642][545]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.18:642][545]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.19:340][547]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.19:340][547]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.19:698][548]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.19:698][548]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.19:993][549]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.19:993][549]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.20:333][550]LightingResults: Warning: Poltrona_Sphere Object has overlapping UVs.
+[2022.11.16-12.37.20:333][550]LightingResults: Poltrona_Sphere Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.20:333][550]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.20:333][550]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.20:660][551]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.20:660][551]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.28:148][857]LightingResults: Warning: Fogao Object has overlapping UVs.
+[2022.11.16-12.37.28:148][857]LightingResults: Fogao Lightmap UV are overlapping by 16.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.28:315][859]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.28:315][859]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.28:809][892]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.28:809][892]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.38:251][555]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.38:251][555]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.38:613][579]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.38:613][579]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.38:706][584]LightingResults: Warning: Lampada_teto Object has overlapping UVs.
+[2022.11.16-12.37.38:706][584]LightingResults: Lampada_teto Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.39:243][621]LightingResults: Warning: Poltrona_Sphere Object has overlapping UVs.
+[2022.11.16-12.37.39:243][621]LightingResults: Poltrona_Sphere Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.39:439][633]LightingResults: Warning: Poltrona_Sphere Object has overlapping UVs.
+[2022.11.16-12.37.39:439][633]LightingResults: Poltrona_Sphere Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.39:717][651]LightingResults: Warning: Poltrona_Sphere Object has overlapping UVs.
+[2022.11.16-12.37.39:717][651]LightingResults: Poltrona_Sphere Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.40:224][686]LightingResults: Warning: Poltrona_Sphere Object has overlapping UVs.
+[2022.11.16-12.37.40:224][686]LightingResults: Poltrona_Sphere Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.40:587][710]LightingResults: Warning: Poltrona_Sphere Object has overlapping UVs.
+[2022.11.16-12.37.40:587][710]LightingResults: Poltrona_Sphere Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.16-12.37.46:492][132]Job is a success!
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:          1: 3.0% covering 6.2% of volume
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:          2: 96.2% covering 3.1% of volume
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.16-12.37.46:690][133]LogVolumetricLightmapImport:          BlocagemLevel 			 133 bricks 	 100.0% (Persistent Level)
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight25 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight22 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight16 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:068][133]LightingResults: Warning: PointLight15 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.16-12.37.47:934][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.11.16-12.37.47:934][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.16-12.37.47:934][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.16-12.37.47:934][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.16-12.37.47:935][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.16-12.37.47:935][133]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 1024X1024)
+[2022.11.16-12.37.47:935][133]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 1024X1024)
+[2022.11.16-12.37.47:935][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.16-12.37.47:935][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.16-12.37.48:134][133]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X512)
+[2022.11.16-12.37.48:529][133]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.11.16-12.37.48:529][133]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2022.11.16-12.37.48:529][133]Lightmass on D-090850: 35.5 sec total, 631 ms importing, 134 ms setup, 3.59 sec photons, 30.8 sec processing, 0 ms extra exporting [534/534 mappings]. Threads: 3:36 min total, 2:47 min processing.
+[2022.11.16-12.37.48:544][133]LogStaticLightingSystem: BlocagemLevel_BuiltData storing lightmap data for 444 meshes in 5 LightmapResourceClusters (88.8 Meshes per cluster).
+[2022.11.16-12.37.48:557][133]LogMaterial: Display: Material /Game/MyModifications/Maeriais/Livros/livros.livros needed to have new flag set bUsedWithStaticLighting !
+[2022.11.16-12.37.48:564][133]LogMaterial: Display: Missing cached shadermap for livros in PCD3D_SM5, Default, SM5 (DDC key hash: DC8170A0A98217547A96FD2438CF8566BED78933), compiling. 
+[2022.11.16-12.37.48:662][133]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.48:663][133]LogMaterial: Display: Material /Game/MyModifications/Maeriais/Geladeira/Geladeira.Geladeira needed to have new flag set bUsedWithStaticLighting !
+[2022.11.16-12.37.48:665][133]LogMaterial: Display: Missing cached shadermap for Geladeira in PCD3D_SM5, Default, SM5 (DDC key hash: 13A4F2F1A3E76DECC57049081B790A8678A99C97), compiling. 
+[2022.11.16-12.37.48:731][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2022.11.16-12.37.48:731][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.11.16-12.37.48:731][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.11.16-12.37.48:731][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.11.16-12.37.48:731][133]LogShaderCompilers: Display: Started 23 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-12.37.48:731][133]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.48:733][133]LogMaterial: Display: Material /Game/MyModifications/Maeriais/Poltrona/Poltrona.Poltrona needed to have new flag set bUsedWithStaticLighting !
+[2022.11.16-12.37.48:737][133]LogMaterial: Display: Missing cached shadermap for Poltrona in PCD3D_SM5, Default, SM5 (DDC key hash: 79A168682D10E9D652FF93B4298A3A77FA8A8702), compiling. 
+[2022.11.16-12.37.48:826][133]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.48:827][133]LogMaterial: Display: Material /Game/MyModifications/Maeriais/Sofa/Sofa.Sofa needed to have new flag set bUsedWithStaticLighting !
+[2022.11.16-12.37.48:831][133]LogMaterial: Display: Missing cached shadermap for Sofa in PCD3D_SM5, Default, SM5 (DDC key hash: 029ED4101FB7BB641760C5777CF59B4D9958808E), compiling. 
+[2022.11.16-12.37.48:918][133]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.48:919][133]LogMaterial: Display: Material /Game/MyModifications/Maeriais/TV/Televisão.Televisão needed to have new flag set bUsedWithStaticLighting !
+[2022.11.16-12.37.48:923][133]LogMaterial: Display: Missing cached shadermap for Televisão in PCD3D_SM5, Default, SM5 (DDC key hash: 053F9267F5F57BAC32EBDB1B295E11C56D831095), compiling. 
+[2022.11.16-12.37.49:012][133]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.49:013][133]LogMaterial: Display: Material /Game/MyModifications/Maeriais/Vela/Vela.Vela needed to have new flag set bUsedWithStaticLighting !
+[2022.11.16-12.37.49:016][133]LogMaterial: Display: Missing cached shadermap for Vela in PCD3D_SM5, Default, SM5 (DDC key hash: 5BF87AB02EC8FC82EE9683382B4C16EFB30AD03B), compiling. 
+[2022.11.16-12.37.49:106][133]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.11.16-12.37.49:195][133]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2022.11.16-12.37.49:234][133]LogStaticLightingSystem: Illumination: 2:55 min (868 ms encoding lightmaps, 327 ms encoding shadowmaps)
+[2022.11.16-12.37.49:234][133]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 10 textures
+[2022.11.16-12.37.49:234][133]LogStaticLightingSystem: Shadowmap texture memory: 11.3 MB (10.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 95
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 85
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2022.11.16-12.37.59:575][133]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.37.59:575][133]DumpUnbuiltLightIteractions
+[2022.11.16-12.37.59:575][133]Lights with unbuilt interactions: 0
+[2022.11.16-12.37.59:575][133]
+[2022.11.16-12.37.59:575][133]Primitives with unbuilt interactions: 0
+[2022.11.16-12.38.00:445][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.11.16-12.38.00:445][133]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.00:862][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2022.11.16-12.38.00:862][133]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.01:072][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.11.16-12.38.01:072][133]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.01:281][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.11.16-12.38.01:281][133]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.02:118][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.11.16-12.38.02:118][133]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.02:328][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.11.16-12.38.02:328][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.02:328][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.11.16-12.38.02:328][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.02:328][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.11.16-12.38.02:328][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.16-12.38.02:977][134]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.16-12.38.02:977][134]MapCheck: New page: BlocagemLevel - Nov 16, 2022, 6:38:02 AM
+[2022.11.16-12.38.02:979][134]MapCheck: Warning: MasterItem_2 Static mesh actor has NULL StaticMesh property 
+[2022.11.16-12.38.02:979][134]MapCheck: Warning: Chave_3 Static mesh actor has NULL StaticMesh property 
+[2022.11.16-12.38.02:982][134]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 5.697ms to complete.
+[2022.11.16-12.38.04:812][248]LogSlate: Window 'Message Log' being destroyed
+[2022.11.16-12.38.04:818][248]LogSlate: Window 'Message Log' being destroyed
+[2022.11.16-12.41.23:778][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.11.16-12.41.23:929][759]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto4B98497BF428E98EC3C77079F70ADA0C9.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto4.umap'
+[2022.11.16-12.41.23:931][759]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.176
+[2022.11.16-12.41.23:931][759]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.176
+[2022.11.16-12.41.23:932][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyModifications/Maeriais/Sofa/Sofa] ([1] browsable assets)...
+[2022.11.16-12.41.23:932][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Maeriais/Sofa/Sofa]
+[2022.11.16-12.41.23:935][759]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Sofa_Auto46ED32F70492A3B194DDC16B1264A1D07.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Maeriais/Sofa/Sofa_Auto4.uasset'
+[2022.11.16-12.41.23:936][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyModifications/Maeriais/Geladeira/Geladeira] ([1] browsable assets)...
+[2022.11.16-12.41.23:936][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Maeriais/Geladeira/Geladeira]
+[2022.11.16-12.41.23:940][759]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Geladeira_Auto4E870C7C3460A17B3CF2E91BADA7808E5.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Maeriais/Geladeira/Geladeira_Auto4.uasset'
+[2022.11.16-12.41.23:941][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyModifications/Maeriais/TV/Televisão] ([1] browsable assets)...
+[2022.11.16-12.41.23:941][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Maeriais/TV/Televisão]
+[2022.11.16-12.41.23:945][759]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Televisão_Auto40E79EF5E4F66739714A7A8A6581EEB82.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Maeriais/TV/Televisão_Auto4.uasset'
+[2022.11.16-12.41.23:946][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyModifications/Maeriais/Vela/Vela] ([1] browsable assets)...
+[2022.11.16-12.41.23:946][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Maeriais/Vela/Vela]
+[2022.11.16-12.41.23:949][759]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Vela_Auto4B3E8A3084349AEB12DA44B96B8F9AAB9.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Maeriais/Vela/Vela_Auto4.uasset'
+[2022.11.16-12.41.23:951][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyModifications/Maeriais/Poltrona/Poltrona] ([1] browsable assets)...
+[2022.11.16-12.41.23:966][759]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyModifications/Maeriais/Poltrona/Poltrona.Poltrona]
+[2022.11.16-12.41.23:966][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Maeriais/Poltrona/Poltrona]
+[2022.11.16-12.41.23:974][759]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Poltrona_Auto4D15043284687EDF6718904B770086C6E.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Maeriais/Poltrona/Poltrona_Auto4.uasset'
+[2022.11.16-12.41.23:974][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyModifications/Maeriais/Livros/livros] ([1] browsable assets)...
+[2022.11.16-12.41.23:986][759]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyModifications/Maeriais/Livros/livros.livros]
+[2022.11.16-12.41.23:986][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Maeriais/Livros/livros]
+[2022.11.16-12.41.23:993][759]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/livros_Auto4853C9DAE481B096BBA89C5BA486B549F.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Maeriais/Livros/livros_Auto4.uasset'
+[2022.11.16-12.41.23:994][759]LogFileHelpers: Auto-saving content packages took 0.062
+[2022.11.16-13.03.04:365][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.11.16-13.03.59:620][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.16-13.03.59:769][915]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/BlocagemLevel77A9FF074585BDC9077352BB5387CE3C.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.16-13.04.00:319][915]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/BlocagemLevel_BuiltDataFA8BF717409D8746C90A43AF854732AF.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel_BuiltData.uasset'
+[2022.11.16-13.04.00:366][915]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-13.04.00:366][915]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyModifications/Level/BlocagemLevel_BuiltData.BlocagemLevel_BuiltData
+[2022.11.16-13.04.00:366][915]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.16-13.04.04:294][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.16-13.04.05:520][191]LogSlate: Window 'Save Content' being destroyed
+[2022.11.16-13.04.05:551][191]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Geladeira1C2563844A7F681FB4ED23AC2EF06BD3.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Maeriais/Geladeira/Geladeira.uasset'
+[2022.11.16-13.04.05:554][191]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/livros4F9CF58E433F62B72E39D9A3B925FEF2.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Maeriais/Livros/livros.uasset'
+[2022.11.16-13.04.05:557][191]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Poltrona865F13DE4C4D18344123B1B8E917BF15.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Maeriais/Poltrona/Poltrona.uasset'
+[2022.11.16-13.04.05:562][191]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Sofa1DF32048450535D73697CAA8F68157CC.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Maeriais/Sofa/Sofa.uasset'
+[2022.11.16-13.04.05:565][191]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Televisão5EC753D74954725DD8BBC49F61508A95.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Maeriais/TV/Televisão.uasset'
+[2022.11.16-13.04.05:568][191]LogSavePackage: Moving '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Saved/Vela8936DFA1424BEBB3749A4BB4CE75EB22.tmp' to '../../../../../../Users/ra00297251/Documents/GitHub/The-Last-Dungeon/The Last Dungeon/Ghost-House/Ghost-House/GhostHouse/Content/MyModifications/Maeriais/Vela/Vela.uasset'
+[2022.11.16-13.04.05:581][191]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-13.04.05:581][191]LogContentValidation: Display: Validating Material /Game/MyModifications/Maeriais/Livros/livros.livros
+[2022.11.16-13.04.05:581][191]LogContentValidation: Display: Validating Material /Game/MyModifications/Maeriais/Poltrona/Poltrona.Poltrona
+[2022.11.16-13.04.05:581][191]LogContentValidation: Display: Validating Material /Game/MyModifications/Maeriais/Geladeira/Geladeira.Geladeira
+[2022.11.16-13.04.05:581][191]LogContentValidation: Display: Validating Material /Game/MyModifications/Maeriais/Sofa/Sofa.Sofa
+[2022.11.16-13.04.05:581][191]LogContentValidation: Display: Validating Material /Game/MyModifications/Maeriais/Vela/Vela.Vela
+[2022.11.16-13.04.05:581][191]LogContentValidation: Display: Validating Material /Game/MyModifications/Maeriais/TV/Televisão.Televisão
