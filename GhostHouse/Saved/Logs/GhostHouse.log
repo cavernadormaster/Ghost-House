@@ -2590,3 +2590,958 @@ Make sure 'Human_C' has been compiled for  Set WithChave2
 [2022.11.17-14.19.59:754][ 93]AssetCheck: New page: Asset Save: Testes_Yuri
 [2022.11.17-14.19.59:754][ 93]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri
 [2022.11.17-14.20.00:924][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.17-14.20.30:391][125]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.11.17-14.20.30:867][166]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2022.11.17-14.21.26:189][289]BlueprintLog: New page: Compile Door
+[2022.11.17-14.21.26:277][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.11.17-14.21.26:998][350]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/DoorA76DF0614FC4CE578EC1119E20948090.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Door.uasset'
+[2022.11.17-14.21.27:018][350]AssetCheck: New page: Asset Save: Door
+[2022.11.17-14.21.27:018][350]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/characterTest/Teste_Yuri/Door.Door
+[2022.11.17-14.23.13:749][119]BlueprintLog: New page: Compile Door
+[2022.11.17-14.23.13:838][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.11.17-14.23.14:663][189]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/DoorE197337B40A68815BC585C870333EEB5.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Door.uasset'
+[2022.11.17-14.23.14:682][189]AssetCheck: New page: Asset Save: Door
+[2022.11.17-14.23.14:682][189]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/characterTest/Teste_Yuri/Door.Door
+[2022.11.17-14.23.34:915][157]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.23.34:924][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.23.34:925][157]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:23:34 AM)
+[2022.11.17-14.23.34:950][157]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.23.34:954][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004517s)
+[2022.11.17-14.23.34:955][157]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.23.34:956][157]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2022.11.17-14.23.34:956][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.005979s)
+[2022.11.17-14.23.34:998][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.11.17-14.23.35:001][157]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.11.17-14.23.35:001][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.23.35:001][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.23.35:001][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.23.35:001][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.23.35:001][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.23.35:001][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.23.35:001][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.23.35:001][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.23.35:002][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.23.35:002][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.23.35:002][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.23.35:002][157]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.23.35:006][157]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.23.35:016][157]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.23.35:016][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.23.35:016][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.23.35:016][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.23.35:017][157]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.23.35:017][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.23.35:017][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.23.35:018][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.23.35:018][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.23.35:018][157]LogInit: FAudioDevice initialized.
+[2022.11.17-14.23.35:018][157]LogAudio: Display: Audio Device (ID: 15) registered with world 'Testes_Yuri'.
+[2022.11.17-14.23.35:030][157]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.23.35:032][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.23.35:032][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.23.35:032][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.23.35:033][157]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.23.35
+[2022.11.17-14.23.35:033][157]LogWorld: Bringing up level for play took: 0.001948
+[2022.11.17-14.23.35:033][157]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.11.17-14.23.35:036][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.23.35:036][157]PIE: Server logged in
+[2022.11.17-14.23.35:037][157]PIE: Play in editor total start time 0.114 seconds.
+[2022.11.17-14.23.36:578][336]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.23.38:972][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.23.38:973][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.23.42:330][ 17]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0063
+[2022.11.17-14.23.42:330][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.23.45:715][422]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:021E
+[2022.11.17-14.23.45:716][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.23.49:477][871]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.23.49:477][871]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.23.55:261][560]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.23.55:262][560]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.23.56:094][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.23.56:094][654]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.23.56:095][654]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.23.56:095][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.23.56:123][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.23.56:135][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.23.56:170][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.23.56:170][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.23.56:172][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.23.56:175][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.23.56:178][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.11.17-14.23.56:328][655]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.11.17-14.23.57:427][736]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.23.57:444][736]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.24.21:260][185]BlueprintLog: New page: Compile Door
+[2022.11.17-14.24.21:348][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.11.17-14.24.21:969][239]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/DoorD04468F140200424C3A782AA4AA6F81C.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Door.uasset'
+[2022.11.17-14.24.21:992][239]AssetCheck: New page: Asset Save: Door
+[2022.11.17-14.24.21:992][239]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/characterTest/Teste_Yuri/Door.Door
+[2022.11.17-14.24.23:587][381]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.24.23:596][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.24.23:597][381]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:24:23 AM)
+[2022.11.17-14.24.23:597][381]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.24.23:601][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004575s)
+[2022.11.17-14.24.23:602][381]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.24.23:603][381]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2022.11.17-14.24.23:603][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.005963s)
+[2022.11.17-14.24.23:645][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.11.17-14.24.23:646][381]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.11.17-14.24.23:646][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.24.23:646][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.24.23:646][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.24.23:646][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.24.23:646][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.24.23:646][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.24.23:646][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.24.23:646][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.24.23:647][381]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.24.23:647][381]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.24.23:647][381]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.24.23:647][381]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.24.23:650][381]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.24.23:650][381]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.24.23:651][381]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.24.23:651][381]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.24.23:651][381]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.24.23:651][381]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.24.23:651][381]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.24.23:651][381]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.24.23:660][381]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.24.23:660][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.24.23:661][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.24.23:661][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.24.23:661][381]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.24.23:661][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.24.23:661][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.24.23:662][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.24.23:662][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.24.23:662][381]LogInit: FAudioDevice initialized.
+[2022.11.17-14.24.23:662][381]LogAudio: Display: Audio Device (ID: 16) registered with world 'Testes_Yuri'.
+[2022.11.17-14.24.23:675][381]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.24.23:677][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.24.23:677][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.24.23:677][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.24.23:678][381]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.24.23
+[2022.11.17-14.24.23:678][381]LogWorld: Bringing up level for play took: 0.002005
+[2022.11.17-14.24.23:678][381]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.11.17-14.24.23:681][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.24.23:682][381]PIE: Server logged in
+[2022.11.17-14.24.23:683][381]PIE: Play in editor total start time 0.087 seconds.
+[2022.11.17-14.24.26:211][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.24.26:212][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.24.29:562][ 71]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0063
+[2022.11.17-14.24.29:563][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.24.30:467][179]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:021E
+[2022.11.17-14.24.30:468][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.24.34:657][673]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.24.34:657][673]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.24.39:748][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.24.39:748][275]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.24.39:748][275]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.24.39:749][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.24.39:772][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.24.39:784][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.24.39:819][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.24.39:819][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.24.39:821][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.24.39:824][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.24.39:828][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.11.17-14.24.39:971][276]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.11.17-14.24.41:100][349]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.24.41:118][349]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.25.31:231][834]BlueprintLog: New page: Compile Door
+[2022.11.17-14.25.31:322][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.11.17-14.25.32:193][906]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Door30BCA4FE4D0DBA8111A8E28858FAB353.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Door.uasset'
+[2022.11.17-14.25.32:216][906]AssetCheck: New page: Asset Save: Door
+[2022.11.17-14.25.32:216][906]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/characterTest/Teste_Yuri/Door.Door
+[2022.11.17-14.25.33:521][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.25.33:530][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.25.33:530][ 20]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:25:33 AM)
+[2022.11.17-14.25.33:562][ 20]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.25.33:572][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009231s)
+[2022.11.17-14.25.33:573][ 20]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.25.33:574][ 20]LogPlayLevel: PIE: World Init took: (0.002261s)
+[2022.11.17-14.25.33:574][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.011810s)
+[2022.11.17-14.25.33:614][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.11.17-14.25.33:616][ 20]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.11.17-14.25.33:616][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.25.33:616][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.25.33:616][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.25.33:616][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.25.33:616][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.25.33:616][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.25.33:616][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.25.33:616][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.25.33:617][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.25.33:617][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.25.33:617][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.25.33:617][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.25.33:620][ 20]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.25.33:630][ 20]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.25.33:631][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.25.33:631][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.25.33:631][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.25.33:631][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.25.33:631][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.25.33:631][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.25.33:632][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.25.33:633][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.25.33:633][ 20]LogInit: FAudioDevice initialized.
+[2022.11.17-14.25.33:633][ 20]LogAudio: Display: Audio Device (ID: 17) registered with world 'Testes_Yuri'.
+[2022.11.17-14.25.33:644][ 20]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.25.33:646][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.25.33:646][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.25.33:646][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.25.33:647][ 20]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.25.33
+[2022.11.17-14.25.33:647][ 20]LogWorld: Bringing up level for play took: 0.001981
+[2022.11.17-14.25.33:647][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.11.17-14.25.33:650][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.25.33:651][ 20]PIE: Server logged in
+[2022.11.17-14.25.33:652][ 20]PIE: Play in editor total start time 0.123 seconds.
+[2022.11.17-14.25.36:864][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.25.36:864][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.25.40:223][789]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0063
+[2022.11.17-14.25.40:223][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.25.41:582][948]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:021E
+[2022.11.17-14.25.41:582][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.25.45:246][384]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.25.45:247][384]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.25.50:155][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.25.50:155][954]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.25.50:155][954]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.25.50:156][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.25.50:170][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.25.50:183][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.25.50:220][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.25.50:220][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.25.50:221][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.25.50:233][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.25.50:237][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.17-14.25.50:355][955]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.11.17-14.25.51:399][ 26]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.25.51:418][ 26]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.26.00:414][929]BlueprintLog: New page: Compile Door
+[2022.11.17-14.26.00:508][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.11.17-14.26.30:758][899]BlueprintLog: New page: Compile Door
+[2022.11.17-14.26.30:848][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.11.17-14.26.31:703][975]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Door9AB4DE354FE1D5A01D119DB15F5ABB86.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Door.uasset'
+[2022.11.17-14.26.31:725][975]AssetCheck: New page: Asset Save: Door
+[2022.11.17-14.26.31:725][975]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/characterTest/Teste_Yuri/Door.Door
+[2022.11.17-14.26.33:152][106]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.26.33:160][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.26.33:160][106]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:26:33 AM)
+[2022.11.17-14.26.33:188][106]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.26.33:193][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004436s)
+[2022.11.17-14.26.33:194][106]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.26.33:194][106]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2022.11.17-14.26.33:194][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.005789s)
+[2022.11.17-14.26.33:234][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.11.17-14.26.33:236][106]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.26.33:236][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.26.33:236][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.26.33:236][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.26.33:236][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.26.33:236][106]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.26.33:240][106]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.26.33:250][106]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.26.33:250][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.26.33:251][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.26.33:251][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.26.33:251][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.26.33:251][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.26.33:251][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.26.33:252][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.26.33:252][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.26.33:252][106]LogInit: FAudioDevice initialized.
+[2022.11.17-14.26.33:252][106]LogAudio: Display: Audio Device (ID: 18) registered with world 'Testes_Yuri'.
+[2022.11.17-14.26.33:264][106]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.26.33:266][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.26.33:266][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.26.33:266][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.26.33:266][106]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.26.33
+[2022.11.17-14.26.33:267][106]LogWorld: Bringing up level for play took: 0.001963
+[2022.11.17-14.26.33:267][106]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.11.17-14.26.33:270][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.26.33:270][106]PIE: Server logged in
+[2022.11.17-14.26.33:271][106]PIE: Play in editor total start time 0.112 seconds.
+[2022.11.17-14.26.36:038][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.26.36:038][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.26.39:397][806]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0063
+[2022.11.17-14.26.39:397][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.26.40:536][933]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:021E
+[2022.11.17-14.26.40:536][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.26.45:582][505]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.26.45:582][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.26.55:126][589]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.26.55:127][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.27.04:867][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.27.04:868][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.27.04:868][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.27.08:224][ 77]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_2_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0063
+[2022.11.17-14.27.08:224][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.27.08:225][ 77]LogScript: Warning: Accessed None trying to read property chave1
+	Chave_2_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:011C
+[2022.11.17-14.27.08:225][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.17-14.27.09:347][200]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_2_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:021E
+[2022.11.17-14.27.09:347][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.27.09:347][200]LogScript: Warning: Accessed None trying to read property chave1
+	Chave_2_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave2_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:02A7
+[2022.11.17-14.27.09:347][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.17-14.27.12:797][594]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave2_2 via property Chave 2, but Chave2_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.27.12:797][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.27.14:925][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.27.14:925][825]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.27.14:925][825]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.27.14:925][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.27.14:958][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.27.14:970][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.27.15:005][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.27.15:006][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.27.15:007][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.27.15:010][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.27.15:014][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.11.17-14.27.15:147][826]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.11.17-14.27.16:742][945]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.27.16:764][945]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.28.03:695][663]BlueprintLog: New page: Compile Door2
+[2022.11.17-14.28.03:772][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.11.17-14.28.04:527][728]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Door256FEB8C74A88F31D8FBE7984EEDE7EFD.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Door2.uasset'
+[2022.11.17-14.28.04:542][728]AssetCheck: New page: Asset Save: Door2
+[2022.11.17-14.28.04:542][728]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/characterTest/Teste_Yuri/Door2.Door2
+[2022.11.17-14.28.09:170][223]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.28.09:179][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.28.09:179][223]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:28:09 AM)
+[2022.11.17-14.28.09:179][223]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.28.09:184][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004614s)
+[2022.11.17-14.28.09:185][223]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.28.09:185][223]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2022.11.17-14.28.09:185][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.006148s)
+[2022.11.17-14.28.09:228][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.11.17-14.28.09:229][223]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.11.17-14.28.09:229][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.28.09:229][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.28.09:229][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.28.09:229][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.28.09:229][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.28.09:229][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.28.09:229][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.28.09:229][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.28.09:230][223]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.28.09:230][223]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.28.09:230][223]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.28.09:230][223]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.28.09:233][223]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.28.09:243][223]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.28.09:244][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.28.09:244][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.28.09:244][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.28.09:244][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.28.09:244][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.28.09:244][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.28.09:246][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.28.09:246][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.28.09:246][223]LogInit: FAudioDevice initialized.
+[2022.11.17-14.28.09:246][223]LogAudio: Display: Audio Device (ID: 19) registered with world 'Testes_Yuri'.
+[2022.11.17-14.28.09:259][223]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.28.09:262][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.28.09:262][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.28.09:262][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.28.09:263][223]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.28.09
+[2022.11.17-14.28.09:263][223]LogWorld: Bringing up level for play took: 0.002903
+[2022.11.17-14.28.09:263][223]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.11.17-14.28.09:268][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.28.09:268][223]PIE: Server logged in
+[2022.11.17-14.28.09:270][223]PIE: Play in editor total start time 0.092 seconds.
+[2022.11.17-14.28.14:874][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.28.14:875][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.28.14:875][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.28.18:234][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.28.18:979][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.28.20:211][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.28.20:212][518]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.28.20:212][518]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.28.20:212][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.28.20:252][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.28.20:264][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.28.20:300][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.28.20:300][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.28.20:302][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.28.20:305][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.28.20:308][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.17-14.28.20:456][519]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.11.17-14.28.21:750][628]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.28.21:758][628]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.29.10:775][205]BlueprintLog: New page: Compile Chave_2
+[2022.11.17-14.29.10:858][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.11.17-14.29.11:715][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/Chave_2" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset" SILENT=true
+[2022.11.17-14.29.11:738][291]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Chave_27E3C5ABC41FCA3801752458166E8175C.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.17-14.29.11:754][291]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.17-14.29.11:754][291]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.17-14.29.31:434][484]BlueprintLog: New page: Compile Chave_1
+[2022.11.17-14.29.31:514][484]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.11.17-14.29.32:108][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/Chave_1" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset" SILENT=true
+[2022.11.17-14.29.32:132][540]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Chave_1C56A2ECE45DC4E52744A0FADE25F64B4.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset'
+[2022.11.17-14.29.32:148][540]AssetCheck: New page: Asset Save: Chave_1
+[2022.11.17-14.29.32:148][540]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_1.Chave_1
+[2022.11.17-14.29.33:712][691]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.29.33:722][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.29.33:722][691]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:29:33 AM)
+[2022.11.17-14.29.33:758][691]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.29.33:763][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004545s)
+[2022.11.17-14.29.33:764][691]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.29.33:764][691]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2022.11.17-14.29.33:764][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.005945s)
+[2022.11.17-14.29.33:805][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.11.17-14.29.33:806][691]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.29.33:806][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.29.33:806][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.29.33:806][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.29.33:806][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.29.33:806][691]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.29.33:810][691]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.29.33:820][691]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.29.33:820][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.29.33:820][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.29.33:820][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.29.33:821][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.29.33:821][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.29.33:821][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.29.33:822][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.29.33:822][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.29.33:822][691]LogInit: FAudioDevice initialized.
+[2022.11.17-14.29.33:822][691]LogAudio: Display: Audio Device (ID: 20) registered with world 'Testes_Yuri'.
+[2022.11.17-14.29.33:832][691]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.29.33:833][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.29.33:833][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.29.33:833][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.29.33:834][691]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.29.33
+[2022.11.17-14.29.33:834][691]LogWorld: Bringing up level for play took: 0.002123
+[2022.11.17-14.29.33:834][691]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.11.17-14.29.33:838][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.29.33:838][691]PIE: Server logged in
+[2022.11.17-14.29.33:839][691]PIE: Play in editor total start time 0.118 seconds.
+[2022.11.17-14.29.39:962][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.29.39:963][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.29.39:963][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.29.43:317][823]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0063
+[2022.11.17-14.29.43:317][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.29.44:325][944]LogScript: Warning: Accessed None trying to read property ghost
+	Chave_1_C /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri:PersistentLevel.Chave_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:021E
+[2022.11.17-14.29.44:325][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.29.46:221][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.29.46:221][166]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.29.46:221][166]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.29.46:222][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.29.46:245][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.29.46:257][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.29.46:294][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.29.46:295][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.29.46:296][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.29.46:299][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.29.46:303][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.11.17-14.29.46:438][167]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.11.17-14.29.49:054][399]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.29.49:068][399]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.30.07:884][514]BlueprintLog: New page: Compile Chave_2
+[2022.11.17-14.30.07:978][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.11.17-14.30.12:765][ 39]BlueprintLog: New page: Compile Chave_1
+[2022.11.17-14.30.12:846][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.11.17-14.30.14:531][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/Chave_1" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset" SILENT=true
+[2022.11.17-14.30.14:555][209]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Chave_1281071B34B75233A9621E3B3EB5E648F.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset'
+[2022.11.17-14.30.14:572][209]AssetCheck: New page: Asset Save: Chave_1
+[2022.11.17-14.30.14:573][209]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_1.Chave_1
+[2022.11.17-14.30.15:748][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/Chave_2" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset" SILENT=true
+[2022.11.17-14.30.15:772][325]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Chave_2AB2EC01546B60C68A45CFBBFC32FD49A.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.17-14.30.15:789][325]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.17-14.30.15:789][325]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.17-14.30.17:277][465]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.30.17:286][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.30.17:286][465]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:30:17 AM)
+[2022.11.17-14.30.17:286][465]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.30.17:291][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004854s)
+[2022.11.17-14.30.17:292][465]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.30.17:292][465]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2022.11.17-14.30.17:292][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.006176s)
+[2022.11.17-14.30.17:333][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.11.17-14.30.17:334][465]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.11.17-14.30.17:334][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.30.17:334][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.30.17:334][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.30.17:334][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.30.17:334][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.30.17:334][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.30.17:334][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.30.17:334][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.30.17:335][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.30.17:335][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.30.17:335][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.30.17:335][465]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.30.17:338][465]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.30.17:348][465]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.30.17:348][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.30.17:348][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.30.17:348][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.30.17:349][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.30.17:349][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.30.17:349][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.30.17:350][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.30.17:351][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.30.17:351][465]LogInit: FAudioDevice initialized.
+[2022.11.17-14.30.17:351][465]LogAudio: Display: Audio Device (ID: 21) registered with world 'Testes_Yuri'.
+[2022.11.17-14.30.17:360][465]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.30.17:362][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.30.17:362][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.30.17:362][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.30.17:362][465]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.30.17
+[2022.11.17-14.30.17:363][465]LogWorld: Bringing up level for play took: 0.002017
+[2022.11.17-14.30.17:363][465]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.11.17-14.30.17:366][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.30.17:366][465]PIE: Server logged in
+[2022.11.17-14.30.17:367][465]PIE: Play in editor total start time 0.082 seconds.
+[2022.11.17-14.30.23:645][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.30.23:645][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.30.27:000][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.30.27:835][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.30.31:578][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.30.31:579][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.30.31:579][155]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.30.34:937][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.30.34:937][557]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property chave1, but Chave_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.17-14.30.35:974][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.30.35:974][681]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property chave1, but Chave_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.17-14.30.37:316][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.30.37:316][838]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.30.37:316][838]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.30.37:317][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.30.37:345][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.30.37:356][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.30.37:392][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.30.37:392][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.30.37:393][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.30.37:396][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.30.37:400][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.11.17-14.30.37:538][839]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.11.17-14.30.39:599][  6]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.30.39:614][  6]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.31.21:381][707]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.31.21:390][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.31.21:390][707]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:31:21 AM)
+[2022.11.17-14.31.21:391][707]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.31.21:395][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004597s)
+[2022.11.17-14.31.21:396][707]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.31.21:397][707]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2022.11.17-14.31.21:397][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.006007s)
+[2022.11.17-14.31.21:434][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.11.17-14.31.21:437][707]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.31.21:437][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.31.21:437][707]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.31.21:437][707]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.31.21:437][707]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.31.21:437][707]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.31.21:440][707]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.31.21:451][707]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.31.21:451][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.31.21:451][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.31.21:451][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.31.21:452][707]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.31.21:452][707]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.31.21:452][707]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.31.21:453][707]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.31.21:453][707]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.31.21:453][707]LogInit: FAudioDevice initialized.
+[2022.11.17-14.31.21:453][707]LogAudio: Display: Audio Device (ID: 22) registered with world 'Testes_Yuri'.
+[2022.11.17-14.31.21:466][707]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.31.21:467][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.31.21:468][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.31.21:468][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.31.21:468][707]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.31.21
+[2022.11.17-14.31.21:468][707]LogWorld: Bringing up level for play took: 0.002044
+[2022.11.17-14.31.21:469][707]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.11.17-14.31.21:472][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.31.21:472][707]PIE: Server logged in
+[2022.11.17-14.31.21:473][707]PIE: Play in editor total start time 0.083 seconds.
+[2022.11.17-14.31.26:177][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.31.26:178][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.31.29:533][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.31.30:810][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.31.32:122][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.31.32:122][974]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.31.32:122][974]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.31.32:123][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.31.32:140][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.31.32:153][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.31.32:187][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.31.32:188][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.31.32:189][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.31.32:196][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.17-14.31.32:334][975]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.11.17-14.31.34:343][135]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.31.34:360][135]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.31.35:093][204]LogEditorViewport: Clicking on Actor (LMB): Chave_1_C (Chave_1)
+[2022.11.17-14.31.41:844][889]LogEditorViewport: Clicking on Actor (LMB): Chave_2_C (Chave2)
+[2022.11.17-14.31.43:868][109]LogEditorViewport: Clicking on Actor (LMB): MasterItem_C (MasterItem)
+[2022.11.17-14.31.55:128][271]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.31.55:153][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.31.55:153][271]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:31:55 AM)
+[2022.11.17-14.31.55:193][271]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.31.55:198][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005187s)
+[2022.11.17-14.31.55:199][271]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.31.55:200][271]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2022.11.17-14.31.55:200][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.006781s)
+[2022.11.17-14.31.55:243][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.11.17-14.31.55:246][271]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.31.55:246][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.31.55:246][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.31.55:246][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.31.55:246][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.31.55:246][271]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.31.55:250][271]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.31.55:261][271]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.31.55:261][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.31.55:261][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.31.55:261][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.31.55:261][271]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.31.55:261][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.31.55:261][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.31.55:263][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.31.55:263][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.31.55:263][271]LogInit: FAudioDevice initialized.
+[2022.11.17-14.31.55:263][271]LogAudio: Display: Audio Device (ID: 23) registered with world 'Testes_Yuri'.
+[2022.11.17-14.31.55:276][271]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.31.55:277][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.31.55:278][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.31.55:278][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.31.55:278][271]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.31.55
+[2022.11.17-14.31.55:278][271]LogWorld: Bringing up level for play took: 0.002013
+[2022.11.17-14.31.55:279][271]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.11.17-14.31.55:282][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.31.55:282][271]PIE: Server logged in
+[2022.11.17-14.31.55:283][271]PIE: Play in editor total start time 0.146 seconds.
+[2022.11.17-14.31.59:035][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.31.59:035][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.32.02:393][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.32.03:211][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.32.04:016][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.32.04:016][310]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.32.04:016][310]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.32.04:016][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.32.04:033][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.32.04:045][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.32.04:082][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.32.04:082][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.32.04:083][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.32.04:086][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.32.04:089][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.11.17-14.32.04:223][311]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.11.17-14.32.05:980][460]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.32.05:988][460]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.32.23:315][426]LogEditorTransaction: Undo Delete current selection
+[2022.11.17-14.32.28:196][944]BlueprintLog: New page: Compile Chave_1
+[2022.11.17-14.32.28:273][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.11.17-14.32.29:844][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.32.29:853][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.32.29:853][ 86]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:32:29 AM)
+[2022.11.17-14.32.29:877][ 86]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.32.29:881][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004412s)
+[2022.11.17-14.32.29:882][ 86]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.32.29:883][ 86]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2022.11.17-14.32.29:883][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.005985s)
+[2022.11.17-14.32.29:924][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.11.17-14.32.29:925][ 86]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.11.17-14.32.29:925][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.32.29:925][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.32.29:925][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.32.29:925][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.32.29:925][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.32.29:925][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.32.29:925][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.32.29:925][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.32.29:926][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.32.29:926][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.32.29:926][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.32.29:926][ 86]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.32.29:930][ 86]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.32.29:939][ 86]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.32.29:939][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.32.29:939][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.32.29:939][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.32.29:940][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.32.29:940][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.32.29:940][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.32.29:941][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.32.29:941][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.32.29:941][ 86]LogInit: FAudioDevice initialized.
+[2022.11.17-14.32.29:941][ 86]LogAudio: Display: Audio Device (ID: 24) registered with world 'Testes_Yuri'.
+[2022.11.17-14.32.29:950][ 86]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.32.29:952][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.32.29:952][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.32.29:952][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.32.29:953][ 86]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.32.29
+[2022.11.17-14.32.29:953][ 86]LogWorld: Bringing up level for play took: 0.002004
+[2022.11.17-14.32.29:953][ 86]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.11.17-14.32.29:956][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.32.29:957][ 86]PIE: Server logged in
+[2022.11.17-14.32.29:958][ 86]PIE: Play in editor total start time 0.106 seconds.
+[2022.11.17-14.32.33:848][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.32.33:849][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.32.37:202][949]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.32.37:985][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.32.39:859][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.32.39:859][263]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.32.39:859][263]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.32.39:859][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.32.39:882][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.32.39:894][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.32.39:929][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-14.32.39:929][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.32.39:930][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.32.39:933][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.32.39:937][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.11.17-14.32.40:093][264]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.11.17-14.32.41:607][384]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.32.41:615][384]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.32.55:963][ 57]LogEditorTransaction: Undo Create Pin Link
+[2022.11.17-14.32.57:058][140]LogEditorTransaction: Undo Delete current selection
+[2022.11.17-14.32.59:797][428]BlueprintLog: New page: Compile Chave_1
+[2022.11.17-14.32.59:875][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.11.17-14.33.00:794][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/Chave_1" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset" SILENT=true
+[2022.11.17-14.33.00:818][520]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Chave_118D24F4C422E38FEF2D5AC8DB2837402.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset'
+[2022.11.17-14.33.00:837][520]AssetCheck: New page: Asset Save: Chave_1
+[2022.11.17-14.33.00:837][520]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_1.Chave_1
+[2022.11.17-14.33.45:074][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.11.17-14.33.45:089][559]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Testes_Yuri_Auto1A3F83A1B4352ADF234B955830D76AAB3.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri_Auto1.umap'
+[2022.11.17-14.33.45:091][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri' took 0.058
+[2022.11.17-14.33.45:091][559]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.11.17-14.33.45:092][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyModifications/Interface/MasterItem] ([2] browsable assets)...
+[2022.11.17-14.33.45:092][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Interface/MasterItem]
+[2022.11.17-14.33.45:146][559]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/MasterItem_Auto1344EBB4C457AD26B00639090F11536F1.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Interface/MasterItem_Auto1.uasset'
+[2022.11.17-14.33.45:147][559]LogFileHelpers: Auto-saving content packages took 0.056
+[2022.11.17-14.34.40:588][978]BlueprintLog: New page: Compile MasterItem
+[2022.11.17-14.34.40:746][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.11.17-14.34.41:357][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/MasterItem" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/MasterItem.uasset" SILENT=true
+[2022.11.17-14.34.41:415][ 29]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/MasterItem7FEE12D64FAEF8DBF57E36A988E49A07.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/MasterItem.uasset'
+[2022.11.17-14.34.41:434][ 29]AssetCheck: New page: Asset Save: MasterItem
+[2022.11.17-14.34.41:434][ 29]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/MasterItem.MasterItem
+[2022.11.17-14.34.48:307][813]BlueprintLog: New page: Compile MasterItem
+[2022.11.17-14.34.48:459][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.11.17-14.34.48:941][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/MasterItem" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/MasterItem.uasset" SILENT=true
+[2022.11.17-14.34.48:997][851]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/MasterItem0150AFEA445C4580E5D5138F3A8F70B8.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/MasterItem.uasset'
+[2022.11.17-14.34.49:018][851]AssetCheck: New page: Asset Save: MasterItem
+[2022.11.17-14.34.49:018][851]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/MasterItem.MasterItem
+[2022.11.17-14.35.26:367][123]BlueprintLog: New page: Compile Chave_1
+[2022.11.17-14.35.26:465][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.11.17-14.35.27:142][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/Chave_1" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset" SILENT=true
+[2022.11.17-14.35.27:167][185]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Chave_11D80B9FF4B3CF70FF38BD3B7D16A3FDB.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset'
+[2022.11.17-14.35.27:187][185]AssetCheck: New page: Asset Save: Chave_1
+[2022.11.17-14.35.27:187][185]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_1.Chave_1
+[2022.11.17-14.35.56:921][480]BlueprintLog: New page: Compile Chave_2
+[2022.11.17-14.35.57:003][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.11.17-14.35.58:811][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Interface/Chave_2" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset" SILENT=true
+[2022.11.17-14.35.58:835][674]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Chave_2BE0BA19B46E1F67B6A18D3A6EC04A977.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.17-14.35.58:853][674]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.17-14.35.58:853][674]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.17-14.36.02:037][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.11.17-14.36.03:443][951]LogSlate: Window 'Save Content' being destroyed
+[2022.11.17-14.36.03:513][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.17-14.36.03:528][951]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Testes_Yuri4686DF6D4662699335F39DAC0E48DFB5.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.umap'
+[2022.11.17-14.36.03:545][951]LogFileHelpers: Saving map 'Testes_Yuri' took 0.070
+[2022.11.17-14.36.03:562][951]AssetCheck: New page: Asset Save: Testes_Yuri
+[2022.11.17-14.36.03:562][951]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri
+[2022.11.17-14.36.16:788][347]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.17-14.36.16:796][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-14.36.16:796][347]PIE: New page: PIE session: Testes_Yuri (Nov 17, 2022, 8:36:16 AM)
+[2022.11.17-14.36.16:831][347]LogPlayLevel: Creating play world package: /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.36.16:835][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004460s)
+[2022.11.17-14.36.16:836][347]LogAIModule: Creating AISystem for world Testes_Yuri
+[2022.11.17-14.36.16:836][347]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2022.11.17-14.36.16:837][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri to /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri (0.005867s)
+[2022.11.17-14.36.16:875][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.11.17-14.36.16:879][347]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.11.17-14.36.16:879][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-14.36.16:879][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-14.36.16:879][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-14.36.16:879][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-14.36.16:879][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-14.36.16:879][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.17-14.36.16:879][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-14.36.16:879][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-14.36.16:880][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-14.36.16:880][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-14.36.16:880][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-14.36.16:880][347]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 1: FrontRight
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 4: BackLeft
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 5: BackRight
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 6: SideLeft
+[2022.11.17-14.36.16:884][347]LogAudioMixer: Display: 7: SideRight
+[2022.11.17-14.36.16:894][347]LogAudioMixer: Display: Using Audio Device Alto-falantes (Logitech G933 Gaming Headset)
+[2022.11.17-14.36.16:895][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-14.36.16:895][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-14.36.16:895][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-14.36.16:895][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.17-14.36.16:895][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.17-14.36.16:895][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.17-14.36.16:896][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.17-14.36.16:897][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.17-14.36.16:897][347]LogInit: FAudioDevice initialized.
+[2022.11.17-14.36.16:897][347]LogAudio: Display: Audio Device (ID: 25) registered with world 'Testes_Yuri'.
+[2022.11.17-14.36.16:906][347]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.17-14.36.16:908][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.36.16:908][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.36.16:908][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.17-14.36.16:908][347]LogWorld: Bringing World /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri.Testes_Yuri up for play (max tick rate 0) at 2022.11.17-11.36.16
+[2022.11.17-14.36.16:908][347]LogWorld: Bringing up level for play took: 0.002046
+[2022.11.17-14.36.16:909][347]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.11.17-14.36.16:912][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Set controlable
+[2022.11.17-14.36.16:912][347]PIE: Server logged in
+[2022.11.17-14.36.16:913][347]PIE: Play in editor total start time 0.118 seconds.
+[2022.11.17-14.36.22:558][  7]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.36.29:044][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.36.29:044][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.36.32:403][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.36.33:321][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.36.35:690][573]LogBlueprintUserMessages: [Human_2] DOOORRRR
+[2022.11.17-14.36.35:690][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.36.42:007][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.36.42:008][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Human". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.36.42:008][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.36.45:364][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Disable Input
+[2022.11.17-14.36.45:365][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.17-14.36.46:915][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ghost". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Enable Input
+[2022.11.17-14.36.46:916][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.17-14.36.48:683][129]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave2_2 via property Chave 2, but Chave2_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.36.48:683][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.17-14.36.53:525][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.36.53:525][704]LogWorld: BeginTearingDown for /Game/MyModifications/characterTest/Teste_Yuri/UEDPIE_0_Testes_Yuri
+[2022.11.17-14.36.53:526][704]LogWorld: UWorld::CleanupWorld for Testes_Yuri, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-14.36.53:526][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.36.53:554][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-14.36.53:565][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-14.36.53:600][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-14.36.53:601][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.36.53:602][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.17-14.36.53:615][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.11.17-14.36.53:759][705]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.11.17-14.36.56:138][898]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.36.56:153][898]LogSlate: Window 'Message Log' being destroyed
+[2022.11.17-14.37.00:785][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.11.17-14.37.02:075][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
