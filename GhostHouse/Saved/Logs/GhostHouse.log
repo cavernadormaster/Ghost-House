@@ -1878,3 +1878,7 @@ Make sure 'Human_C' has been compiled for  Set WithChave2
 [2022.11.17-11.49.01:619][122]LogEditorActor: Deleted Actor: StaticMeshActor
 [2022.11.17-11.49.01:627][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2022.11.17-11.49.01:628][122]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.11.17-11.49.54:633][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.17-11.49.54:903][681]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto12D00E9CC4FECCED29EA9509D19DCAED7.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto1.umap'
+[2022.11.17-11.49.54:905][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.279
+[2022.11.17-11.49.54:905][681]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.279
