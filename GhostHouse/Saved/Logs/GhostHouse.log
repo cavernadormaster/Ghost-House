@@ -18233,3 +18233,945 @@ Make sure 'Chave_2_C' has been compiled for  Ghost Grab
 [2022.11.22-13.22.32:071][  2]LogPlayLevel: Display: Destroying online subsystem :Context_115
 [2022.11.22-13.22.36:444][286]LogSlate: Window 'Message Log' being destroyed
 [2022.11.22-13.22.36:460][286]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.28.03:746][ 90]LogEditorViewport: Clicking on Actor (LMB): Chave_2_C (Chave_2)
+[2022.11.22-13.28.34:394][130]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.28.34:401][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.28.34:401][130]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:28:34 AM)
+[2022.11.22-13.28.34:401][130]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.28.34:431][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029925s)
+[2022.11.22-13.28.34:432][130]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.28.34:433][130]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2022.11.22-13.28.34:433][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.031308s)
+[2022.11.22-13.28.34:502][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.11.22-13.28.34:516][130]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.28.34:516][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.28.34:516][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.28.34:516][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.28.34:516][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.28.34:516][130]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.28.34:518][130]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.28.34:519][130]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.28.34:543][130]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.28.34:543][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.28.34:543][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.28.34:543][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.28.34:544][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.28.34:544][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.28.34:544][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.28.34:545][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.28.34:545][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.28.34:545][130]LogInit: FAudioDevice initialized.
+[2022.11.22-13.28.34:545][130]LogAudio: Display: Audio Device (ID: 74) registered with world 'BlocagemLevel'.
+[2022.11.22-13.28.34:554][130]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.28.34:566][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.28.34:566][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.28.34:566][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.28.34:567][130]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.28.34
+[2022.11.22-13.28.34:567][130]LogWorld: Bringing up level for play took: 0.012688
+[2022.11.22-13.28.34:567][130]LogOnline: OSS: Creating online subsystem instance for: :Context_116
+[2022.11.22-13.28.34:571][130]PIE: Server logged in
+[2022.11.22-13.28.34:572][130]PIE: Play in editor total start time 0.172 seconds.
+[2022.11.22-13.28.37:741][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.28.37:741][502]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.28.37:742][502]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.28.37:743][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.28.37:804][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.28.37:818][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.28.37:867][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.28.37:868][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.28.37:869][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.28.37:879][502]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.11.22-13.28.38:006][503]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2022.11.22-13.28.39:065][575]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.28.39:089][575]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.28.44:472][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.28.44:479][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.28.44:479][ 57]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:28:44 AM)
+[2022.11.22-13.28.44:479][ 57]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.28.44:509][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030192s)
+[2022.11.22-13.28.44:510][ 57]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.28.44:510][ 57]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2022.11.22-13.28.44:510][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.031514s)
+[2022.11.22-13.28.44:563][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.11.22-13.28.44:568][ 57]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.28.44:568][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.28.44:568][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.28.44:568][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.28.44:568][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.28.44:568][ 57]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.28.44:571][ 57]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.28.44:571][ 57]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.28.44:592][ 57]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.28.44:592][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.28.44:592][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.28.44:592][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.28.44:592][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.28.44:592][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.28.44:592][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.28.44:593][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.28.44:593][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.28.44:594][ 57]LogInit: FAudioDevice initialized.
+[2022.11.22-13.28.44:594][ 57]LogAudio: Display: Audio Device (ID: 75) registered with world 'BlocagemLevel'.
+[2022.11.22-13.28.44:600][ 57]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.28.44:612][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.28.44:612][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.28.44:612][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.28.44:613][ 57]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.28.44
+[2022.11.22-13.28.44:613][ 57]LogWorld: Bringing up level for play took: 0.011810
+[2022.11.22-13.28.44:613][ 57]LogOnline: OSS: Creating online subsystem instance for: :Context_117
+[2022.11.22-13.28.44:616][ 57]PIE: Server logged in
+[2022.11.22-13.28.44:617][ 57]PIE: Play in editor total start time 0.139 seconds.
+[2022.11.22-13.29.03:980][378]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.29.05:966][616]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.29.07:121][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.29.07:121][751]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.29.07:122][751]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.29.07:124][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.29.07:143][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.29.07:159][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.29.07:208][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.29.07:209][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.29.07:210][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.29.07:220][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.11.22-13.29.07:372][752]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2022.11.22-13.29.08:547][821]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.29.08:568][821]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.29.14:496][279]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.29.14:503][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.29.14:503][279]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:29:14 AM)
+[2022.11.22-13.29.14:503][279]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.29.14:535][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031369s)
+[2022.11.22-13.29.14:535][279]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.29.14:536][279]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2022.11.22-13.29.14:536][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.032639s)
+[2022.11.22-13.29.14:590][279]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2022.11.22-13.29.14:595][279]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.29.14:595][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.29.14:595][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.29.14:595][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.29.14:595][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.29.14:595][279]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.29.14:597][279]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.29.14:597][279]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.29.14:618][279]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.29.14:619][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.29.14:619][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.29.14:619][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.29.14:619][279]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.29.14:619][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.29.14:619][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.29.14:620][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.29.14:621][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.29.14:621][279]LogInit: FAudioDevice initialized.
+[2022.11.22-13.29.14:621][279]LogAudio: Display: Audio Device (ID: 76) registered with world 'BlocagemLevel'.
+[2022.11.22-13.29.14:629][279]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.29.14:640][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.29.14:640][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.29.14:640][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.29.14:641][279]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.29.14
+[2022.11.22-13.29.14:641][279]LogWorld: Bringing up level for play took: 0.011498
+[2022.11.22-13.29.14:641][279]LogOnline: OSS: Creating online subsystem instance for: :Context_118
+[2022.11.22-13.29.14:644][279]PIE: Server logged in
+[2022.11.22-13.29.14:645][279]PIE: Play in editor total start time 0.144 seconds.
+[2022.11.22-13.29.19:321][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.29.19:321][835]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.29.19:321][835]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.29.19:323][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.29.19:337][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.29.19:352][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.29.19:403][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.29.19:403][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.29.19:404][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.29.19:414][835]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.11.22-13.29.19:555][836]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2022.11.22-13.29.20:991][914]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.29.21:010][914]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.29.21:579][953]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.29.21:586][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.29.21:586][953]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:29:21 AM)
+[2022.11.22-13.29.21:586][953]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.29.21:615][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029073s)
+[2022.11.22-13.29.21:616][953]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.29.21:616][953]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2022.11.22-13.29.21:616][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.030272s)
+[2022.11.22-13.29.21:669][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.11.22-13.29.21:671][953]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2022.11.22-13.29.21:671][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.29.21:671][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.29.21:671][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.29.21:671][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.29.21:671][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.29.21:671][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.29.21:671][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.29.21:671][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.29.21:672][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.29.21:672][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.29.21:672][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.29.21:672][953]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.29.21:674][953]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.29.21:674][953]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.29.21:695][953]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.29.21:695][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.29.21:695][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.29.21:695][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.29.21:696][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.29.21:696][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.29.21:696][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.29.21:697][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.29.21:697][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.29.21:697][953]LogInit: FAudioDevice initialized.
+[2022.11.22-13.29.21:697][953]LogAudio: Display: Audio Device (ID: 77) registered with world 'BlocagemLevel'.
+[2022.11.22-13.29.21:703][953]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.29.21:715][953]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.29.21:716][953]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.29.21:716][953]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.29.21:716][953]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.29.21
+[2022.11.22-13.29.21:717][953]LogWorld: Bringing up level for play took: 0.012018
+[2022.11.22-13.29.21:717][953]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2022.11.22-13.29.21:720][953]PIE: Server logged in
+[2022.11.22-13.29.21:721][953]PIE: Play in editor total start time 0.135 seconds.
+[2022.11.22-13.29.46:272][738]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.29.48:022][943]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.29.55:981][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.29.55:981][860]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.29.55:981][860]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.29.55:983][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.29.55:998][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.29.56:014][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.29.56:067][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.29.56:068][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.29.56:069][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.29.56:080][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.11.22-13.29.56:208][861]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2022.11.22-13.29.57:445][924]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.29.57:465][924]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.30.00:870][135]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.30.00:877][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.30.00:878][135]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:30:00 AM)
+[2022.11.22-13.30.00:878][135]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.30.00:907][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028931s)
+[2022.11.22-13.30.00:907][135]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.30.00:908][135]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2022.11.22-13.30.00:908][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.030173s)
+[2022.11.22-13.30.00:960][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.11.22-13.30.00:964][135]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.30.00:964][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.30.00:964][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.30.00:964][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.30.00:964][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.30.00:964][135]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.30.00:966][135]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.30.00:966][135]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.30.00:987][135]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.30.00:988][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.30.00:988][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.30.00:988][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.30.00:988][135]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.30.00:988][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.30.00:988][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.30.00:989][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.30.00:989][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.30.00:989][135]LogInit: FAudioDevice initialized.
+[2022.11.22-13.30.00:989][135]LogAudio: Display: Audio Device (ID: 78) registered with world 'BlocagemLevel'.
+[2022.11.22-13.30.00:997][135]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.30.01:008][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.30.01:008][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.30.01:008][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.30.01:009][135]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.30.01
+[2022.11.22-13.30.01:009][135]LogWorld: Bringing up level for play took: 0.011623
+[2022.11.22-13.30.01:009][135]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2022.11.22-13.30.01:013][135]PIE: Server logged in
+[2022.11.22-13.30.01:013][135]PIE: Play in editor total start time 0.137 seconds.
+[2022.11.22-13.30.28:637][181]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.30.29:587][284]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.30.31:901][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.30.31:901][531]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.30.31:902][531]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.30.31:904][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.30.31:918][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.30.31:934][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.30.31:986][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.30.31:988][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.30.31:989][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.30.31:999][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.11.22-13.30.32:159][532]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2022.11.22-13.30.33:213][584]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.30.33:237][584]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.30.35:409][712]LogEditorViewport: Clicking on Actor (LMB): Chave_1_C (Chave_1)
+[2022.11.22-13.32.45:734][810]BlueprintLog: New page: Compile Chave_1
+[2022.11.22-13.32.45:869][810]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.11.22-13.32.46:676][889]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_1974995844E65B1F25539D6B37CC52B93.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset'
+[2022.11.22-13.32.46:695][889]AssetCheck: New page: Asset Save: Chave_1
+[2022.11.22-13.32.46:695][889]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_1.Chave_1
+[2022.11.22-13.32.49:353][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.32.49:363][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.32.49:363][ 63]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:32:49 AM)
+[2022.11.22-13.32.49:400][ 63]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.32.49:432][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031970s)
+[2022.11.22-13.32.49:433][ 63]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.32.49:434][ 63]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2022.11.22-13.32.49:434][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.033765s)
+[2022.11.22-13.32.49:496][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2022.11.22-13.32.49:498][ 63]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2022.11.22-13.32.49:498][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.32.49:498][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.32.49:498][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.32.49:498][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.32.49:498][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.32.49:498][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.32.49:498][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.32.49:498][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.32.49:499][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.32.49:499][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.32.49:499][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.32.49:499][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.32.49:502][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.32.49:502][ 63]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.32.49:525][ 63]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.32.49:525][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.32.49:525][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.32.49:525][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.32.49:525][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.32.49:525][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.32.49:525][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.32.49:527][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.32.49:527][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.32.49:527][ 63]LogInit: FAudioDevice initialized.
+[2022.11.22-13.32.49:527][ 63]LogAudio: Display: Audio Device (ID: 79) registered with world 'BlocagemLevel'.
+[2022.11.22-13.32.49:537][ 63]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.32.49:554][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.32.49:554][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.32.49:554][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.32.49:555][ 63]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.32.49
+[2022.11.22-13.32.49:556][ 63]LogWorld: Bringing up level for play took: 0.017240
+[2022.11.22-13.32.49:556][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_121
+[2022.11.22-13.32.49:561][ 63]PIE: Server logged in
+[2022.11.22-13.32.49:562][ 63]PIE: Play in editor total start time 0.2 seconds.
+[2022.11.22-13.32.53:640][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.32.53:640][529]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.32.53:641][529]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.32.53:643][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.32.53:657][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.32.53:671][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.32.53:720][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-13.32.53:721][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.32.53:722][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.32.53:725][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.32.53:733][529]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.11.22-13.32.53:876][530]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2022.11.22-13.32.55:140][597]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.32.55:162][597]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.32.55:751][636]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.32.55:758][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.32.55:758][636]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:32:55 AM)
+[2022.11.22-13.32.55:780][636]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.32.55:808][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028418s)
+[2022.11.22-13.32.55:809][636]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.32.55:809][636]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2022.11.22-13.32.55:809][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.029657s)
+[2022.11.22-13.32.55:862][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.11.22-13.32.55:864][636]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.32.55:864][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.32.55:864][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.32.55:864][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.32.55:864][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.32.55:864][636]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.32.55:866][636]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.32.55:866][636]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.32.55:887][636]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.32.55:887][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.32.55:887][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.32.55:887][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.32.55:887][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.32.55:887][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.32.55:887][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.32.55:888][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.32.55:888][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.32.55:888][636]LogInit: FAudioDevice initialized.
+[2022.11.22-13.32.55:888][636]LogAudio: Display: Audio Device (ID: 80) registered with world 'BlocagemLevel'.
+[2022.11.22-13.32.55:900][636]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.32.55:912][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.32.55:912][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.32.55:912][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.32.55:913][636]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.32.55
+[2022.11.22-13.32.55:913][636]LogWorld: Bringing up level for play took: 0.012102
+[2022.11.22-13.32.55:913][636]LogOnline: OSS: Creating online subsystem instance for: :Context_122
+[2022.11.22-13.32.55:916][636]PIE: Server logged in
+[2022.11.22-13.32.55:917][636]PIE: Play in editor total start time 0.16 seconds.
+[2022.11.22-13.33.09:196][  5]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.33.09:908][ 78]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.33.14:960][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.33.14:960][593]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.33.14:961][593]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.33.14:963][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.33.14:979][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.33.14:995][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.33.15:047][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.33.15:047][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.33.15:049][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.33.15:059][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.11.22-13.33.15:209][594]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2022.11.22-13.33.16:407][650]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.33.16:431][650]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.33.20:809][ 66]BlueprintLog: New page: Compile Chave_1
+[2022.11.22-13.33.20:912][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.11.22-13.34.27:210][349]BlueprintLog: New page: Compile MasterItem
+[2022.11.22-13.34.27:393][349]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2022.11.22-13.34.28:020][401]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/MasterItem8DC88E76432EB608B07C45A8D57E46F4.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/MasterItem.uasset'
+[2022.11.22-13.34.28:037][401]AssetCheck: New page: Asset Save: MasterItem
+[2022.11.22-13.34.28:037][401]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/MasterItem.MasterItem
+[2022.11.22-13.34.53:583][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2022.11.22-13.34.53:695][405]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto69BC75F7748D379018E817A80202AC413.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto6.umap'
+[2022.11.22-13.34.53:696][405]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.176
+[2022.11.22-13.34.53:696][405]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.176
+[2022.11.22-13.34.53:697][405]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyModifications/Interface/Chave_1] ([2] browsable assets)...
+[2022.11.22-13.34.53:705][405]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyModifications/Interface/Chave_1.Chave_1]
+[2022.11.22-13.34.53:705][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Interface/Chave_1]
+[2022.11.22-13.34.53:725][405]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_1_Auto67EA9999545389A375016C1A91CDB8F4B.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Interface/Chave_1_Auto6.uasset'
+[2022.11.22-13.34.53:725][405]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.11.22-13.36.17:381][380]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.36.17:388][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.36.17:388][380]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:36:17 AM)
+[2022.11.22-13.36.17:388][380]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.36.17:419][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030892s)
+[2022.11.22-13.36.17:420][380]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.36.17:421][380]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2022.11.22-13.36.17:421][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.032402s)
+[2022.11.22-13.36.17:481][380]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.11.22-13.36.17:485][380]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.36.17:485][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.36.17:485][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.36.17:485][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.36.17:485][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.36.17:485][380]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.36.17:487][380]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.36.17:487][380]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.36.17:512][380]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.36.17:512][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.36.17:512][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.36.17:512][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.36.17:513][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.36.17:513][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.36.17:513][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.36.17:514][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.36.17:514][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.36.17:514][380]LogInit: FAudioDevice initialized.
+[2022.11.22-13.36.17:514][380]LogAudio: Display: Audio Device (ID: 81) registered with world 'BlocagemLevel'.
+[2022.11.22-13.36.17:527][380]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.36.17:539][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.17:539][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.17:539][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.17:540][380]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.36.17
+[2022.11.22-13.36.17:540][380]LogWorld: Bringing up level for play took: 0.011736
+[2022.11.22-13.36.17:541][380]LogOnline: OSS: Creating online subsystem instance for: :Context_123
+[2022.11.22-13.36.17:544][380]PIE: Server logged in
+[2022.11.22-13.36.17:545][380]PIE: Play in editor total start time 0.157 seconds.
+[2022.11.22-13.36.20:541][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.36.20:541][732]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.36.20:542][732]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.36.20:543][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.36.20:556][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.36.20:572][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.36.20:621][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.36.20:622][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.36.20:623][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.36.20:634][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.11.22-13.36.20:775][733]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2022.11.22-13.36.21:869][807]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.36.21:892][807]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.36.22:683][875]LogEditorViewport: Clicking on Actor (LMB): Chave_2_C (Chave_2)
+[2022.11.22-13.36.26:173][162]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.36.26:180][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.36.26:180][162]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:36:26 AM)
+[2022.11.22-13.36.26:210][162]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.36.26:239][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029329s)
+[2022.11.22-13.36.26:240][162]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.36.26:240][162]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2022.11.22-13.36.26:240][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.030620s)
+[2022.11.22-13.36.26:294][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.11.22-13.36.26:298][162]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.36.26:298][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.36.26:298][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.36.26:298][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.36.26:298][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.36.26:298][162]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.36.26:300][162]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.36.26:301][162]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.36.26:321][162]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.36.26:321][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.36.26:321][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.36.26:321][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.36.26:322][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.36.26:322][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.36.26:322][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.36.26:323][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.36.26:323][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.36.26:323][162]LogInit: FAudioDevice initialized.
+[2022.11.22-13.36.26:323][162]LogAudio: Display: Audio Device (ID: 82) registered with world 'BlocagemLevel'.
+[2022.11.22-13.36.26:329][162]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.36.26:340][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.26:341][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.26:341][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.26:341][162]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.36.26
+[2022.11.22-13.36.26:342][162]LogWorld: Bringing up level for play took: 0.012063
+[2022.11.22-13.36.26:342][162]LogOnline: OSS: Creating online subsystem instance for: :Context_124
+[2022.11.22-13.36.26:345][162]PIE: Server logged in
+[2022.11.22-13.36.26:346][162]PIE: Play in editor total start time 0.167 seconds.
+[2022.11.22-13.36.27:481][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.36.27:481][294]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.36.27:482][294]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.36.27:483][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.36.27:501][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.36.27:516][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.36.27:567][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-13.36.27:567][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.36.27:568][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.36.27:582][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.36.27:590][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.11.22-13.36.27:731][295]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2022.11.22-13.36.28:817][354]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.36.28:838][354]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.36.38:208][130]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.36.38:216][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.36.38:216][130]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:36:38 AM)
+[2022.11.22-13.36.38:217][130]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.36.38:246][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028901s)
+[2022.11.22-13.36.38:246][130]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.36.38:247][130]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2022.11.22-13.36.38:247][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.030576s)
+[2022.11.22-13.36.38:301][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.11.22-13.36.38:303][130]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.11.22-13.36.38:303][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.36.38:303][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.36.38:303][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.36.38:303][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.36.38:303][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.36.38:303][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.36.38:303][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.36.38:303][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.36.38:304][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.36.38:304][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.36.38:304][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.36.38:304][130]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.36.38:306][130]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.36.38:306][130]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.36.38:328][130]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.36.38:328][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.36.38:328][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.36.38:328][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.36.38:329][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.36.38:329][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.36.38:329][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.36.38:330][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.36.38:330][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.36.38:330][130]LogInit: FAudioDevice initialized.
+[2022.11.22-13.36.38:330][130]LogAudio: Display: Audio Device (ID: 83) registered with world 'BlocagemLevel'.
+[2022.11.22-13.36.38:340][130]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.36.38:351][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.38:351][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.38:351][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.36.38:352][130]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.36.38
+[2022.11.22-13.36.38:352][130]LogWorld: Bringing up level for play took: 0.011437
+[2022.11.22-13.36.38:352][130]LogOnline: OSS: Creating online subsystem instance for: :Context_125
+[2022.11.22-13.36.38:355][130]PIE: Server logged in
+[2022.11.22-13.36.38:356][130]PIE: Play in editor total start time 0.141 seconds.
+[2022.11.22-13.36.43:647][763]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.36.44:357][848]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.36.48:015][287]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_3 via property Chave 2, but Chave_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.22-13.36.53:940][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.36.53:940][993]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.36.53:941][993]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.36.53:942][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.36.54:001][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.36.54:015][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.36.54:064][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.36.54:064][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.36.54:065][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.36.54:077][993]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.11.22-13.36.54:229][994]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2022.11.22-13.36.56:172][ 96]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.36.56:193][ 96]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.38.33:162][ 58]BlueprintLog: New page: Compile Human
+[2022.11.22-13.38.33:338][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2022.11.22-13.38.34:019][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Human" FILE="../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset" SILENT=true
+[2022.11.22-13.38.34:114][ 92]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Human3FA215D540FFDE97567ADAA1F41A8C50.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset'
+[2022.11.22-13.38.34:136][ 92]AssetCheck: New page: Asset Save: Human
+[2022.11.22-13.38.34:137][ 92]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Human.Human
+[2022.11.22-13.38.35:638][191]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.38.35:645][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.38.35:645][191]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:38:35 AM)
+[2022.11.22-13.38.35:645][191]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.38.35:674][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029310s)
+[2022.11.22-13.38.35:675][191]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.38.35:676][191]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2022.11.22-13.38.35:676][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.030731s)
+[2022.11.22-13.38.35:734][191]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2022.11.22-13.38.35:735][191]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.11.22-13.38.35:735][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.38.35:735][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.38.35:735][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.38.35:735][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.38.35:735][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.38.35:735][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.38.35:736][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.38.35:736][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.38.35:736][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.38.35:736][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.38.35:736][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.38.35:736][191]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.38.35:738][191]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.38.35:738][191]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.38.35:761][191]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.38.35:761][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.38.35:761][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.38.35:761][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.38.35:762][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.38.35:762][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.38.35:762][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.38.35:763][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.38.35:763][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.38.35:763][191]LogInit: FAudioDevice initialized.
+[2022.11.22-13.38.35:763][191]LogAudio: Display: Audio Device (ID: 84) registered with world 'BlocagemLevel'.
+[2022.11.22-13.38.35:770][191]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.38.35:783][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.38.35:783][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.38.35:783][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.38.35:783][191]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.38.35
+[2022.11.22-13.38.35:784][191]LogWorld: Bringing up level for play took: 0.011836
+[2022.11.22-13.38.35:784][191]LogOnline: OSS: Creating online subsystem instance for: :Context_126
+[2022.11.22-13.38.35:786][191]PIE: Server logged in
+[2022.11.22-13.38.35:787][191]PIE: Play in editor total start time 0.144 seconds.
+[2022.11.22-13.38.41:851][914]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.38.42:728][ 19]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.38.45:579][359]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_3 via property Chave 2, but Chave_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.22-13.38.52:768][140]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (Chave_2)
+[2022.11.22-13.39.00:960][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.39.00:960][674]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.39.00:961][674]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.39.00:963][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.39.01:026][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.39.01:040][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.39.01:088][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-13.39.01:090][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.39.01:091][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.39.01:094][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.39.01:101][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.11.22-13.39.01:249][675]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2022.11.22-13.39.02:491][739]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.39.02:515][739]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.39.06:174][ 20]BlueprintLog: New page: Compile Human
+[2022.11.22-13.39.06:319][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.11.22-13.39.08:106][116]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.39.08:114][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.39.08:114][116]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:39:08 AM)
+[2022.11.22-13.39.08:114][116]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.39.08:144][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029769s)
+[2022.11.22-13.39.08:144][116]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.39.08:145][116]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2022.11.22-13.39.08:145][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.031022s)
+[2022.11.22-13.39.08:203][116]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2022.11.22-13.39.08:204][116]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.39.08:204][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.39.08:204][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.39.08:204][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.39.08:204][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.39.08:204][116]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.39.08:207][116]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.39.08:207][116]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.39.08:228][116]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.39.08:228][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.39.08:228][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.39.08:229][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.39.08:229][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.39.08:229][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.39.08:229][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.39.08:230][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.39.08:230][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.39.08:230][116]LogInit: FAudioDevice initialized.
+[2022.11.22-13.39.08:230][116]LogAudio: Display: Audio Device (ID: 85) registered with world 'BlocagemLevel'.
+[2022.11.22-13.39.08:235][116]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.39.08:247][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.39.08:247][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.39.08:247][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.39.08:248][116]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.39.08
+[2022.11.22-13.39.08:248][116]LogWorld: Bringing up level for play took: 0.011718
+[2022.11.22-13.39.08:248][116]LogOnline: OSS: Creating online subsystem instance for: :Context_127
+[2022.11.22-13.39.08:251][116]PIE: Server logged in
+[2022.11.22-13.39.08:252][116]PIE: Play in editor total start time 0.139 seconds.
+[2022.11.22-13.39.14:310][837]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.39.15:213][945]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.39.24:993][105]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_3 via property Chave 2, but Chave_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.22-13.39.31:080][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.39.31:080][752]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.39.31:081][752]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.39.31:083][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.39.31:141][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.39.31:157][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.39.31:208][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-13.39.31:208][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.39.31:209][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.39.31:213][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.39.31:219][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.11.22-13.39.31:349][753]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2022.11.22-13.39.32:638][824]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.39.32:659][824]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.40.02:136][400]BlueprintLog: New page: Compile Human
+[2022.11.22-13.40.02:286][400]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.11.22-13.40.02:853][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Human" FILE="../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset" SILENT=true
+[2022.11.22-13.40.02:947][428]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Human60E5FB7D480B47E73C748CA7C832515F.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset'
+[2022.11.22-13.40.02:978][428]AssetCheck: New page: Asset Save: Human
+[2022.11.22-13.40.02:978][428]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Human.Human
+[2022.11.22-13.40.04:255][513]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.40.04:261][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.40.04:261][513]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:40:04 AM)
+[2022.11.22-13.40.04:300][513]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.40.04:328][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028765s)
+[2022.11.22-13.40.04:329][513]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.40.04:330][513]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2022.11.22-13.40.04:330][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.030119s)
+[2022.11.22-13.40.04:389][513]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2022.11.22-13.40.04:390][513]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.40.04:390][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.40.04:390][513]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.40.04:390][513]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.40.04:390][513]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.40.04:390][513]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.40.04:393][513]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.40.04:393][513]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.40.04:414][513]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.40.04:414][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.40.04:414][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.40.04:414][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.40.04:415][513]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.40.04:415][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.40.04:415][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.40.04:416][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.40.04:416][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.40.04:416][513]LogInit: FAudioDevice initialized.
+[2022.11.22-13.40.04:416][513]LogAudio: Display: Audio Device (ID: 86) registered with world 'BlocagemLevel'.
+[2022.11.22-13.40.04:426][513]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.40.04:439][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.40.04:439][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.40.04:439][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.40.04:440][513]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.40.04
+[2022.11.22-13.40.04:440][513]LogWorld: Bringing up level for play took: 0.013208
+[2022.11.22-13.40.04:440][513]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2022.11.22-13.40.04:444][513]PIE: Server logged in
+[2022.11.22-13.40.04:444][513]PIE: Play in editor total start time 0.184 seconds.
+[2022.11.22-13.40.10:910][258]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.40.12:268][415]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.40.16:079][858]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_3 via property Chave 2, but Chave_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.22-13.40.24:211][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.40.24:211][757]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.40.24:212][757]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.40.24:213][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.40.24:274][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.40.24:290][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.40.24:340][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-13.40.24:340][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.40.24:341][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.40.24:345][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.40.24:352][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.11.22-13.40.24:482][758]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2022.11.22-13.40.25:922][831]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.40.25:943][831]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.40.27:651][935]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.40.27:658][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.40.27:658][935]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:40:27 AM)
+[2022.11.22-13.40.27:680][935]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.40.27:708][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028013s)
+[2022.11.22-13.40.27:709][935]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.40.27:709][935]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2022.11.22-13.40.27:709][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.029284s)
+[2022.11.22-13.40.27:762][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.11.22-13.40.27:764][935]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2022.11.22-13.40.27:764][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.40.27:764][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.40.27:764][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.40.27:764][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.40.27:764][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.40.27:764][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.40.27:764][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.40.27:764][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.40.27:765][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.40.27:765][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.40.27:765][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.40.27:765][935]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.40.27:767][935]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.40.27:767][935]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.40.27:788][935]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.40.27:788][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.40.27:788][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.40.27:788][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.40.27:789][935]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.40.27:789][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.40.27:789][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.40.27:790][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.40.27:790][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.40.27:790][935]LogInit: FAudioDevice initialized.
+[2022.11.22-13.40.27:790][935]LogAudio: Display: Audio Device (ID: 87) registered with world 'BlocagemLevel'.
+[2022.11.22-13.40.27:801][935]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.40.27:812][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.40.27:813][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.40.27:813][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.40.27:813][935]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.40.27
+[2022.11.22-13.40.27:814][935]LogWorld: Bringing up level for play took: 0.011330
+[2022.11.22-13.40.27:814][935]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2022.11.22-13.40.27:817][935]PIE: Server logged in
+[2022.11.22-13.40.27:818][935]PIE: Play in editor total start time 0.16 seconds.
+[2022.11.22-13.40.34:884][727]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.40.35:560][803]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.40.42:525][587]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_3 via property Chave 2, but Chave_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.22-13.40.54:971][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.40.54:971][902]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.40.54:971][902]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.40.54:973][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.40.54:988][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.40.55:004][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.40.55:055][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.40.55:056][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.40.55:057][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.40.55:068][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2022.11.22-13.40.55:177][903]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2022.11.22-13.40.56:416][967]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.40.56:439][967]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.41.22:120][719]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.22-13.41.22:126][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-13.41.22:126][719]PIE: New page: PIE session: BlocagemLevel (Nov 22, 2022, 7:41:22 AM)
+[2022.11.22-13.41.22:150][719]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.41.22:179][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028817s)
+[2022.11.22-13.41.22:180][719]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.22-13.41.22:180][719]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2022.11.22-13.41.22:180][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.030262s)
+[2022.11.22-13.41.22:236][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.11.22-13.41.22:245][719]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2022.11.22-13.41.22:245][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-13.41.22:245][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-13.41.22:245][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-13.41.22:245][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-13.41.22:245][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.22-13.41.22:245][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.22-13.41.22:245][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.22-13.41.22:245][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-13.41.22:245][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.22-13.41.22:246][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.22-13.41.22:246][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-13.41.22:246][719]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.22-13.41.22:248][719]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.22-13.41.22:248][719]LogAudioMixer: Display: 1: FrontRight
+[2022.11.22-13.41.22:269][719]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.22-13.41.22:270][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-13.41.22:270][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-13.41.22:270][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-13.41.22:270][719]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.22-13.41.22:270][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.22-13.41.22:270][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.22-13.41.22:271][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.22-13.41.22:271][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.22-13.41.22:271][719]LogInit: FAudioDevice initialized.
+[2022.11.22-13.41.22:271][719]LogAudio: Display: Audio Device (ID: 88) registered with world 'BlocagemLevel'.
+[2022.11.22-13.41.22:283][719]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.22-13.41.22:294][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.41.22:294][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.41.22:294][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OwningPlayer". Blueprint:  HUman_anim_BP Function:  Execute Ubergraph HUman Anim BP Graph:  Transition Node:  Result
+[2022.11.22-13.41.22:294][719]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.22-10.41.22
+[2022.11.22-13.41.22:295][719]LogWorld: Bringing up level for play took: 0.011418
+[2022.11.22-13.41.22:295][719]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2022.11.22-13.41.22:298][719]PIE: Server logged in
+[2022.11.22-13.41.22:299][719]PIE: Play in editor total start time 0.174 seconds.
+[2022.11.22-13.41.28:144][419]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.41.28:952][516]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.22-13.41.33:245][ 31]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_3 via property Chave 2, but Chave_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.11.22-13.41.41:541][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.41.41:541][ 21]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.22-13.41.41:541][ 21]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-13.41.41:543][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.41.41:559][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-13.41.41:577][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-13.41.41:638][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-13.41.41:638][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.41.41:639][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.22-13.41.41:649][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.11.22-13.41.41:778][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2022.11.22-13.41.42:752][ 91]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.41.42:772][ 91]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-13.41.44:583][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.11.22-13.41.47:706][234]LogSlate: Window 'Save Content' being destroyed
+[2022.11.22-13.41.47:784][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.22-13.41.47:906][234]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevelFBA34CB64B8A4A72BD506B9FF337B5AF.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.22-13.41.47:914][234]LogFileHelpers: Saving map 'BlocagemLevel' took 0.179
+[2022.11.22-13.41.47:943][234]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_1390A836448B326BAC58F7DA4E603C7C9.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_1.uasset'
+[2022.11.22-13.41.48:006][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2022.11.22-13.41.48:021][234]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Tester4925556345855F6B206B6188EAAFFEC8.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Tester.umap'
+[2022.11.22-13.41.48:027][234]LogFileHelpers: Saving map 'Tester' took 0.083
+[2022.11.22-13.41.48:085][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.11.22-13.41.48:095][234]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Testes_Yuri0D1D80A04EEFFE54DB1DE6ABD927DF4F.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.umap'
+[2022.11.22-13.41.48:100][234]LogFileHelpers: Saving map 'Testes_Yuri' took 0.074
+[2022.11.22-13.41.48:119][234]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-13.41.48:119][234]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_1.Chave_1
+[2022.11.22-13.41.48:119][234]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.22-13.41.48:119][234]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Teste_Yuri/Testes_Yuri.Testes_Yuri
+[2022.11.22-13.41.48:119][234]LogContentValidation: Display: Validating World /Game/MyModifications/characterTest/Tester.Tester
