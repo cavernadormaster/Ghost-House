@@ -1485,3 +1485,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.24-14.27.08:636][228]LogContentValidation: Display: Validating AnimSequence /Game/MyModifications/Personagem/Animações/Pushing/Pushing.Pushing
 [2022.11.24-14.27.08:636][228]LogContentValidation: Display: Validating AnimSequence /Game/MyModifications/Personagem/Animações/Pick_up/Picking_Up_Object.Picking_Up_Object
 [2022.11.24-14.27.08:636][228]LogContentValidation: Display: Validating AnimSequence /Game/MyModifications/Personagem/Animações/Opening/Open_Door_Outwards.Open_Door_Outwards
+[2022.11.24-14.30.14:054][505]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.24-14.30.14:069][505]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.24-14.30.16:451][648]LogContentBrowser: Attempting asset rename: NewFolder -> Jumping
+[2022.11.24-14.30.16:452][648]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.24-14.30.35:286][898]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Tiago\Pictures\Texturas\Personagem Ghost house\Jumping.fbx)
+[2022.11.24-14.30.35:297][898]LogFbx: Loading FBX Scene from D:\Tiago\Pictures\Texturas\Personagem Ghost house\Jumping.fbx
+[2022.11.24-14.30.35:325][898]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.24-14.30.38:149][898]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(0) Hips
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(1) Spine
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(2) Spine1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(3) Spine2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(4) Neck
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(5) Head
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(8) LeftArm
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(10) LeftHand
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(31) RightShoulder
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(32) RightArm
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(33) RightForeArm
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(34) RightHand
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.11.24-14.30.38:183][898]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(56) LeftLeg
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(57) LeftFoot
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(61) RightLeg
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(62) RightFoot
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(63) RightToeBase
+[2022.11.24-14.30.38:184][898]LogFbx: SortedLinks :(64) RightToe_End
+[2022.11.24-14.30.38:185][898]LogFbx: Parsing AnimStack mixamo.com
+[2022.11.24-14.30.38:571][898]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyModifications/Personagem/Animações/Jumping/Jumping.Jumping
+[2022.11.24-14.30.38:571][898]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyModifications/Personagem/Animações/Jumping/Jumping.Jumping
+[2022.11.24-14.30.44:469][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.24-14.30.45:828][ 91]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2022.11.24-14.30.45:888][ 91]LogSavePackage: Moving '../../../../../Tiago/Documents/Jogos/Ghost-House/GhostHouse/Saved/Jumping570FED1343E4791D5077A68EEF0C90C3.tmp' to '../../../../../Tiago/Documents/Jogos/Ghost-House/GhostHouse/Content/MyModifications/Personagem/Animações/Jumping/Jumping.uasset'
+[2022.11.24-14.30.45:908][ 91]AssetCheck: New page: Asset Save: Jumping
+[2022.11.24-14.30.45:908][ 91]LogContentValidation: Display: Validating AnimSequence /Game/MyModifications/Personagem/Animações/Jumping/Jumping.Jumping
+[2022.11.24-14.30.46:859][146]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MyModifications/Personagem/Animações/Jumping/Jumping.Jumping
+[2022.11.24-14.30.46:867][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.24-14.30.47:379][146]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.11.24-14.30.59:609][820]LogSlate: Window 'Jumping' being destroyed
+[2022.11.24-14.30.59:620][820]LogSlate: Window 'Jumping' being destroyed
+[2022.11.24-14.30.59:621][820]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-14.30.59:621][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-14.30.59:645][820]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-14.30.59:645][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-14.30.59:711][820]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-14.30.59:711][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
