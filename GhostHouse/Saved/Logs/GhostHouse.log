@@ -2229,3 +2229,1309 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.30-12.42.30:276][395]LogFileHelpers: Saving map 'BlocagemLevel' took 0.234
 [2022.11.30-12.42.30:289][395]AssetCheck: New page: Asset Save: BlocagemLevel
 [2022.11.30-12.42.30:289][395]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.30-12.43.07:973][946]LogEditorViewport: Clicking on Actor (LMB): Caldeirao_Blueprint_C (Caldeirao_Blueprint)
+[2022.11.30-12.43.09:206][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyModifications/Interface/Caldeirao_Blueprint.Caldeirao_Blueprint
+[2022.11.30-12.43.24:189][636]BlueprintLog: New page: Compile Caldeirao_Blueprint
+[2022.11.30-12.43.24:291][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.11.30-12.43.25:622][772]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Caldeirao_Blueprint6FEA0AE04ACDC47D4D72F2B1A2891423.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Caldeirao_Blueprint.uasset'
+[2022.11.30-12.43.25:641][772]AssetCheck: New page: Asset Save: Caldeirao_Blueprint
+[2022.11.30-12.43.25:641][772]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Caldeirao_Blueprint.Caldeirao_Blueprint
+[2022.11.30-12.43.45:368][879]BlueprintLog: New page: Compile Human
+[2022.11.30-12.43.45:504][879]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.11.30-12.45.04:708][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.11.30-12.45.04:897][ 44]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevelAEDC0AF340E1C446B5A61BB3B3541AAE.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.30-12.45.04:906][ 44]LogFileHelpers: Saving map 'BlocagemLevel' took 0.245
+[2022.11.30-12.45.04:921][ 44]AssetCheck: New page: Asset Save: BlocagemLevel
+[2022.11.30-12.45.04:921][ 44]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.30-12.45.05:749][133]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.45.05:749][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.45.06:398][197]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.45.06:398][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.45.10:793][654]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.30-12.45.10:794][654]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.45.10:794][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.45.27:503][631]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.30-12.45.27:504][631]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.45.27:504][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.45.45:162][992]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP
+[2022.11.30-12.45.45:251][992]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.11.30-12.45.45:272][992]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.11.30-12.45.45:496][992]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.11.30-12.45.45:648][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.45.45:683][992]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.11.30-12.45.46:881][992]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.11.30-12.45.51:708][293]LogSlate: Window 'Ghost_anim_BP' being destroyed
+[2022.11.30-12.46.00:544][959]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP
+[2022.11.30-12.46.00:552][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.46.01:253][959]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.11.30-12.46.26:415][870]BlueprintLog: New page: Compile Ghost_anim_BP
+[2022.11.30-12.46.26:556][870]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2022.11.30-12.46.27:074][920]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Ghost_anim_BP98D10C4B46CF35E8F7877E84C3A8F566.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.uasset'
+[2022.11.30-12.46.27:092][920]AssetCheck: New page: Asset Save: Ghost_anim_BP
+[2022.11.30-12.46.27:092][920]LogContentValidation: Display: Validating AnimBlueprint /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP
+[2022.11.30-12.46.28:610][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-12.46.28:618][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-12.46.28:618][ 53]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 6:46:28 AM)
+[2022.11.30-12.46.28:618][ 53]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.46.28:664][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046534s)
+[2022.11.30-12.46.28:665][ 53]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-12.46.28:666][ 53]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2022.11.30-12.46.28:666][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.047819s)
+[2022.11.30-12.46.28:735][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2022.11.30-12.46.28:736][ 53]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.11.30-12.46.28:736][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-12.46.28:736][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-12.46.28:736][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-12.46.28:736][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-12.46.28:736][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-12.46.28:736][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-12.46.28:736][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-12.46.28:736][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-12.46.28:737][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-12.46.28:737][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-12.46.28:737][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-12.46.28:737][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-12.46.28:739][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.46.28:740][ 53]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.46.28:762][ 53]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-12.46.28:763][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-12.46.28:763][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-12.46.28:763][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-12.46.28:763][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-12.46.28:763][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-12.46.28:763][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-12.46.28:764][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-12.46.28:764][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-12.46.28:764][ 53]LogInit: FAudioDevice initialized.
+[2022.11.30-12.46.28:764][ 53]LogAudio: Display: Audio Device (ID: 15) registered with world 'BlocagemLevel'.
+[2022.11.30-12.46.28:771][ 53]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-12.46.28:784][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.46.28:784][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.46.28:784][ 53]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-09.46.28
+[2022.11.30-12.46.28:785][ 53]LogWorld: Bringing up level for play took: 0.013031
+[2022.11.30-12.46.28:785][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.11.30-12.46.28:788][ 53]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHuman
+	BlocagemLevel_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.BlocagemLevel_C_1
+	Function /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel_C:ExecuteUbergraph_BlocagemLevel:0589
+[2022.11.30-12.46.28:788][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-12.46.28:789][ 53]PIE: Server logged in
+[2022.11.30-12.46.28:790][ 53]PIE: Play in editor total start time 0.173 seconds.
+[2022.11.30-12.46.46:471][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.46.46:471][168]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.46.46:471][168]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.46.46:473][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.46.46:483][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-12.46.46:504][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.46.46:536][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-12.46.46:537][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.46.46:538][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.46.46:541][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.46.46:548][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.11.30-12.46.46:681][169]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.11.30-12.46.48:245][243]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.46.48:271][243]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.47.07:034][714]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyModifications/Personagem_Fantasma/Animações/Fantasma__Pick_up__.Fantasma__Pick_up__
+[2022.11.30-12.47.11:033][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.11.30-12.47.18:421][ 96]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.11.30-12.47.18:446][ 96]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.11.30-12.47.18:462][ 96]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.11.30-12.47.23:034][309]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> PIckUp
+[2022.11.30-12.47.23:077][309]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.11.30-12.47.24:296][365]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/MyModifications/Personagem_Fantasma/Animações/PIckUp.PIckUp
+[2022.11.30-12.47.24:486][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.47.25:187][365]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.11.30-12.47.51:390][475]Cmd: TRANSACTION UNDO
+[2022.11.30-12.47.51:390][475]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2022.11.30-12.47.51:673][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.47.51:675][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.47.51:677][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.48.19:258][709]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/PIckUp3882B12643E3CA97ABBED6BA10D006C7.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Personagem_Fantasma/Animações/PIckUp.uasset'
+[2022.11.30-12.48.19:281][709]AssetCheck: New page: Asset Save: PIckUp
+[2022.11.30-12.48.19:281][709]LogContentValidation: Display: Validating BlendSpace1D /Game/MyModifications/Personagem_Fantasma/Animações/PIckUp.PIckUp
+[2022.11.30-12.48.24:396][166]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/PIckUp73C5FCB6475475BB6D76E5B075C7CDCC.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Personagem_Fantasma/Animações/PIckUp.uasset'
+[2022.11.30-12.48.24:411][166]AssetCheck: New page: Asset Save: PIckUp
+[2022.11.30-12.48.24:411][166]LogContentValidation: Display: Validating BlendSpace1D /Game/MyModifications/Personagem_Fantasma/Animações/PIckUp.PIckUp
+[2022.11.30-12.48.32:024][ 41]BlueprintLog: New page: Compile Ghost_anim_BP
+[2022.11.30-12.48.32:127][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2022.11.30-12.48.35:670][251]LogEditorViewport: Clicking on Actor (LMB): Ghost_C (Ghost)
+[2022.11.30-12.48.37:109][332]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyModifications/Ghost.Ghost
+[2022.11.30-12.49.07:775][828]BlueprintLog: New page: Compile Ghost
+[2022.11.30-12.49.07:949][828]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2022.11.30-12.49.15:311][387]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MyModifications/Personagem_Fantasma/Animações/Fantasma__Pick_up__.Fantasma__Pick_up__
+[2022.11.30-12.49.50:910][362]BlueprintLog: New page: Compile Ghost
+[2022.11.30-12.49.51:127][362]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2022.11.30-12.49.51:710][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Ghost" FILE="../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset" SILENT=true
+[2022.11.30-12.49.51:757][409]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/GhostFABC1A7C4FFC601798127EAA390ED939.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset'
+[2022.11.30-12.49.51:776][409]AssetCheck: New page: Asset Save: Ghost
+[2022.11.30-12.49.51:776][409]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Ghost.Ghost
+[2022.11.30-12.49.55:084][708]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-12.49.55:091][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-12.49.55:091][708]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 6:49:55 AM)
+[2022.11.30-12.49.55:129][708]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.49.55:174][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044990s)
+[2022.11.30-12.49.55:175][708]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-12.49.55:175][708]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2022.11.30-12.49.55:175][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.046258s)
+[2022.11.30-12.49.55:235][708]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2022.11.30-12.49.55:237][708]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-12.49.55:237][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-12.49.55:237][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-12.49.55:237][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-12.49.55:237][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-12.49.55:237][708]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-12.49.55:240][708]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.49.55:240][708]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.49.55:265][708]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-12.49.55:266][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-12.49.55:266][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-12.49.55:266][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-12.49.55:266][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-12.49.55:266][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-12.49.55:266][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-12.49.55:267][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-12.49.55:267][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-12.49.55:267][708]LogInit: FAudioDevice initialized.
+[2022.11.30-12.49.55:267][708]LogAudio: Display: Audio Device (ID: 16) registered with world 'BlocagemLevel'.
+[2022.11.30-12.49.55:277][708]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-12.49.55:289][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.49.55:289][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.49.55:290][708]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-09.49.55
+[2022.11.30-12.49.55:291][708]LogWorld: Bringing up level for play took: 0.013194
+[2022.11.30-12.49.55:291][708]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.11.30-12.49.55:294][708]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHuman
+	BlocagemLevel_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.BlocagemLevel_C_1
+	Function /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel_C:ExecuteUbergraph_BlocagemLevel:0589
+[2022.11.30-12.49.55:294][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-12.49.55:295][708]PIE: Server logged in
+[2022.11.30-12.49.55:296][708]PIE: Play in editor total start time 0.206 seconds.
+[2022.11.30-12.50.13:271][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.50.13:271][858]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.50.13:271][858]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.50.13:273][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.50.13:294][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-12.50.13:339][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.50.13:386][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.50.13:386][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.50.13:387][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.50.13:398][858]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2022.11.30-12.50.13:548][859]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.11.30-12.50.15:368][958]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.50.15:400][958]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.50.46:369][866]LogEditorViewport: Clicking on Actor (LMB): Chave_2_C (Chave_2)
+[2022.11.30-12.51.01:391][576]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-12.51.01:399][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-12.51.01:399][576]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 6:51:01 AM)
+[2022.11.30-12.51.01:400][576]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.51.01:455][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055630s)
+[2022.11.30-12.51.01:456][576]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-12.51.01:457][576]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2022.11.30-12.51.01:457][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.057162s)
+[2022.11.30-12.51.01:514][576]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2022.11.30-12.51.01:520][576]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.11.30-12.51.01:520][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-12.51.01:520][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-12.51.01:520][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-12.51.01:520][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-12.51.01:520][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-12.51.01:520][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-12.51.01:520][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-12.51.01:520][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-12.51.01:521][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-12.51.01:521][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-12.51.01:521][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-12.51.01:521][576]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-12.51.01:523][576]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.51.01:523][576]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.51.01:546][576]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-12.51.01:546][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-12.51.01:546][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-12.51.01:547][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-12.51.01:547][576]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-12.51.01:547][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-12.51.01:547][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-12.51.01:548][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-12.51.01:548][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-12.51.01:548][576]LogInit: FAudioDevice initialized.
+[2022.11.30-12.51.01:548][576]LogAudio: Display: Audio Device (ID: 17) registered with world 'BlocagemLevel'.
+[2022.11.30-12.51.01:555][576]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-12.51.01:572][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.51.01:572][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.51.01:573][576]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-09.51.01
+[2022.11.30-12.51.01:574][576]LogWorld: Bringing up level for play took: 0.017764
+[2022.11.30-12.51.01:574][576]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.11.30-12.51.01:577][576]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHuman
+	BlocagemLevel_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.BlocagemLevel_C_1
+	Function /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel_C:ExecuteUbergraph_BlocagemLevel:0589
+[2022.11.30-12.51.01:577][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-12.51.01:578][576]PIE: Server logged in
+[2022.11.30-12.51.01:579][576]PIE: Play in editor total start time 0.181 seconds.
+[2022.11.30-12.51.18:210][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.51.18:210][555]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.51.18:211][555]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.51.18:213][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.51.18:227][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-12.51.18:244][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.51.18:299][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-12.51.18:300][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.51.18:301][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.51.18:304][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.51.18:312][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.11.30-12.51.18:470][556]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.11.30-12.51.19:526][604]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.51.19:552][604]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.51.20:308][648]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-12.51.20:316][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-12.51.20:316][648]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 6:51:20 AM)
+[2022.11.30-12.51.20:316][648]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.51.20:361][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044406s)
+[2022.11.30-12.51.20:362][648]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-12.51.20:362][648]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2022.11.30-12.51.20:362][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.045714s)
+[2022.11.30-12.51.20:412][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.11.30-12.51.20:413][648]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.11.30-12.51.20:413][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-12.51.20:414][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-12.51.20:414][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-12.51.20:414][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-12.51.20:414][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-12.51.20:414][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-12.51.20:414][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-12.51.20:414][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-12.51.20:414][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-12.51.20:414][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-12.51.20:414][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-12.51.20:414][648]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-12.51.20:416][648]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.51.20:416][648]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.51.20:437][648]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-12.51.20:437][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-12.51.20:437][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-12.51.20:437][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-12.51.20:437][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-12.51.20:437][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-12.51.20:437][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-12.51.20:439][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-12.51.20:439][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-12.51.20:439][648]LogInit: FAudioDevice initialized.
+[2022.11.30-12.51.20:439][648]LogAudio: Display: Audio Device (ID: 18) registered with world 'BlocagemLevel'.
+[2022.11.30-12.51.20:446][648]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-12.51.20:459][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.51.20:459][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.51.20:461][648]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-09.51.20
+[2022.11.30-12.51.20:461][648]LogWorld: Bringing up level for play took: 0.014404
+[2022.11.30-12.51.20:461][648]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.11.30-12.51.20:464][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-12.51.20:465][648]PIE: Server logged in
+[2022.11.30-12.51.20:466][648]PIE: Play in editor total start time 0.151 seconds.
+[2022.11.30-12.51.29:760][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.51.29:760][751]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.51.29:761][751]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.51.29:763][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.51.29:774][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-12.51.29:790][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.51.29:839][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.51.29:839][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.51.29:840][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.51.29:851][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.11.30-12.51.30:015][752]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.11.30-12.51.30:830][786]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.51.30:856][786]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.52.09:884][930]BlueprintLog: New page: Compile Ghost_anim_BP
+[2022.11.30-12.52.09:919][930]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.09:920][930]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.09:920][930]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_43:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.09:920][930]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.09:921][930]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.09:921][930]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.09:977][930]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2022.11.30-12.52.09:987][930]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:018][931]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:020][931]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:027][932]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:032][932]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:039][933]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:040][933]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:046][934]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:048][934]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:054][935]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:056][935]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:063][936]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:064][936]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:071][937]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:073][937]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:080][938]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:081][938]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:087][939]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:090][939]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:096][940]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:098][940]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:105][941]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:107][941]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:113][942]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:115][942]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:122][943]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:123][943]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Ghost_anim_BP_C_3
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:130][944]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:138][945]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:159][946]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.10:600][991]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Ghost_anim_BP620433A74F9290338234D58CA5DEE331.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.uasset'
+[2022.11.30-12.52.10:620][991]AssetCheck: New page: Asset Save: Ghost_anim_BP
+[2022.11.30-12.52.10:620][991]LogContentValidation: Display: Validating AnimBlueprint /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP
+[2022.11.30-12.52.12:019][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-12.52.12:027][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-12.52.12:027][ 81]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 6:52:12 AM)
+[2022.11.30-12.52.12:027][ 81]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.52.12:072][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044594s)
+[2022.11.30-12.52.12:073][ 81]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-12.52.12:073][ 81]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2022.11.30-12.52.12:073][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.045936s)
+[2022.11.30-12.52.12:128][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2022.11.30-12.52.12:130][ 81]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.11.30-12.52.12:130][ 81]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-12.52.12:130][ 81]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-12.52.12:130][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-12.52.12:130][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-12.52.12:130][ 81]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-12.52.12:130][ 81]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-12.52.12:130][ 81]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-12.52.12:130][ 81]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-12.52.12:130][ 81]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-12.52.12:130][ 81]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-12.52.12:130][ 81]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-12.52.12:131][ 81]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-12.52.12:133][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.52.12:133][ 81]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.52.12:155][ 81]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-12.52.12:155][ 81]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-12.52.12:155][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-12.52.12:155][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-12.52.12:155][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-12.52.12:155][ 81]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-12.52.12:155][ 81]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-12.52.12:157][ 81]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-12.52.12:157][ 81]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-12.52.12:157][ 81]LogInit: FAudioDevice initialized.
+[2022.11.30-12.52.12:157][ 81]LogAudio: Display: Audio Device (ID: 19) registered with world 'BlocagemLevel'.
+[2022.11.30-12.52.12:163][ 81]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-12.52.12:176][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.52.12:177][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.52.12:177][ 81]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.52.12:177][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.52.12:178][ 81]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-09.52.12
+[2022.11.30-12.52.12:178][ 81]LogWorld: Bringing up level for play took: 0.015055
+[2022.11.30-12.52.12:178][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.11.30-12.52.12:182][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-12.52.12:182][ 81]PIE: Server logged in
+[2022.11.30-12.52.12:183][ 81]PIE: Play in editor total start time 0.157 seconds.
+[2022.11.30-12.52.38:591][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.52.38:591][839]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.52.38:591][839]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.52.38:593][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.52.38:603][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-12.52.38:621][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.52.38:670][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.52.38:670][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.52.38:671][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.52.38:682][839]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2022.11.30-12.52.38:812][840]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.11.30-12.52.40:083][894]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.52.40:110][894]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.52.46:761][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-12.54.23:560][397]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-12.54.23:699][397]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2022.11.30-12.54.23:716][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.23:718][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.23:718][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_43:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.23:719][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.23:731][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.23:732][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.23:733][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_43:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.23:733][397]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.25:954][616]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.25:970][617]LogRenderer: Reallocating scene render targets to support 1240x708 Format 9 NumSamples 1 (Frame:1).
+[2022.11.30-12.54.36:334][639]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.36:335][639]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.36:336][639]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_43:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.36:337][639]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.36:376][639]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.38:703][868]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.41:963][196]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.42:095][209]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.42:212][221]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.42:289][229]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.54.42:337][234]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.06:302][868]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.06:303][868]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.06:304][868]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_43:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.06:305][868]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.06:329][868]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_2
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:887][ 40]BlueprintLog: New page: Compile Ghost
+[2022.11.30-12.55.07:925][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:926][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:927][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:928][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:928][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_43:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:929][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_43:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:930][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.07:931][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:024][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   9.45ms
+[2022.11.30-12.55.08:037][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:038][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:040][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:056][ 40]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:114][ 41]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:135][ 42]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:147][ 43]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:156][ 44]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:165][ 45]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:173][ 46]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:181][ 47]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:189][ 48]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:197][ 49]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:206][ 50]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:214][ 51]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:223][ 52]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:233][ 53]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:242][ 54]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:251][ 55]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.55.08:260][ 56]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_41:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.56.02:478][ 68]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2022.11.30-12.56.04:463][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyModifications/characterTest/Teste_Yuri/Door.Door
+[2022.11.30-12.56.30:644][168]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-12.56.30:762][168]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2022.11.30-12.56.30:781][168]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.56.30:794][168]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.56.31:298][218]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_295AEEA924F794EA19F00508186B5472C.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-12.56.31:317][218]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-12.56.31:317][218]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-12.56.33:013][344]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-12.56.33:022][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-12.56.33:022][344]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 6:56:33 AM)
+[2022.11.30-12.56.33:070][344]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.56.33:114][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044150s)
+[2022.11.30-12.56.33:115][344]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-12.56.33:115][344]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2022.11.30-12.56.33:115][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.045536s)
+[2022.11.30-12.56.33:175][344]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2022.11.30-12.56.33:177][344]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-12.56.33:177][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-12.56.33:177][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-12.56.33:177][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-12.56.33:177][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-12.56.33:177][344]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-12.56.33:180][344]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.56.33:180][344]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.56.33:202][344]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-12.56.33:203][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-12.56.33:203][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-12.56.33:203][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-12.56.33:203][344]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-12.56.33:203][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-12.56.33:203][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-12.56.33:204][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-12.56.33:204][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-12.56.33:204][344]LogInit: FAudioDevice initialized.
+[2022.11.30-12.56.33:204][344]LogAudio: Display: Audio Device (ID: 20) registered with world 'BlocagemLevel'.
+[2022.11.30-12.56.33:214][344]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-12.56.33:228][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.56.33:228][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.56.33:228][344]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.56.33:228][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.56.33:229][344]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-09.56.33
+[2022.11.30-12.56.33:230][344]LogWorld: Bringing up level for play took: 0.014505
+[2022.11.30-12.56.33:230][344]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.11.30-12.56.33:233][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-12.56.33:233][344]PIE: Server logged in
+[2022.11.30-12.56.33:235][344]PIE: Play in editor total start time 0.214 seconds.
+[2022.11.30-12.56.57:590][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.56.57:590][251]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.56.57:591][251]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.56.57:593][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.56.57:617][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-12.56.57:633][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.56.57:687][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.56.57:687][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.56.57:689][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.56.57:701][251]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.11.30-12.56.57:822][252]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.11.30-12.56.58:925][309]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.56.58:959][309]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.57.29:619][616]LogEditorTransaction: Undo Move Node
+[2022.11.30-12.57.29:896][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.29:898][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.29:900][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.30:705][688]LogEditorTransaction: Undo Move Node
+[2022.11.30-12.57.30:959][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.30:961][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.30:962][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.31:736][767]LogEditorTransaction: Undo Delete current selection
+[2022.11.30-12.57.31:998][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.32:000][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.57.32:001][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.58.06:654][719]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-12.58.06:663][719]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.30-12.58.06:955][719]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.292 s
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: 
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: Stack: 
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe5f2d48c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe5eaebd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6032e3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6032e501 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe60304627 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe602ac02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe602abd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe5eac00de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe603aee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe603cca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6322cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe63252082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6322ca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe632ca6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe632e280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6313421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe631ae104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe63197097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe63189b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6688c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe668792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6688e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe66874410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe9038e858 USER32.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe9038e299 USER32.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe6688fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ff7f34c7621 UE4Editor.exe!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ff7f34e0fcc UE4Editor.exe!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ff7f34e10ba UE4Editor.exe!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ff7f34e40dd UE4Editor.exe!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ff7f34f5984 UE4Editor.exe!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ff7f34f853a UE4Editor.exe!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe902d7034 KERNEL32.DLL!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: [Callstack] 0x00007ffe920026a1 ntdll.dll!UnknownFunction []
+[2022.11.30-12.58.06:955][719]LogOutputDevice: Error: 
+[2022.11.30-12.58.06:957][719]LogStats:                SubmitErrorReport -  0.000 s
+[2022.11.30-12.58.17:016][719]LogStats:                    SendNewReport - 10.059 s
+[2022.11.30-12.58.17:016][719]LogStats:             FDebug::EnsureFailed - 10.353 s
+[2022.11.30-12.58.17:136][719]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2022.11.30-12.58.17:160][719]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.58.17:176][719]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.58.17:191][719]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.30-12.58.17:207][719]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.58.17:207][719]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.58.20:015][ 20]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_286F4311544561BFB74E82BB6D4688BCB.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-12.58.20:034][ 20]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-12.58.20:034][ 20]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-12.58.20:540][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2022.11.30-12.58.20:760][ 67]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevel_Auto116FC84AB4652731CBE17E99B09C60AF7.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Level/BlocagemLevel_Auto1.umap'
+[2022.11.30-12.58.20:762][ 67]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyModifications/Level/BlocagemLevel' took 0.284
+[2022.11.30-12.58.20:762][ 67]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.284
+[2022.11.30-12.58.20:762][ 67]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyModifications/Ghost] ([2] browsable assets)...
+[2022.11.30-12.58.20:772][ 67]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyModifications/Ghost.Ghost]
+[2022.11.30-12.58.20:772][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyModifications/Ghost]
+[2022.11.30-12.58.20:825][ 67]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Ghost_Auto1F630F7D8416928991A4B17BBD42A1E5A.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Autosaves/Game/MyModifications/Ghost_Auto1.uasset'
+[2022.11.30-12.58.20:826][ 67]LogFileHelpers: Auto-saving content packages took 0.063
+[2022.11.30-12.58.21:787][182]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-12.58.21:893][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2022.11.30-12.58.21:911][182]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.58.21:924][182]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.58.23:958][353]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-12.58.23:966][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-12.58.23:966][353]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 6:58:23 AM)
+[2022.11.30-12.58.23:966][353]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.58.24:011][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045139s)
+[2022.11.30-12.58.24:012][353]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-12.58.24:013][353]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2022.11.30-12.58.24:013][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.046483s)
+[2022.11.30-12.58.24:075][353]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2022.11.30-12.58.24:076][353]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.11.30-12.58.24:076][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-12.58.24:076][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-12.58.24:076][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-12.58.24:076][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-12.58.24:076][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-12.58.24:076][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-12.58.24:076][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-12.58.24:076][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-12.58.24:077][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-12.58.24:077][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-12.58.24:077][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-12.58.24:077][353]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-12.58.24:079][353]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-12.58.24:079][353]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-12.58.24:100][353]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-12.58.24:100][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-12.58.24:100][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-12.58.24:100][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-12.58.24:101][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-12.58.24:101][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-12.58.24:101][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-12.58.24:102][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-12.58.24:102][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-12.58.24:102][353]LogInit: FAudioDevice initialized.
+[2022.11.30-12.58.24:102][353]LogAudio: Display: Audio Device (ID: 21) registered with world 'BlocagemLevel'.
+[2022.11.30-12.58.24:109][353]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-12.58.24:122][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.58.24:122][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.58.24:123][353]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.58.24:123][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-12.58.24:123][353]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-09.58.24
+[2022.11.30-12.58.24:124][353]LogWorld: Bringing up level for play took: 0.013769
+[2022.11.30-12.58.24:124][353]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.11.30-12.58.24:127][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-12.58.24:128][353]PIE: Server logged in
+[2022.11.30-12.58.24:129][353]PIE: Play in editor total start time 0.164 seconds.
+[2022.11.30-12.58.34:215][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.58.34:216][556]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-12.58.34:216][556]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-12.58.34:218][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.58.34:245][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-12.58.34:261][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-12.58.34:313][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-12.58.34:313][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.58.34:314][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-12.58.34:317][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-12.58.34:326][556]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2022.11.30-12.58.34:455][557]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.11.30-12.58.35:455][606]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.58.35:479][606]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-12.58.59:830][329]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-12.58.59:940][329]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2022.11.30-12.58.59:962][329]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_15:PersistentLevel.Ghost_C_3.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.11.30-12.59.00:682][400]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_2A8F7F4D94B10A40657960FA6365D41D7.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-12.59.00:700][400]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-12.59.00:700][400]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-12.59.18:164][417]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/MyModifications/Personagem_Fantasma/Animações/Fantasma__Idle___Skeleton.Fantasma__Idle___Skeleton
+[2022.11.30-12.59.18:179][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-12.59.18:433][418]LogRenderer: Reallocating scene render targets to support 1240x884 Format 9 NumSamples 1 (Frame:1).
+[2022.11.30-13.00.01:413][955]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.00.01:528][955]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2022.11.30-13.00.02:048][  3]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_2C967329B43B1C5EE184BAD9FE2FBFA28.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-13.00.02:066][  3]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-13.00.02:066][  3]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-13.00.03:481][118]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-13.00.03:489][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-13.00.03:489][118]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 7:00:03 AM)
+[2022.11.30-13.00.03:524][118]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.00.03:570][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046052s)
+[2022.11.30-13.00.03:571][118]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-13.00.03:572][118]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2022.11.30-13.00.03:572][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.047396s)
+[2022.11.30-13.00.03:634][118]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2022.11.30-13.00.03:637][118]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-13.00.03:637][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-13.00.03:637][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-13.00.03:637][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-13.00.03:637][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-13.00.03:637][118]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-13.00.03:640][118]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-13.00.03:640][118]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-13.00.03:662][118]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-13.00.03:663][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-13.00.03:663][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-13.00.03:663][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-13.00.03:663][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-13.00.03:663][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-13.00.03:663][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-13.00.03:664][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-13.00.03:664][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-13.00.03:664][118]LogInit: FAudioDevice initialized.
+[2022.11.30-13.00.03:664][118]LogAudio: Display: Audio Device (ID: 22) registered with world 'BlocagemLevel'.
+[2022.11.30-13.00.03:672][118]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-13.00.03:685][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.00.03:685][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.00.03:686][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.00.03:687][118]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-10.00.03
+[2022.11.30-13.00.03:688][118]LogWorld: Bringing up level for play took: 0.014359
+[2022.11.30-13.00.03:688][118]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2022.11.30-13.00.03:691][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-13.00.03:692][118]PIE: Server logged in
+[2022.11.30-13.00.03:693][118]PIE: Play in editor total start time 0.205 seconds.
+[2022.11.30-13.00.24:866][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.00.24:866][650]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.00.24:866][650]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-13.00.24:868][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.00.24:892][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-13.00.24:909][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.00.24:963][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.00.24:963][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.00.24:964][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.00.24:978][650]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2022.11.30-13.00.25:122][651]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.11.30-13.00.26:263][709]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.00.26:295][709]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.01.31:455][190]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.01.31:569][190]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2022.11.30-13.01.32:366][267]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_2F340802741727FF2C2948BB0963CD8F2.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-13.01.32:384][267]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-13.01.32:384][267]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-13.02.49:280][925]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.02.49:391][925]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2022.11.30-13.02.49:950][974]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_238A44E634C28A8CE2FB04F9626ECBD41.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-13.02.49:970][974]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-13.02.49:970][974]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-13.03.20:364][159]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.03.20:372][159]LogBlueprint: Error: [AssetLog] C:\Users\ra00297356\Documents\GitHub\Ghost-House\GhostHouse\Content\MyModifications\Interface\Chave_2.uasset: [Compiler] This blueprint (self) is not a MovieSceneLevelVisibilitySection, therefore ' Target ' must have a connection.
+[2022.11.30-13.03.20:372][159]LogBlueprint: Error: [AssetLog] C:\Users\ra00297356\Documents\GitHub\Ghost-House\GhostHouse\Content\MyModifications\Interface\Chave_2.uasset: [Compiler] This blueprint (self) is not a MovieSceneLevelVisibilitySection, therefore ' Target ' must have a connection.
+[2022.11.30-13.03.20:484][159]LogUObjectHash: Compacting FUObjectHashTables data took   8.34ms
+[2022.11.30-13.03.20:983][203]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_2B5D4E0C2499FB18E9226F4A538168B5A.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-13.03.21:002][203]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-13.03.21:003][203]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-13.04.36:826][ 38]BlueprintLog: New page: Compile Ghost
+[2022.11.30-13.04.37:043][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   9.96ms
+[2022.11.30-13.04.37:578][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Ghost" FILE="../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset" SILENT=true
+[2022.11.30-13.04.37:623][ 80]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Ghost122F9F614AD915B92CEB08A9597DAE53.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Ghost.uasset'
+[2022.11.30-13.04.37:643][ 80]AssetCheck: New page: Asset Save: Ghost
+[2022.11.30-13.04.37:643][ 80]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Ghost.Ghost
+[2022.11.30-13.05.39:191][ 27]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.05.39:327][ 27]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2022.11.30-13.05.39:837][ 68]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_2C6DE8D874F43BE1227FB09A01FBB55E1.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-13.05.39:859][ 68]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-13.05.39:859][ 68]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-13.05.41:446][186]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-13.05.41:453][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-13.05.41:453][186]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 7:05:41 AM)
+[2022.11.30-13.05.41:453][186]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.05.41:499][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045092s)
+[2022.11.30-13.05.41:499][186]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-13.05.41:500][186]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2022.11.30-13.05.41:500][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.046422s)
+[2022.11.30-13.05.41:569][186]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2022.11.30-13.05.41:571][186]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.11.30-13.05.41:571][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-13.05.41:571][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-13.05.41:571][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-13.05.41:571][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-13.05.41:571][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-13.05.41:571][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-13.05.41:571][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-13.05.41:571][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-13.05.41:572][186]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-13.05.41:572][186]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-13.05.41:572][186]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-13.05.41:572][186]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-13.05.41:575][186]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-13.05.41:575][186]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-13.05.41:598][186]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-13.05.41:598][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-13.05.41:598][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-13.05.41:598][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-13.05.41:598][186]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-13.05.41:599][186]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-13.05.41:599][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-13.05.41:600][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-13.05.41:600][186]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-13.05.41:600][186]LogInit: FAudioDevice initialized.
+[2022.11.30-13.05.41:600][186]LogAudio: Display: Audio Device (ID: 23) registered with world 'BlocagemLevel'.
+[2022.11.30-13.05.41:610][186]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-13.05.41:622][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.05.41:623][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.05.41:623][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.05.41:624][186]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-10.05.41
+[2022.11.30-13.05.41:624][186]LogWorld: Bringing up level for play took: 0.013499
+[2022.11.30-13.05.41:625][186]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2022.11.30-13.05.41:628][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-13.05.41:629][186]PIE: Server logged in
+[2022.11.30-13.05.41:630][186]PIE: Play in editor total start time 0.177 seconds.
+[2022.11.30-13.06.03:918][840]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.30-13.06.03:919][840]LogBlueprintUserMessages: [Chave_3] AGAIN
+[2022.11.30-13.06.03:919][840]LogBlueprintUserMessages: [Chave_3] picked iem
+[2022.11.30-13.06.03:919][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.03:919][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote azul". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.03:919][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote branco". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.03:919][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote vermelho". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.03:919][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote verde". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.04:827][948]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.30-13.06.04:827][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.04:827][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote azul". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.04:827][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote branco". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.04:827][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote vermelho". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.04:827][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote verde". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.06:816][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.06.06:816][182]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.06.06:816][182]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-13.06.06:818][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.06.06:840][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-13.06.06:860][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.06.06:921][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-13.06.06:922][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.06.06:923][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.06.06:926][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.06.06:936][182]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2022.11.30-13.06.07:082][183]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.11.30-13.06.08:133][230]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.06.08:159][230]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.06.18:509][817]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-13.06.18:517][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-13.06.18:518][817]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 7:06:18 AM)
+[2022.11.30-13.06.18:518][817]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.06.18:563][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044999s)
+[2022.11.30-13.06.18:564][817]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-13.06.18:564][817]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2022.11.30-13.06.18:564][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.046814s)
+[2022.11.30-13.06.18:631][817]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2022.11.30-13.06.18:636][817]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.11.30-13.06.18:636][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-13.06.18:636][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-13.06.18:636][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-13.06.18:636][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-13.06.18:636][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-13.06.18:636][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-13.06.18:636][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-13.06.18:636][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-13.06.18:637][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-13.06.18:637][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-13.06.18:637][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-13.06.18:637][817]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-13.06.18:639][817]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-13.06.18:639][817]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-13.06.18:660][817]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-13.06.18:660][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-13.06.18:660][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-13.06.18:660][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-13.06.18:661][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-13.06.18:661][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-13.06.18:661][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-13.06.18:662][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-13.06.18:662][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-13.06.18:662][817]LogInit: FAudioDevice initialized.
+[2022.11.30-13.06.18:662][817]LogAudio: Display: Audio Device (ID: 24) registered with world 'BlocagemLevel'.
+[2022.11.30-13.06.18:672][817]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-13.06.18:685][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.06.18:685][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.06.18:686][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.06.18:686][817]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-10.06.18
+[2022.11.30-13.06.18:687][817]LogWorld: Bringing up level for play took: 0.014089
+[2022.11.30-13.06.18:687][817]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2022.11.30-13.06.18:690][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-13.06.18:691][817]PIE: Server logged in
+[2022.11.30-13.06.18:692][817]PIE: Play in editor total start time 0.175 seconds.
+[2022.11.30-13.06.40:850][465]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.30-13.06.40:850][465]LogBlueprintUserMessages: [Chave_3] AGAIN
+[2022.11.30-13.06.40:850][465]LogBlueprintUserMessages: [Chave_3] picked iem
+[2022.11.30-13.06.40:850][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.40:850][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote azul". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.40:850][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote branco". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.40:850][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote vermelho". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.40:850][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote verde". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.41:952][597]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.30-13.06.41:952][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.41:952][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote azul". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.41:952][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote branco". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.41:952][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote vermelho". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.41:952][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote verde". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.06.42:426][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.06.42:426][649]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.06.42:426][649]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-13.06.42:428][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.06.42:446][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-13.06.42:465][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.06.42:529][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.06.42:529][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.06.42:530][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.06.42:543][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2022.11.30-13.06.42:682][650]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.11.30-13.06.43:489][682]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.06.43:516][682]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.07.09:642][469]LogEditorTransaction: Undo Paste clipboard contents
+[2022.11.30-13.07.10:061][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.10:063][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.10:064][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.10:070][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.10:999][549]LogEditorTransaction: Undo Create Pin Link
+[2022.11.30-13.07.11:336][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.11:338][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.11:339][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.11:345][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.30-13.07.15:716][ 40]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.07.15:861][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2022.11.30-13.07.43:400][214]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.07.43:526][214]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2022.11.30-13.07.44:182][273]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_2A0A7C7324EE44E69650925AFB558E8E9.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-13.07.44:206][273]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-13.07.44:206][273]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-13.07.45:541][360]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-13.07.45:548][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-13.07.45:548][360]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 7:07:45 AM)
+[2022.11.30-13.07.45:549][360]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.07.45:592][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043341s)
+[2022.11.30-13.07.45:593][360]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-13.07.45:593][360]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2022.11.30-13.07.45:593][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.044692s)
+[2022.11.30-13.07.45:660][360]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2022.11.30-13.07.45:662][360]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.11.30-13.07.45:662][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-13.07.45:662][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-13.07.45:662][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-13.07.45:662][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-13.07.45:662][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-13.07.45:662][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-13.07.45:662][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-13.07.45:662][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-13.07.45:663][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-13.07.45:663][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-13.07.45:663][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-13.07.45:663][360]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-13.07.45:665][360]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-13.07.45:665][360]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-13.07.45:687][360]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-13.07.45:688][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-13.07.45:688][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-13.07.45:688][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-13.07.45:688][360]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-13.07.45:688][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-13.07.45:688][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-13.07.45:690][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-13.07.45:690][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-13.07.45:690][360]LogInit: FAudioDevice initialized.
+[2022.11.30-13.07.45:690][360]LogAudio: Display: Audio Device (ID: 25) registered with world 'BlocagemLevel'.
+[2022.11.30-13.07.45:702][360]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-13.07.45:715][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.07.45:715][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.07.45:716][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.07.45:716][360]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-10.07.45
+[2022.11.30-13.07.45:717][360]LogWorld: Bringing up level for play took: 0.013966
+[2022.11.30-13.07.45:717][360]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2022.11.30-13.07.45:720][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-13.07.45:721][360]PIE: Server logged in
+[2022.11.30-13.07.45:722][360]PIE: Play in editor total start time 0.175 seconds.
+[2022.11.30-13.08.05:596][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.08.05:596][461]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.08.05:597][461]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-13.08.05:599][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.08.05:622][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-13.08.05:642][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.08.05:704][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-13.08.05:705][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.08.05:706][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.08.05:709][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.08.05:718][461]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2022.11.30-13.08.05:863][462]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.11.30-13.08.06:874][504]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.08.06:901][504]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.08.13:353][118]BlueprintLog: New page: Compile Chave_2
+[2022.11.30-13.08.13:494][118]LogUObjectHash: Compacting FUObjectHashTables data took   9.52ms
+[2022.11.30-13.08.14:102][171]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Chave_26DA69303476E497566FA5398066FEB98.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/Chave_2.uasset'
+[2022.11.30-13.08.14:126][171]AssetCheck: New page: Asset Save: Chave_2
+[2022.11.30-13.08.14:126][171]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Interface/Chave_2.Chave_2
+[2022.11.30-13.08.15:675][270]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-13.08.15:683][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-13.08.15:683][270]PIE: New page: PIE session: BlocagemLevel (Nov 30, 2022, 7:08:15 AM)
+[2022.11.30-13.08.15:683][270]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.08.15:726][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042745s)
+[2022.11.30-13.08.15:727][270]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.11.30-13.08.15:727][270]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2022.11.30-13.08.15:727][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.044078s)
+[2022.11.30-13.08.15:796][270]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2022.11.30-13.08.15:798][270]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.11.30-13.08.15:798][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-13.08.15:798][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-13.08.15:798][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-13.08.15:798][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-13.08.15:798][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-13.08.15:798][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-13.08.15:798][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-13.08.15:798][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-13.08.15:799][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-13.08.15:799][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-13.08.15:799][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-13.08.15:799][270]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-13.08.15:801][270]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-13.08.15:801][270]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-13.08.15:822][270]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek High Definition Audio)
+[2022.11.30-13.08.15:822][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-13.08.15:822][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-13.08.15:822][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-13.08.15:823][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-13.08.15:823][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-13.08.15:823][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-13.08.15:824][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-13.08.15:824][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-13.08.15:824][270]LogInit: FAudioDevice initialized.
+[2022.11.30-13.08.15:824][270]LogAudio: Display: Audio Device (ID: 26) registered with world 'BlocagemLevel'.
+[2022.11.30-13.08.15:833][270]LogLoad: Game class is 'My_GameMode_C'
+[2022.11.30-13.08.15:845][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.08.15:845][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.08.15:846][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.11.30-13.08.15:846][270]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.11.30-10.08.15
+[2022.11.30-13.08.15:847][270]LogWorld: Bringing up level for play took: 0.013481
+[2022.11.30-13.08.15:847][270]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2022.11.30-13.08.15:850][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsHuman". Blueprint:  BlocagemLevel Function:  Execute Ubergraph Blocagem Level Graph:  EventGraph Node:  Highchange
+[2022.11.30-13.08.15:851][270]PIE: Server logged in
+[2022.11.30-13.08.15:852][270]PIE: Play in editor total start time 0.17 seconds.
+[2022.11.30-13.08.43:077][  7]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.11.30-13.08.43:078][  7]LogBlueprintUserMessages: [Chave_3] AGAIN
+[2022.11.30-13.08.43:078][  7]LogBlueprintUserMessages: [Chave_3] picked iem
+[2022.11.30-13.08.43:078][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.43:078][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote azul". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.43:078][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote branco". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.43:078][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote vermelho". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.43:078][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote verde". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.44:477][149]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.11.30-13.08.44:477][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.44:477][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote azul". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.44:477][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote branco". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.44:477][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote vermelho". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.44:477][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote verde". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.11.30-13.08.45:475][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.08.45:475][247]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.11.30-13.08.45:476][247]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-13.08.45:478][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.08.45:503][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-13.08.45:524][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-13.08.45:582][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-13.08.45:583][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.08.45:584][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-13.08.45:587][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-13.08.45:597][247]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2022.11.30-13.08.45:735][248]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2022.11.30-13.08.46:685][286]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.08.46:712][286]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-13.08.47:891][331]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2022.11.30-13.08.49:154][331]LogSlate: Window 'Save Content' being destroyed
+[2022.11.30-13.08.49:250][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.30-13.08.49:442][331]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevel4037C2DC425F15ADAE86D7B85B27F35B.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.30-13.08.49:455][331]LogFileHelpers: Saving map 'BlocagemLevel' took 0.264
+[2022.11.30-13.08.49:461][331]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/Fantasma__Idle___Skeleton6C0D3EDF40FAEBD4EA6FD99767D70A75.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Personagem_Fantasma/Animações/Fantasma__Idle___Skeleton.uasset'
+[2022.11.30-13.08.49:489][331]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-13.08.49:489][331]LogContentValidation: Display: Validating Skeleton /Game/MyModifications/Personagem_Fantasma/Animações/Fantasma__Idle___Skeleton.Fantasma__Idle___Skeleton
+[2022.11.30-13.08.49:489][331]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.30-13.09.17:324][847]LogEditorViewport: Clicking on Actor (LMB): Chave_2_C (Chave_2)
+[2022.11.30-13.09.37:119][773]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2022.11.30-13.09.38:331][773]LogSlate: Window 'Save Content' being destroyed
+[2022.11.30-13.09.38:415][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.30-13.09.38:605][773]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevel76F63C4348CA9D695BF5F1B2EF21A94E.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.30-13.09.38:614][773]LogFileHelpers: Saving map 'BlocagemLevel' took 0.259
+[2022.11.30-13.09.38:633][773]AssetCheck: New page: Asset Save: BlocagemLevel
+[2022.11.30-13.09.38:633][773]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.30-13.09.44:039][102]LogEditorViewport: Clicking on Actor (LMB): Chave_1_C (Chave_1)
+[2022.11.30-13.09.52:092][639]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.11.30-13.09.52:287][639]LogSavePackage: Moving '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Saved/BlocagemLevel456DA4F94F1B2398BE2D4EAB79F0E269.tmp' to '../../../../../../Users/ra00297356/Documents/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.11.30-13.09.52:315][639]AssetCheck: New page: Asset Save: BlocagemLevel
+[2022.11.30-13.09.52:315][639]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.11.30-13.09.52:929][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.30-13.09.54:211][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.11.30-13.10.14:069][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
