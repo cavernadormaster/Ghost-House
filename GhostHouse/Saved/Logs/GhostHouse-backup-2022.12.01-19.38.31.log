@@ -1,0 +1,1577 @@
+﻿Log file open, 12/01/22 16:27:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GhostHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.303167
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Pedro/Games/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.12.01-19.27.42:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.01-19.27.42:434][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.12.01-19.27.42:434][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.12.01-19.27.42:440][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.01-19.27.42:440][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.01-19.27.42:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.01-19.27.42:442][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.01-19.27.42:442][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.01-19.27.42:442][  0]LogHAL: Display: Platform has ~ 24 GB [25714049024 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.01-19.27.42:442][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.01-19.27.42:442][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.01-19.27.42:442][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.01-19.27.42:443][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.01-19.27.42:444][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.01-19.27.42:444][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.01-19.27.42:444][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.01-19.27.42:444][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Engine.ini]
+[2022.12.01-19.27.42:444][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Config/Windows/Editor.ini]
+[2022.12.01-19.27.42:444][  0]LogInit: Computer: PCGAMER
+[2022.12.01-19.27.42:444][  0]LogInit: User: PedroPolicello
+[2022.12.01-19.27.42:444][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.01-19.27.42:444][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.01-19.27.42:444][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2022.12.01-19.27.42:444][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.01-19.27.42:444][  0]LogMemory: Process Physical Memory: 146.08 MB used, 146.08 MB peak
+[2022.12.01-19.27.42:444][  0]LogMemory: Process Virtual Memory: 128.86 MB used, 128.86 MB peak
+[2022.12.01-19.27.42:444][  0]LogMemory: Physical Memory: 7836.77 MB used,  16686.05 MB free, 24522.83 MB total
+[2022.12.01-19.27.42:444][  0]LogMemory: Virtual Memory: 134203648.00 MB used,  14077.52 MB free, 134217728.00 MB total
+[2022.12.01-19.27.42:451][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.01-19.27.42:483][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.01-19.27.42:484][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.12.01-19.27.42:484][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.12.01-19.27.42:734][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.01-19.27.42:745][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.01-19.27.42:760][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.01-19.27.42:760][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.01-19.27.43:043][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.01-19.27.43:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.01-19.27.43:046][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.01-19.27.43:046][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.01-19.27.43:047][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.01-19.27.43:102][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2022.12.01-19.27.43:102][  0]LogD3D11RHI:       8170/0/12261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:       0/0/12261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     Description : Radeon RX 580 Series
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     SubSysId    : 34171462
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     Revision    : 00e7
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     DedicatedVideoMemory : 8567906304 bytes
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     SharedSystemMemory : 12857024512 bytes
+[2022.12.01-19.27.43:105][  0]LogD3D11RHI:     AdapterLuid : 0 43279
+[2022.12.01-19.27.43:114][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.01-19.27.43:115][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2022.12.01-19.27.43:115][  0]LogWindows: EnumDisplayDevices:
+[2022.12.01-19.27.43:115][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2022.12.01-19.27.43:115][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.12.01-19.27.43:116][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.12.01-19.27.43:116][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.12.01-19.27.43:116][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.12.01-19.27.43:117][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.12.01-19.27.43:117][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.12.01-19.27.43:117][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.12.01-19.27.43:117][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2022.12.01-19.27.43:117][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.5.1 (internal:30.0.15021.11005, unified:30.0.15021.11005)
+[2022.12.01-19.27.43:117][  0]LogD3D11RHI:      Driver Date: 4-28-2022
+[2022.12.01-19.27.43:117][  0]LogRHI: Texture pool is 5182 MB (70% of 7402 MB)
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     Description : Radeon RX 580 Series
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     SubSysId    : 34171462
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     Revision    : 00e7
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     DedicatedVideoMemory : 8567906304 bytes
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     SharedSystemMemory : 12857024512 bytes
+[2022.12.01-19.27.43:144][  0]LogD3D11RHI:     AdapterLuid : 0 43279
+[2022.12.01-19.27.43:188][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.12.01-19.27.43:188][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.01-19.27.43:188][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.01-19.27.43:188][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.01-19.27.43:201][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.12.01-19.27.43:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.01-19.27.43:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.01-19.27.43:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.01-19.27.43:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.01-19.27.43:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.01-19.27.43:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.01-19.27.43:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.01-19.27.43:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.01-19.27.43:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.01-19.27.43:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.01-19.27.43:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.01-19.27.43:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.01-19.27.43:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.01-19.27.43:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.01-19.27.43:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.01-19.27.43:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.01-19.27.43:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.01-19.27.43:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.01-19.27.43:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.01-19.27.43:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.01-19.27.43:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.01-19.27.43:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.01-19.27.43:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.01-19.27.43:784][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.01-19.27.43:797][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.01-19.27.43:849][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.01-19.27.43:895][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.01-19.27.43:895][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Intermediate/Shaders/WorkingDirectory/6356/).
+[2022.12.01-19.27.43:895][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Pedro Policello/AppData/Local/Temp/UnrealShaderWorkingDir/C89C2A6E45D7EFDE02DBE6A27B02A9B2/'.
+[2022.12.01-19.27.43:895][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.01-19.27.43:895][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.01-19.27.43:895][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.01-19.27.44:856][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.01-19.27.44:926][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/Pedro Policello/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.01-19.27.44:926][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Pedro Policello/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.01-19.27.44:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.01-19.27.44:926][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.01-19.27.44:927][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.01-19.27.44:927][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.01-19.27.44:948][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.01-19.27.44:949][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.01-19.27.44:949][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.01-19.27.44:961][  0]LogDerivedDataCache: Speed tests for C:/Users/Pedro Policello/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.01-19.27.44:961][  0]LogDerivedDataCache: Display: Performance to C:/Users/Pedro Policello/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=688.15MBs, RandomWriteSpeed=91.16MBs. Assigned SpeedClass 'Local'
+[2022.12.01-19.27.44:962][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pedro Policello/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.01-19.27.44:962][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.01-19.27.44:962][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.01-19.27.45:019][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.01-19.27.45:020][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.01-19.27.45:047][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2022.12.01-19.27.45:368][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.01-19.27.45:368][  0]LogInit: Active device profile: [0000026684A9C900][0000026683746440 49] Windows
+[2022.12.01-19.27.45:368][  0]LogInit: Profiles: [0000026684A9C900][0000026683746440 49] Windows, [0000026684A67800][00000266F852C5C0 49] WindowsNoEditor, [0000026684A9F500][00000266F8530740 49] WindowsServer, [0000026684A64E00][000002668374A880 49] WindowsClient, [0000026684A9F800][00000266F85349C0 49] IOS, [0000026684A66800][00000266F8538B00 49] iPadAir, [0000026684A9E000][000002668340AC80 49] iPadAir2, [0000026684A20A00][0000026683412F40 49] IPadPro, [0000026684A20B00][000002668340EF80 49] iPadAir3, [0000026684A65900][0000026683417100 49] iPadAir4, [0000026684A23400][000002668341B280 49] iPadMini2, [0000026684A66A00][00000266F806F400 49] iPadMini3, [0000026684A21700][00000266F8073580 49] iPadMini4, [0000026684A9D100][00000266F8077700 49] iPadMini5, [0000026684A3C300][00000266F807F9C0 49] iPhone6, [0000026684A3C400][00000266F807BA00 49] iPodTouch6, [0000026684A0FF00][00000266F8086140 49] iPhone7, [0000026684A0FE00][00000266F8082180 49] iPodTouch7, [0000026684A66500][00000266F808A300 49] iPhone5S, [0000026684A0DA00][00000266F808E480 49] iPhone6Plus, [0000026684A3C200][00000266F8092600 49] iPhone6S, [0000026684A0C600][00000266F8096780 49] iPhone6SPlus, [0000026684A3E900][00000266F809A900 49] iPhone7Plus, [0000026684A0F100][00000266F853CA40 49] iPhoneSE, [0000026684A3E200][00000266F809EB80 49] iPhone8, [0000026684A0FB00][00000266F80A2CC0 49] iPhone8Plus, [0000026684A3C800][00000266F8CDAE40 49] iPhoneX, [0000026684A0D600][00000266F8CDEFC0 49] iPhoneXS, [0000026684A3FC00][00000266F8CE3140 49] iPhoneXSMax, [0000026684A0C700][00000266F8CE72C0 49] iPhoneXR, [0000026684A3D300][00000266F8CEB440 49] iPhone11, [0000026684A0E700][00000266F8CEF5C0 49] iPhone11Pro, [0000026684A3D000][00000266F8CF3740 49] iPhone11ProMax, [0000026684A0EA00][00000266F8CF78C0 49] iPhoneSE2, [0000026684A3D400][00000266F8CFBA40 49] iPhone12Mini, [0000026684A0E400][00000266F8CFFBC0 49] iPhone12, [0000026684A3CD00][00000266F8D021C0 49] iPhone12Pro, [0000026684A0EB00][00000266F8D06340 49] iPhone12ProMax, [0000026684A3F000][00000266F8D0A4C0 49] iPadPro105, [0000026684A0C200][00000266F8D0E640 49] iPadPro129, [0000026684A3EB00][00000266F8D127C0 49] iPadPro97, [0000026684A0E600][00000266F8D16940 49] iPadPro2_129, [0000026684A3FB00][00000266F8D1AAC0 49] iPad5, [0000026684A0E200][00000266F8CD6C00 49] iPad6, [0000026684A3CF00][000002668111AD40 49] iPad7, [0000026684A0DD00][000002668111EE80 49] iPad8, [0000026684A3C900][0000026681122FC0 49] iPadPro11, [0000026684A0CF00][000002668112B140 49] iPadPro2_11, [0000026684A3F200][000002668112F2C0 49] iPadPro3_129, [0000026684A0FC00][0000026681133440 49] iPadPro4_129, [0000026684A3CC00][00000266811375C0 49] AppleTV, [0000026684A0E100][000002668113B740 49] AppleTV4K, [0000026684A3F100][000002668113F8C0 49] TVOS, [0000026684A0F400][0000026681143A40 49] Mac, [0000026684A3F800][0000026681147BC0 49] MacClient, [0000026684A0DE00][000002668114A1C0 49] MacNoEditor, [0000026684A3FF00][000002668114E340 49] MacServer, [0000026684A0EE00][00000266811524C0 49] Linux, [0000026684A3CB00][0000026681156640 49] LinuxAArch64, [0000026684A0DF00][000002668115A7C0 49] LinuxNoEditor, [0000026684A3DB00][000002668115E940 49] LinuxAArch64NoEditor, [0000026684A0F900][0000026681162AC0 49] LinuxClient, [0000026684A3F500][00000266FFD68C40 49] LinuxAArch64Client, [0000026684A0E300][0000026681126D80 49] LinuxServer, [0000026684A3C500][00000266FFD6CEC0 49] LinuxAArch64Server, [0000026684A0CD00][00000266FFD71000 49] Android, [0000026684A3D900][00000266FFD75140 49] Android_Low, [0000026684A0F600][00000266FFD812C0 49] Android_Mid, [0000026684A3ED00][00000266FFD89440 49] Android_High, [0000026684A0F800][00000266FFD915C0 49] Android_Default, [0000026684A3E100][00000266FFD95740 49] Android_Adreno4xx, [0000026684A0C900][00000266836FD8C0 49] Android_Adreno5xx_Low, [0000026684A23600][000002668370DA40 49] Android_Adreno5xx, [0000026684A64900][0000026683719BC0 49] Android_Adreno6xx, [0000026684A21800][00000266FFDDC1C0 49] Android_Adreno6xx_Vulkan, [0000026684A64F00][00000266FFDE0340 49] Android_Mali_T6xx, [0000026684A21200][0000026683B484C0 49] Android_Mali_T7xx, [0000026684A67900][0000026683B4C640 49] Android_Mali_T8xx, [0000026684A21E00][0000026683B507C0 49] Android_Mali_G71, [0000026684A64500][0000026683B54940 49] Android_Mali_G72, [0000026684A20600][0000026683B58AC0 49] Android_Mali_G72_Vulkan, [0000026684A65200][0000026683B5CC40 49] Android_Mali_G76, [0000026684A20100][0000026684C2ADC0 49] Android_Mali_G76_Vulkan, [0000026684A65F00][0000026684C3EF40 49] Android_Mali_G77, [0000026684A20C00][00000266FFD7D080 49] Android_Mali_G77_Vulkan, [0000026684A64A00][0000026684C431C0 49] Android_Mali_G78, [0000026684A22C00][0000026684C47300 49] Android_Mali_G78_Vulkan, [0000026684A67600][0000026684C53480 49] Android_Mali_G710, [0000026684A22400][0000026684EE3600 49] Android_Mali_G710_Vulkan, [0000026684A66700][0000026684EF7780 49] Android_Vulkan_SM5, [0000026684A23B00][0000026684F55900 49] Android_PowerVR_G6xxx, [0000026684A67400][000002668384DA80 49] Android_PowerVR_GT7xxx, [0000026684A22300][0000026683855C00 49] Android_PowerVR_GE8xxx, [0000026684A66E00][0000026683868200 49] Android_PowerVR_GM9xxx, [0000026684A23F00][000002668389C380 49] Android_PowerVR_GM9xxx_Vulkan, [0000026684A65600][00000266838C0500 49] Android_TegraK1, [0000026684A20400][00000266839DE680 49] Android_Unknown_Vulkan, [0000026684A66D00][0000026684F80800 49] Lumin, [0000026684A20500][0000026684FCC980 49] Lumin_Desktop, [0000026684A64D00][0000026684FDCB00 49] HoloLens, 
+[2022.12.01-19.27.45:529][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.01-19.27.45:529][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.01-19.27.45:529][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.01-19.27.45:530][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.01-19.27.45:530][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.01-19.27.45:551][  0]LogNetVersion: GhostHouse 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1499812488)
+[2022.12.01-19.27.46:047][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.01-19.27.46:109][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.01-19.27.46:116][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.01-19.27.46:116][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.01-19.27.46:116][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.01-19.27.46:482][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 332920E24F304B654B517CACD7FE27E3 | Instance: C7A5AE3E4A15F3C0B6CC528882F8375A (PCGAMER-6356).
+[2022.12.01-19.27.46:637][  0]LogPython: Using Python 3.7.7
+[2022.12.01-19.27.47:321][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.01-19.27.47:328][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.01-19.27.47:623][  0]SourceControl: Source control is disabled
+[2022.12.01-19.27.47:623][  0]SourceControl: Source control is disabled
+[2022.12.01-19.27.47:627][  0]SourceControl: Source control is disabled
+[2022.12.01-19.27.47:631][  0]SourceControl: Source control is disabled
+[2022.12.01-19.27.47:640][  0]SourceControl: Source control is disabled
+[2022.12.01-19.27.47:652][  0]LogUProjectInfo: Found projects:
+[2022.12.01-19.27.47:879][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.01-19.27.47:909][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.01-19.27.47:941][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.01-19.27.47:941][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.01-19.27.48:113][  0]LogCollectionManager: Loaded 0 collections in 0.000988 seconds
+[2022.12.01-19.27.48:145][  0]LogFileCache: Scanning file cache for directory 'D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Collections/' took 0.00s
+[2022.12.01-19.27.48:145][  0]LogFileCache: Scanning file cache for directory 'D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Content/Developers/PedroPolicello/Collections/' took 0.00s
+[2022.12.01-19.27.48:145][  0]LogFileCache: Scanning file cache for directory 'D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Content/Collections/' took 0.00s
+[2022.12.01-19.27.48:145][  0]LogOcInput: OculusInput pre-init called
+[2022.12.01-19.27.48:439][  0]LogEngine: Initializing Engine...
+[2022.12.01-19.27.48:512][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.01-19.27.48:512][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.01-19.27.48:512][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.01-19.27.48:514][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.01-19.27.48:673][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.01-19.27.48:685][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.01-19.27.48:686][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.01-19.27.48:690][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.01-19.27.48:691][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.01-19.27.48:692][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.01-19.27.48:692][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-19.27.48:692][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-19.27.48:692][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-19.27.48:692][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-19.27.48:692][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-19.27.48:692][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-19.27.48:705][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-19.27.48:705][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-19.27.48:723][  0]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2022.12.01-19.27.48:726][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-19.27.48:730][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-19.27.48:730][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-19.27.48:731][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-19.27.48:731][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-19.27.48:731][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-19.27.48:732][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-19.27.48:732][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-19.27.48:732][  0]LogInit: FAudioDevice initialized.
+[2022.12.01-19.27.48:733][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.01-19.27.48:733][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.01-19.27.48:851][  0]LogDerivedDataCache: Saved boot cache 0.12s 94MB C:/Users/Pedro Policello/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.01-19.27.48:851][  0]LogInit: Texture streaming: Enabled
+[2022.12.01-19.27.48:868][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.01-19.27.48:872][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.01-19.27.48:872][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.01-19.27.48:874][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.01-19.27.48:920][  0]LogInit: Transaction tracking system initialized
+[2022.12.01-19.27.48:948][  0]BlueprintLog: New page: Editor Load
+[2022.12.01-19.27.49:026][  0]LocalizationService: Localization service is disabled
+[2022.12.01-19.27.49:057][  0]TimingProfiler: Initialize
+[2022.12.01-19.27.49:057][  0]TimingProfiler: OnSessionChanged
+[2022.12.01-19.27.49:057][  0]LoadingProfiler: Initialize
+[2022.12.01-19.27.49:057][  0]LoadingProfiler: OnSessionChanged
+[2022.12.01-19.27.49:057][  0]NetworkingProfiler: Initialize
+[2022.12.01-19.27.49:058][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.01-19.27.49:058][  0]MemoryProfiler: Initialize
+[2022.12.01-19.27.49:058][  0]MemoryProfiler: OnSessionChanged
+[2022.12.01-19.27.49:250][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.01-19.27.49:251][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.01-19.27.49:492][  0]LogFileCache: Scanning file cache for directory 'D:/Pedro/Faculdade/GitHub/Ghost-House/GhostHouse/Content/' took 0.02s
+[2022.12.01-19.27.49:721][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.01-19.27.49:725][  0]SourceControl: Source control is disabled
+[2022.12.01-19.27.49:725][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.925
+[2022.12.01-19.27.49:725][  0]Cmd: MAP LOAD FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-19.27.49:732][  0]LightingResults: New page: Lighting Build
+[2022.12.01-19.27.49:733][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-19.27.49:733][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-19.27.49:734][  0]MapCheck: New page: Map Check
+[2022.12.01-19.27.49:734][  0]LightingResults: New page: Lighting Build
+[2022.12.01-19.27.49:740][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-19.27.49:744][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.01-19.27.50:492][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.12.01-19.27.50:493][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.12.01-19.27.50:505][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-19.27.50:518][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.01-19.27.50:518][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-19.27.50:518][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2022.12.01-19.27.50:518][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.794
+[2022.12.01-19.27.50:521][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.721
+[2022.12.01-19.27.50:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-19.27.50:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-19.27.50:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-19.27.50:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-19.27.50:730][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.01-19.27.50:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.01-19.27.50:730][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:730][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.01-19.27.50:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.12.01-19.27.50:740][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.01-19.27.50:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.01-19.27.50:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.01-19.27.50:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.12.01-19.27.50:747][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.01-19.27.50:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.01-19.27.50:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.01-19.27.50:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.12.01-19.27.50:754][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.01-19.27.50:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.01-19.27.50:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.01-19.27.50:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.12.01-19.27.50:761][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.01-19.27.50:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.01-19.27.50:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.01-19.27.50:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.12.01-19.27.50:768][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.01-19.27.50:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.01-19.27.50:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.01-19.27.50:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.12.01-19.27.50:775][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.01-19.27.50:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.01-19.27.50:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.01-19.27.50:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.12.01-19.27.50:782][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.01-19.27.50:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.01-19.27.50:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.01-19.27.50:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.12.01-19.27.50:790][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.01-19.27.50:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.01-19.27.50:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.01-19.27.50:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.12.01-19.27.50:797][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.01-19.27.50:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.01-19.27.50:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.01-19.27.50:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.12.01-19.27.50:804][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.01-19.27.50:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.01-19.27.50:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.01-19.27.50:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.12.01-19.27.50:811][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.01-19.27.50:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.01-19.27.50:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.01-19.27.50:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.12.01-19.27.50:818][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.01-19.27.50:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.01-19.27.50:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.01-19.27.50:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.12.01-19.27.50:825][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.01-19.27.50:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.01-19.27.50:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.01-19.27.50:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.01-19.27.50:832][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.01-19.27.50:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.01-19.27.50:832][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:832][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.01-19.27.50:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.01-19.27.50:839][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.01-19.27.50:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.01-19.27.50:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.01-19.27.50:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.12.01-19.27.50:846][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.01-19.27.50:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.01-19.27.50:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.01-19.27.50:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.12.01-19.27.50:854][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.01-19.27.50:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.01-19.27.50:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.01-19.27.50:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.12.01-19.27.50:861][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.01-19.27.50:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.01-19.27.50:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.01-19.27.50:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.12.01-19.27.50:873][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.01-19.27.50:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.01-19.27.50:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.01-19.27.50:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.12.01-19.27.50:880][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.01-19.27.50:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.01-19.27.50:880][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:881][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.01-19.27.50:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.12.01-19.27.50:888][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.01-19.27.50:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.01-19.27.50:888][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:888][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.01-19.27.50:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.12.01-19.27.50:895][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.01-19.27.50:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.01-19.27.50:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.01-19.27.50:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.12.01-19.27.50:902][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.01-19.27.50:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.01-19.27.50:902][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:902][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.01-19.27.50:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.01-19.27.50:909][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.01-19.27.50:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.01-19.27.50:909][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:909][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.01-19.27.50:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.12.01-19.27.50:916][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.01-19.27.50:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.01-19.27.50:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.01-19.27.50:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.01-19.27.50:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Pedro/Games/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.01-19.27.50:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.12.01-19.27.51:421][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.01-19.27.51:428][  0]LogSlate: Took 0.006299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.01-19.27.51:431][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.01-19.27.51:616][  0]LogRenderer: Reallocating scene render targets to support 1376x572 Format 10 NumSamples 1 (Frame:1).
+[2022.12.01-19.27.51:717][  0]LogLoad: (Engine Initialization) Total time: 10.92 seconds
+[2022.12.01-19.27.51:717][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.01-19.27.51:778][  0]LogAssetRegistry: Asset discovery search completed in 6.7310 seconds
+[2022.12.01-19.27.51:786][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.01-19.27.51:788][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.01-19.27.52:102][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0149 seconds. Added 3822 classes and 928 folders.
+[2022.12.01-19.27.52:412][  2]LogSlate: Took 0.006914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.01-19.27.53:074][  4]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.01-19.28.44:233][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.12.01-19.28.50:754][571]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.12.01-19.28.50:755][571]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.28.50:755][571]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.28.50:769][571]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.12.01-19.28.50:770][571]Cmd: MAP LOAD FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-19.28.50:770][571]LightingResults: New page: Lighting Build
+[2022.12.01-19.28.50:770][571]LoadErrors: New page: Loading map: BlocagemLevel.umap
+[2022.12.01-19.28.50:800][571]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-19.28.50:800][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-19.28.50:800][571]MapCheck: New page: Map Check
+[2022.12.01-19.28.50:800][571]LightingResults: New page: Lighting Build
+[2022.12.01-19.28.50:810][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-19.28.50:818][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.01-19.28.50:819][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'BlocagemLevel'.
+[2022.12.01-19.28.50:835][571]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.12.01-19.28.50:836][571]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.28.50:836][571]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.28.50:862][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-19.28.50:862][571]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.12.01-19.28.50:881][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.01-19.28.50:896][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-19.28.50:897][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2022.12.01-19.28.50:897][571]LogFileHelpers: Loading map 'BlocagemLevel' took 0.127
+[2022.12.01-19.29.57:487][395]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.12.01-19.29.57:493][395]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.12.01-19.30.03:933][798]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.01-19.30.15:717][294]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.01-19.30.15:727][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-19.30.15:727][294]PIE: New page: PIE session: BlocagemLevel (Dec 1, 2022, 1:30:15 PM)
+[2022.12.01-19.30.15:729][294]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.01-19.30.15:730][294]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.01-19.30.15:730][294]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.12.01-19.30.15:789][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058591s)
+[2022.12.01-19.30.15:790][294]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.12.01-19.30.15:790][294]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2022.12.01-19.30.15:790][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.060091s)
+[2022.12.01-19.30.15:798][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.01-19.30.15:800][294]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-19.30.15:800][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-19.30.15:800][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-19.30.15:800][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-19.30.15:800][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-19.30.15:800][294]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-19.30.15:805][294]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-19.30.15:805][294]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-19.30.15:815][294]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2022.12.01-19.30.15:815][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-19.30.15:815][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-19.30.15:815][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-19.30.15:816][294]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-19.30.15:816][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-19.30.15:816][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-19.30.15:817][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-19.30.15:817][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-19.30.15:817][294]LogInit: FAudioDevice initialized.
+[2022.12.01-19.30.15:817][294]LogAudio: Display: Audio Device (ID: 2) registered with world 'BlocagemLevel'.
+[2022.12.01-19.30.15:840][294]LogLoad: Game class is 'My_GameMode_C'
+[2022.12.01-19.30.15:854][294]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.12.01-19.30.15:854][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.12.01-19.30.15:855][294]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.15:855][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.12.01-19.30.15:855][294]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.15:855][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.12.01-19.30.15:856][294]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.12.01-16.30.15
+[2022.12.01-19.30.15:856][294]LogWorld: Bringing up level for play took: 0.015532
+[2022.12.01-19.30.15:856][294]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.12.01-19.30.15:861][294]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.12.01-19.30.15:864][294]PIE: Server logged in
+[2022.12.01-19.30.15:866][294]PIE: Play in editor total start time 0.14 seconds.
+[2022.12.01-19.30.15:887][294]LogAudio: Warning: Detected orphaned looping sound 'suspense_Hear_Beat'.
+[2022.12.01-19.30.15:887][294]LogAudio: Warning: Detected orphaned looping sound 'horrorMusic'.
+[2022.12.01-19.30.22:514][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-19.30.22:514][725]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.12.01-19.30.22:514][725]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-19.30.22:517][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-19.30.22:526][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-19.30.22:530][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-19.30.22:535][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-19.30.22:536][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-19.30.22:537][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-19.30.22:540][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-19.30.22:547][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.12.01-19.30.22:670][725]LogSlate: Took 0.009102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.01-19.30.22:675][726]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.01-19.30.23:939][782]LogSlate: Window 'Message Log' being destroyed
+[2022.12.01-19.30.23:964][782]LogSlate: Window 'Message Log' being destroyed
+[2022.12.01-19.30.25:327][853]LogEditorViewport: Clicking on Actor (LMB): Chave_1_C (Chave_1)
+[2022.12.01-19.30.31:361][157]LogEditorViewport: Clicking on Actor (LMB): Human_C (Human)
+[2022.12.01-19.30.32:991][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyModifications/Human.Human
+[2022.12.01-19.30.33:897][229]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.12.01-19.30.35:082][229]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:082][229]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:108][229]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:108][229]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:108][229]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.01-19.30.35:478][230]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:478][230]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:478][230]LogSlate: Took 0.005510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.01-19.30.35:526][232]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:526][232]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:538][233]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:539][233]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:550][234]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:550][234]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:562][235]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:562][235]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:574][236]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:574][236]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.35:587][237]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.35:587][237]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:460][257]BlueprintLog: New page: Compile Human
+[2022.12.01-19.30.59:539][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:539][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:590][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:590][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:591][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:591][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:593][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:593][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:684][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.12.01-19.30.59:699][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:699][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:700][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:700][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:748][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:749][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.30.59:749][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.30.59:749][257]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:064][258]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:064][258]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:078][259]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:078][259]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:091][260]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:091][260]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:101][261]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:101][261]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:111][262]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:111][262]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:120][263]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:120][263]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:129][264]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:129][264]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:138][265]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:138][265]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:631][312]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_3:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:631][312]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_3:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:656][312]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_4:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.00:656][312]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_4:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.00:672][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyModifications/Human" FILE="../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset" SILENT=true
+[2022.12.01-19.31.00:842][312]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/Human9A2C23D74AEA17AEB3753CA08E5DB63B.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Human.uasset'
+[2022.12.01-19.31.00:862][312]AssetCheck: New page: Asset Save: Human
+[2022.12.01-19.31.00:862][312]LogContentValidation: Display: Validating Blueprint /Game/MyModifications/Human.Human
+[2022.12.01-19.31.06:068][610]LogEditorViewport: Clicking on Actor (LMB): Caldeirao_Blueprint_C (Caldeirao_Blueprint)
+[2022.12.01-19.31.07:518][699]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.07:519][699]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.07:779][712]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.07:779][712]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.07:878][717]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.07:878][717]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.07:897][718]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.07:897][718]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.18:109][241]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.18:109][241]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.28:159][760]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.28:159][760]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.28:519][778]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.28:519][778]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.28:576][781]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:032B
+[2022.12.01-19.31.28:576][781]LogScript: Warning: Accessed None trying to read property owining
+	Human_anim_BP_C /Engine/Transient.World_2:PersistentLevel.Human_C_0.CharacterMesh0.Human_anim_BP_C_1
+	Function /Game/MyModifications/Personagem_Garoto/Human_anim_BP.Human_anim_BP_C:ExecuteUbergraph_Human_anim_BP:02F6
+[2022.12.01-19.31.34:708][137]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyModifications/Interface/Caldeirao_Blueprint.Caldeirao_Blueprint
+[2022.12.01-19.32.05:938][106]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Engine/Transient.World_8:PersistentLevel.Ghost_C_0.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.12.01-19.32.21:731][914]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.01-19.32.21:784][914]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.01-19.32.39:246][708]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> potesQuantidadesCaldeirao
+[2022.12.01-19.32.39:249][708]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.01-19.32.41:446][805]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyModifications/Interface/potesQuantidadesCaldeirao.potesQuantidadesCaldeirao
+[2022.12.01-19.33.50:310][551]BlueprintLog: New page: Compile potesQuantidadesCaldeirao
+[2022.12.01-19.33.50:407][551]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2022.12.01-19.33.51:013][578]LogSavePackage: Moving '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Saved/potesQuantidadesCaldeirao3BE474374005B841BE89D9BF234CBE21.tmp' to '../../../../../../Faculdade/GitHub/Ghost-House/GhostHouse/Content/MyModifications/Interface/potesQuantidadesCaldeirao.uasset'
+[2022.12.01-19.33.51:036][578]AssetCheck: New page: Asset Save: potesQuantidadesCaldeirao
+[2022.12.01-19.33.51:036][578]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyModifications/Interface/potesQuantidadesCaldeirao.potesQuantidadesCaldeirao
+[2022.12.01-19.34.25:294][459]BlueprintLog: New page: Compile potesQuantidadesCaldeirao
+[2022.12.01-19.34.25:355][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.12.01-19.36.08:255][798]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.01-19.36.08:265][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-19.36.08:266][798]PIE: New page: PIE session: BlocagemLevel (Dec 1, 2022, 1:36:08 PM)
+[2022.12.01-19.36.08:266][798]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.12.01-19.36.08:324][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058369s)
+[2022.12.01-19.36.08:325][798]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.12.01-19.36.08:326][798]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2022.12.01-19.36.08:326][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.059914s)
+[2022.12.01-19.36.08:364][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2022.12.01-19.36.08:370][798]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-19.36.08:370][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-19.36.08:370][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-19.36.08:370][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-19.36.08:370][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-19.36.08:370][798]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-19.36.08:374][798]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-19.36.08:374][798]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-19.36.08:385][798]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2022.12.01-19.36.08:386][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-19.36.08:386][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-19.36.08:386][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-19.36.08:386][798]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-19.36.08:386][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-19.36.08:386][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-19.36.08:387][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-19.36.08:387][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-19.36.08:388][798]LogInit: FAudioDevice initialized.
+[2022.12.01-19.36.08:388][798]LogAudio: Display: Audio Device (ID: 3) registered with world 'BlocagemLevel'.
+[2022.12.01-19.36.08:399][798]LogLoad: Game class is 'My_GameMode_C'
+[2022.12.01-19.36.08:412][798]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.12.01-19.36.08:412][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.12.01-19.36.08:413][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.12.01-19.36.08:413][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.12.01-19.36.08:414][798]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.12.01-16.36.08
+[2022.12.01-19.36.08:414][798]LogWorld: Bringing up level for play took: 0.014800
+[2022.12.01-19.36.08:414][798]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.12.01-19.36.08:419][798]PIE: Server logged in
+[2022.12.01-19.36.08:420][798]PIE: Play in editor total start time 0.156 seconds.
+[2022.12.01-19.36.08:434][798]LogAudio: Warning: Detected orphaned looping sound 'suspense_Hear_Beat'.
+[2022.12.01-19.36.08:435][798]LogAudio: Warning: Detected orphaned looping sound 'horrorMusic'.
+[2022.12.01-19.36.19:285][462]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.12.01-19.36.20:223][520]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.12.01-19.36.25:456][840]LogScript: Warning: Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill
+	Human_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Human_2
+	Function /Game/MyModifications/Human.Human_C:ExecuteUbergraph_Human:1485
+[2022.12.01-19.36.25:456][840]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.01-19.36.46:141][945]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:149][946]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:169][947]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:192][948]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:213][949]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:234][950]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:255][951]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:277][952]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:298][953]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:318][954]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:339][955]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:361][956]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:382][957]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:401][958]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:421][959]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:443][960]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:463][961]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:484][962]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:505][963]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:525][964]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:545][965]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:565][966]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:585][967]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:606][968]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:628][969]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:648][970]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:669][971]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:689][972]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:710][973]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:730][974]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:751][975]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:772][976]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:793][977]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:813][978]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:833][979]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:854][980]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:875][981]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:895][982]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:915][983]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:935][984]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:955][985]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:976][986]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.46:996][987]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:016][988]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:037][989]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:058][990]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:078][991]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:099][992]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:119][993]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:139][994]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:162][995]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:182][996]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:202][997]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:222][998]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:243][999]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:264][  0]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:284][  1]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:306][  2]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:327][  3]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:348][  4]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:368][  5]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:388][  6]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:409][  7]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:430][  8]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:450][  9]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:470][ 10]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:490][ 11]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:511][ 12]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:533][ 13]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:553][ 14]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:574][ 15]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:594][ 16]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:614][ 17]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:634][ 18]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:655][ 19]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:676][ 20]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:697][ 21]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:718][ 22]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:738][ 23]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:759][ 24]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:779][ 25]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:799][ 26]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:819][ 27]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:840][ 28]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:861][ 29]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:881][ 30]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:903][ 31]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:924][ 32]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:944][ 33]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:966][ 34]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.47:986][ 35]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.48:006][ 36]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.48:027][ 37]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.48:047][ 38]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.48:067][ 39]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.48:087][ 40]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:108][ 41]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:128][ 42]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:150][ 43]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:171][ 44]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:192][ 45]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:213][ 46]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:234][ 47]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:255][ 48]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:276][ 49]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:297][ 50]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:318][ 51]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:340][ 52]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:363][ 53]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:385][ 54]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:407][ 55]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:428][ 56]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:449][ 57]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:470][ 58]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:491][ 59]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:512][ 60]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:534][ 61]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:555][ 62]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:576][ 63]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:596][ 64]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:617][ 65]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:638][ 66]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:659][ 67]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:680][ 68]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:701][ 69]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:722][ 70]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:742][ 71]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:763][ 72]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:784][ 73]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:805][ 74]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:827][ 75]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:847][ 76]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:867][ 77]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:888][ 78]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:910][ 79]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:930][ 80]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:951][ 81]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:972][ 82]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.48:993][ 83]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:014][ 84]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:035][ 85]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:056][ 86]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:077][ 87]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:098][ 88]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:119][ 89]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:141][ 90]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:162][ 91]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:183][ 92]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:204][ 93]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:228][ 94]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:250][ 95]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:270][ 96]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:291][ 97]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:313][ 98]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:333][ 99]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:355][100]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:376][101]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:397][102]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:417][103]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:439][104]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:460][105]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:481][106]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:502][107]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:523][108]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:544][109]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:565][110]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:588][111]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:609][112]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:630][113]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:651][114]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:671][115]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:694][116]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:715][117]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:735][118]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:757][119]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:777][120]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:798][121]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:818][122]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:840][123]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:860][124]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:881][125]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:904][126]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:925][127]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:946][128]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:968][129]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.49:989][130]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:010][131]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:030][132]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:051][133]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:072][134]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:093][135]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:113][136]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:134][137]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:155][138]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:176][139]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:197][140]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:218][141]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:239][142]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:261][143]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:281][144]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:302][145]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:323][146]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:345][147]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:366][148]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:387][149]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:408][150]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:429][151]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:450][152]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:471][153]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:493][154]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:514][155]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:535][156]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:556][157]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:577][158]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:598][159]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:619][160]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:640][161]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.50:661][162]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.50:682][163]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.50:702][164]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.50:723][165]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.50:744][166]LogBlueprintUserMessages: [Push_component_BP] Collided with:Human
+[2022.12.01-19.36.50:765][167]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:785][168]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:806][169]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:827][170]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:848][171]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:868][172]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:890][173]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.36.50:911][174]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.01-19.37.52:658][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.01-19.37.55:661][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.01-19.37.58:661][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.01-19.38.03:664][ 50]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2022.12.01-19.38.08:664][ 50]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s) (00000000)
+[2022.12.01-19.38.13:664][ 50]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s) (00000000)
+[2022.12.01-19.38.18:663][ 50]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s) (00000000)
+[2022.12.01-19.38.23:664][ 50]LogD3D11RHI: GetQueryData is taking a very long time (25.0 s) (00000000)
+[2022.12.01-19.38.28:664][ 50]LogD3D11RHI: GetQueryData is taking a very long time (30.0 s) (00000000)
+[2022.12.01-19.38.28:664][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (30.0 s) (ErrorCode 00000001) (00000000)
+[2022.12.01-19.38.28:664][ 50]LogD3D11RHI: GPU has hung or crashed, checking status.
+[2022.12.01-19.38.28:777][ 50]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
+[2022.12.01-19.38.31:163][ 50]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.01-19.38.31:163][ 50]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: === Critical error: ===
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp] [Line: 902] 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: Rendering thread exception:
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: Assertion failed: GD3D11RHI->GetQueryData(Query->Resource, &Query->Result, sizeof(Query->Result), Query->QueryType, true, false) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp] [Line: 45] 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffe1531cd29 KERNELBASE.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbd060216 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbd064218 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbcd8242d UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbccd6a45 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbccd80a0 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffd797d473e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffd797e41bf UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbadde06e UE4Editor-RHI.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffd7f108f6d UE4Editor-Renderer.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffd7f10cd3c UE4Editor-Renderer.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbcae2398 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbcae27ce UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbaf99c67 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbafa2f34 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbd07ff0b UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffdbd077050 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffe17587034 KERNEL32.DLL!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: [Callstack] 0x00007ffe176c26a1 ntdll.dll!UnknownFunction []
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:165][ 50]LogWindows: Error: 
+[2022.12.01-19.38.31:208][ 50]LogExit: Executing StaticShutdownAfterError
+[2022.12.01-19.38.31:218][ 50]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.12.01-19.38.31:218][ 50]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.12.01-19.38.31:218][ 50]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.12.01-19.38.31:255][ 50]Log file closed, 12/01/22 16:38:31
