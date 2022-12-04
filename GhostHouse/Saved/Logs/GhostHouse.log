@@ -1820,3 +1820,363 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.04-19.48.35:404][218]LogSlate: Window 'Project Settings' being destroyed
 [2022.12.04-19.48.35:454][218]LogSlate: Window 'Project Settings' being destroyed
 [2022.12.04-19.48.37:278][266]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2022.12.04-19.50.40:610][776]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.04-20.00.55:894][422]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (porta_com_parede_Cube_003)
+[2022.12.04-20.00.56:986][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paredao145)
+[2022.12.04-20.01.10:281][895]LogEditorViewport: Clicking on Actor (LMB): Pote5_C (Pote7)
+[2022.12.04-20.01.58:309][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.12.04-20.01.59:009][ 66]LogSlate: Window 'Save Content' being destroyed
+[2022.12.04-20.01.59:117][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.04-20.01.59:350][ 66]LogSavePackage: Moving 'C:/Users/Yuri Benassi/OneDrive - Fundação São Paulo/PUC-SP/Unreal Projects/Ghost-House/GhostHouse/Saved/BlocagemLevel49C5D2494421C54FE8B7609EFDA3AE7A.tmp' to 'C:/Users/Yuri Benassi/OneDrive - Fundação São Paulo/PUC-SP/Unreal Projects/Ghost-House/GhostHouse/Content/MyModifications/Level/BlocagemLevel.umap'
+[2022.12.04-20.01.59:368][ 66]LogFileHelpers: Saving map 'BlocagemLevel' took 0.288
+[2022.12.04-20.01.59:390][ 66]AssetCheck: New page: Asset Save: BlocagemLevel
+[2022.12.04-20.01.59:390][ 66]LogContentValidation: Display: Validating World /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel
+[2022.12.04-20.01.59:884][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-20.01.59:893][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-20.01.59:893][ 79]PIE: New page: PIE session: BlocagemLevel (Dec 4, 2022, 2:01:59 PM)
+[2022.12.04-20.01.59:893][ 79]LogPlayLevel: Creating play world package: /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.12.04-20.01.59:938][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044283s)
+[2022.12.04-20.01.59:938][ 79]LogAIModule: Creating AISystem for world BlocagemLevel
+[2022.12.04-20.01.59:939][ 79]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2022.12.04-20.01.59:939][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyModifications/Level/BlocagemLevel.BlocagemLevel to /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel (0.045663s)
+[2022.12.04-20.01.59:958][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.04-20.01.59:960][ 79]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-20.01.59:960][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-20.01.59:960][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-20.01.59:960][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-20.01.59:960][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-20.01.59:960][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-20.01.59:966][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-20.01.59:966][ 79]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-20.01.59:976][ 79]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (HyperX Virtual Surround Sound)
+[2022.12.04-20.01.59:977][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-20.01.59:977][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-20.01.59:977][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-20.01.59:977][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-20.01.59:978][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-20.01.59:978][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-20.01.59:979][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-20.01.59:979][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-20.01.59:979][ 79]LogInit: FAudioDevice initialized.
+[2022.12.04-20.01.59:979][ 79]LogAudio: Display: Audio Device (ID: 9) registered with world 'BlocagemLevel'.
+[2022.12.04-20.01.59:985][ 79]LogLoad: Game class is 'My_GameMode_C'
+[2022.12.04-20.01.59:994][ 79]LogScript: Warning: Accessed None trying to read property owning
+	Ghost_anim_BP_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Ghost_2.CharacterMesh0.Ghost_anim_BP_C_0
+	Function /Game/MyModifications/Personagem_Fantasma/Animações/Ghost_anim_BP.Ghost_anim_BP_C:ExecuteUbergraph_Ghost_anim_BP:0296
+[2022.12.04-20.01.59:994][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owning". Blueprint:  Ghost_anim_BP Function:  Execute Ubergraph Ghost Anim BP Graph:  Transition Node:  Result
+[2022.12.04-20.01.59:995][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.12.04-20.01.59:995][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property owining". Blueprint:  Human_anim_BP Function:  Execute Ubergraph Human Anim BP Graph:  Transition Node:  Result
+[2022.12.04-20.01.59:996][ 79]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel up for play (max tick rate 0) at 2022.12.04-17.01.59
+[2022.12.04-20.01.59:996][ 79]LogWorld: Bringing up level for play took: 0.010657
+[2022.12.04-20.01.59:996][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.12.04-20.02.00:000][ 79]PIE: Server logged in
+[2022.12.04-20.02.00:001][ 79]PIE: Play in editor total start time 0.109 seconds.
+[2022.12.04-20.02.00:008][ 79]LogAudio: Warning: Detected orphaned looping sound 'suspense_Hear_Beat'.
+[2022.12.04-20.02.00:008][ 79]LogAudio: Warning: Detected orphaned looping sound 'horrorMusic'.
+[2022.12.04-20.02.07:507][387]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.08:085][411]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.13:509][636]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.16:879][775]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.16:880][775]LogScript: Warning: Attempted to access Chave_2 via property chave1, but Chave_2 is pending kill
+	Pote1_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote1_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0158
+[2022.12.04-20.02.16:880][775]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property chave1, but Chave_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.17:462][799]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.17:462][799]LogScript: Warning: Attempted to access Chave_2 via property chave1, but Chave_2 is pending kill
+	Pote1_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote1_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:065C
+[2022.12.04-20.02.17:462][799]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property chave1, but Chave_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.21:601][970]PIE: Error: Blueprint Runtime Error: "Attempted to access Chave_2 via property Chave1, but Chave_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.21:601][970]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote1_2 via property poteamarelo, but Pote1_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.31:443][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.31:443][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property poteamarelo". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.34:799][406]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.34:799][406]LogScript: Warning: Accessed None trying to read property chave1
+	Pote5_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote7_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0158
+[2022.12.04-20.02.34:799][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.34:799][406]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote5_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote7_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0249
+[2022.12.04-20.02.34:799][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.35:670][432]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.35:670][432]LogScript: Warning: Accessed None trying to read property chave1
+	Pote5_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote7_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:065C
+[2022.12.04-20.02.35:670][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.35:670][432]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote5_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote7_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:05E9
+[2022.12.04-20.02.35:670][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.02.39:782][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.39:782][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property poteamarelo". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.39:782][556]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property poteverde, but Pote7_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.43:141][656]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.43:141][656]LogScript: Warning: Accessed None trying to read property chave1
+	Pote4_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote5_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0158
+[2022.12.04-20.02.43:141][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.43:141][656]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote4_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote5_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0249
+[2022.12.04-20.02.43:141][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.43:141][656]LogScript: Warning: Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill
+	Pote4_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote5_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0111
+[2022.12.04-20.02.43:142][656]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.43:442][665]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.02.43:442][665]LogScript: Warning: Accessed None trying to read property chave1
+	Pote4_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote5_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:065C
+[2022.12.04-20.02.43:442][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.43:442][665]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote4_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote5_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:05E9
+[2022.12.04-20.02.43:442][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.02.43:442][665]LogScript: Warning: Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill
+	Pote4_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote5_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0386
+[2022.12.04-20.02.43:442][665]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.02.48:855][830]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.48:886][831]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.48:922][832]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.48:958][833]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.48:992][834]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:024][835]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:058][836]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:092][837]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:126][838]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:159][839]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:192][840]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:225][841]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:258][842]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:292][843]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:325][844]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:358][845]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:392][846]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:425][847]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:457][848]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:491][849]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:524][850]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:557][851]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:590][852]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:622][853]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:656][854]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:688][855]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:721][856]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:755][857]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:788][858]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:821][859]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:854][860]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:887][861]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:921][862]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:954][863]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.49:986][864]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:019][865]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:053][866]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:086][867]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:120][868]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:153][869]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:188][870]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:221][871]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:255][872]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:287][873]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:320][874]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:352][875]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:386][876]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:417][877]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:450][878]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:483][879]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:516][880]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:547][881]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:580][882]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:612][883]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:643][884]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:676][885]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:708][886]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:740][887]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:773][888]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:806][889]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:841][890]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:873][891]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:905][892]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:938][893]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.50:970][894]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:002][895]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:044][896]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:074][897]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:105][898]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:137][899]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:170][900]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:201][901]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:233][902]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:267][903]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:297][904]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:331][905]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:363][906]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:394][907]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:426][908]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:457][909]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:489][910]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:521][911]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:553][912]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:585][913]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:618][914]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:650][915]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:681][916]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:712][917]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:744][918]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:776][919]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:810][920]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:841][921]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:872][922]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:905][923]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:936][924]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.51:968][925]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.52:000][926]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.52:031][927]LogBlueprintUserMessages: [Push_component_BP] Collided with:
+[2022.12.04-20.02.57:753][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.57:753][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property poteamarelo". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.57:753][128]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote5_3 via property potevermelho, but Pote5_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.02.57:753][128]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property poteverde, but Pote7_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.01:110][248]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.03.01:110][248]LogScript: Warning: Accessed None trying to read property chave1
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0158
+[2022.12.04-20.03.01:110][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.01:110][248]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0249
+[2022.12.04-20.03.01:110][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.01:111][248]LogScript: Warning: Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:031E
+[2022.12.04-20.03.01:111][248]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.01:111][248]LogScript: Warning: Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0111
+[2022.12.04-20.03.01:111][248]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.02:301][291]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.03.02:301][291]LogScript: Warning: Accessed None trying to read property chave1
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:065C
+[2022.12.04-20.03.02:301][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.02:301][291]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:05E9
+[2022.12.04-20.03.02:301][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.03.02:302][291]LogScript: Warning: Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:03D0
+[2022.12.04-20.03.02:302][291]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.03.02:302][291]LogScript: Warning: Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill
+	Pote2_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote6_2
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0386
+[2022.12.04-20.03.02:302][291]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.03.16:213][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.16:213][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property poteamarelo". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.16:213][780]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote6_2 via property poteazul, but Pote6_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.16:213][780]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote5_3 via property potevermelho, but Pote5_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.16:213][780]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property poteverde, but Pote7_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.19:573][913]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.03.19:573][913]LogScript: Warning: Accessed None trying to read property chave1
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0158
+[2022.12.04-20.03.19:574][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.19:574][913]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0249
+[2022.12.04-20.03.19:574][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.19:574][913]LogScript: Warning: Attempted to access Pote6_2 via property pote azul, but Pote6_2 is pending kill
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0290
+[2022.12.04-20.03.19:574][913]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote6_2 via property pote azul, but Pote6_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.19:574][913]LogScript: Warning: Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:031E
+[2022.12.04-20.03.19:574][913]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.19:574][913]LogScript: Warning: Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0111
+[2022.12.04-20.03.19:574][913]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.20:222][939]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.12.04-20.03.20:222][939]LogScript: Warning: Accessed None trying to read property chave1
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:065C
+[2022.12.04-20.03.20:222][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chave1". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.20:222][939]LogScript: Warning: Accessed None trying to read property pote amarelo
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:05E9
+[2022.12.04-20.03.20:222][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property pote amarelo". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.03.20:222][939]LogScript: Warning: Attempted to access Pote6_2 via property pote azul, but Pote6_2 is pending kill
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0464
+[2022.12.04-20.03.20:222][939]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote6_2 via property pote azul, but Pote6_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.03.20:223][939]LogScript: Warning: Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:03D0
+[2022.12.04-20.03.20:223][939]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote5_3 via property pote vermelho, but Pote5_3 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.03.20:223][939]LogScript: Warning: Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill
+	Pote3_C /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel.BlocagemLevel:PersistentLevel.Pote4_3
+	Function /Game/MyModifications/Interface/MasterItem.MasterItem_C:ExecuteUbergraph_MasterItem:0386
+[2022.12.04-20.03.20:223][939]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property pote verde, but Pote7_2 is pending kill". Blueprint:  MasterItem Function:  Execute Ubergraph Master Item Graph:  EventGraph Node:  DestroyActor
+[2022.12.04-20.03.25:700][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chave1". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.25:700][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property poteamarelo". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.25:700][149]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote6_2 via property poteazul, but Pote6_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.25:700][149]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote4_3 via property potebranco, but Pote4_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.25:700][149]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote5_3 via property potevermelho, but Pote5_3 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.25:700][149]PIE: Error: Blueprint Runtime Error: "Attempted to access Pote7_2 via property poteverde, but Pote7_2 is pending kill". Blueprint:  Human Function:  Execute Ubergraph Human Graph:  EventGraph Node:  Branch
+[2022.12.04-20.03.25:719][150]LogNet: Browse: /Game/MyModifications/Level/CréditosLevel
+[2022.12.04-20.03.25:724][150]LogLoad: LoadMap: /Game/MyModifications/Level/CréditosLevel
+[2022.12.04-20.03.25:724][150]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_BlocagemLevel
+[2022.12.04-20.03.25:738][150]LogWorld: UWorld::CleanupWorld for BlocagemLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.03.25:739][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.03.25:804][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-20.03.25:808][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.04-20.03.25:883][150]LogAudio: Display: Audio Device (ID: 9) registered with world 'CréditosLevel'.
+[2022.12.04-20.03.25:883][150]LogAIModule: Creating AISystem for world CréditosLevel
+[2022.12.04-20.03.25:884][150]LogLoad: Game class is 'My_GameMode_C'
+[2022.12.04-20.03.25:890][150]LogWorld: Bringing World /Game/MyModifications/Level/UEDPIE_0_CréditosLevel.CréditosLevel up for play (max tick rate 0) at 2022.12.04-17.03.25
+[2022.12.04-20.03.25:890][150]LogWorld: Bringing up level for play took: 0.005322
+[2022.12.04-20.03.25:890][150]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.04-20.03.25:981][150]LogLoad: Took 0.244597 seconds to LoadMap(/Game/MyModifications/Level/CréditosLevel)
+[2022.12.04-20.03.35:250][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-20.03.35:250][220]LogWorld: BeginTearingDown for /Game/MyModifications/Level/UEDPIE_0_CréditosLevel
+[2022.12.04-20.03.35:250][220]LogWorld: UWorld::CleanupWorld for CréditosLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.03.35:250][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.03.35:262][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-20.03.35:278][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.03.35:294][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-20.03.35:294][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-20.03.35:295][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-20.03.35:301][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.12.04-20.03.35:449][221]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.12.04-20.03.36:700][260]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-20.03.36:761][260]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-20.04.01:153][957]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyModifications/Level/Créditos/WB_Créditos.WB_Créditos
+[2022.12.04-20.04.09:491][201]LogSlate: Window 'WB_Créditos' being destroyed
+[2022.12.04-20.04.09:555][201]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.04.09:555][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.04.09:564][201]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.04.09:564][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.04.11:688][265]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/MyModifications/Level/Créditos/MP_Créditos.MP_Créditos
+[2022.12.04-20.04.11:776][265]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 96EBC545A53C2C0052121BC374350BB4871BC034), compiling. 
+[2022.12.04-20.04.12:380][265]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2022.12.04-20.04.12:493][266]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2022.12.04-20.04.12:507][269]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2022.12.04-20.04.12:507][269]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.12.04-20.04.12:507][269]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-20.04.16:294][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.12.04-20.04.16:926][591]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-20.04.16:926][591]LogShaderCompilers: Display: Total job queries 19, among them cache hits 0 (0.00%)
+[2022.12.04-20.04.16:926][591]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2022.12.04-20.04.16:926][591]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.04-20.04.16:926][591]LogShaderCompilers: Display: ================================================
+[2022.12.04-20.04.23:109][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
